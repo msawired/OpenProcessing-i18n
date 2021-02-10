@@ -1,0 +1,24 @@
+{
+	"sketch": {
+		"Sketch": {
+			"description": "Code Options > tab", 
+			"en": "Sketch",
+			"jp": "スケッチ"
+		},
+		"Files": {
+			"description": "Code Options > tab", 
+			"en": "Files",
+			"jp": "ファイル"
+		},
+		"Editor": {
+			"description": "Code Options > tab", 
+			"en": "Editor",
+			"jp": "コードエディタ"
+		},
+		"Mode": {
+			"description": "Code Options > Sketch", 
+			"en": "Mode",
+			"jp": "モード"
+		}
+	}
+}
