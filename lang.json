@@ -93,7 +93,7 @@
 		},
 		"loopProtectDescription": {
 			"description": "Code Options > sketch",
-			"en": "Prevents infinite loops that may freeze the sketch.",
+			"en": "Prevents loops that may freeze the sketch.",
 			"ja": "モード"
 		}
 	},
