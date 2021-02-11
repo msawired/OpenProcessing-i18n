@@ -1,24 +1,108 @@
 {
+	"languages": {
+		"en": "English",
+		"ja": "Japanese"
+	},
+	"general": {
+		"learnMore": {
+			"description": "Used in links such as in code setting descriptions",
+			"en": "Learn more",
+			"ja": "もっと詳しく知る"
+		}
+	},
 	"sketch": {
-		"Sketch": {
-			"description": "Code Options > tab", 
+		"sketch": {
+			"description": "Code Options > tab",
 			"en": "Sketch",
-			"jp": "スケッチ"
+			"ja": "スケッチ"
 		},
-		"Files": {
-			"description": "Code Options > tab", 
+		"files": {
+			"description": "Code Options > tab",
 			"en": "Files",
-			"jp": "ファイル"
+			"ja": "ファイル"
 		},
-		"Editor": {
-			"description": "Code Options > tab", 
+		"editor": {
+			"description": "Code Options > tab",
 			"en": "Editor",
-			"jp": "コードエディタ"
+			"ja": "コードエディタ"
 		},
-		"Mode": {
-			"description": "Code Options > Sketch", 
+		"mode": {
+			"description": "Code Options > Sketch",
 			"en": "Mode",
-			"jp": "モード"
+			"ja": "モード"
+		},
+		"pjsDeprecated": {
+			"description": "Shows when user selects pjs mode",
+			"en": "Processingjs is deprecated.",
+			"ja": "モード"
+		},
+		"tutorialMode": {
+			"description": "Code Options > sketch > label",
+			"en": "Tutorial Mode",
+			"ja": "モード"
+		},
+		"tutorialModeDescription": {
+			"description": "Code Options > sketch > label",
+			"en": "Write step-by-step tutorials.",
+			"ja": "モード"
+		},
+		"liveCollaboration": {
+			"description": "Code Options > sketch > label",
+			"en": "Live Collaboration",
+			"ja": "モード"
+		},
+		"liveCollaborationDescription-tutorial": {
+			"description": "Shows when tutorial is enabled",
+			"en": "Live Collaboration is not supported on tutorials.",
+			"ja": "モード"
+		},
+		"liveCollaborationDescription-singleTab": {
+			"description": "Shows when sketch has multiple tabs",
+			"en": "Live Collaboration is only supported on sketches with single tab.",
+			"ja": "モード"
+		},
+		"liveCollaborationDescription-save": {
+			"description": "Shows when it is a new sketch (not saved)",
+			"en": "Please save your sketch to enable.",
+			"ja": "モード"
+		},
+		"liveCollaborationDescription-shareURL": {
+			"description": "Shows when enabled",
+			"en": "Share the URL with your class to code together.",
+			"ja": "モード"
+		},
+		"liveCollaborationDescription-default": {
+			"description": "Shows when it can be enabled",
+			"en": "Invite your class to code together.",
+			"ja": "モード"
+		},
+		"showcaseSketch": {
+			"description": "Code Options > sketch",
+			"en": "Showcase Sketch",
+			"ja": "モード"
+		},
+		"showcaseSketchDescription": {
+			"description": "Code Options > sketch",
+			"en": "Centers sketch and matches the background color.",
+			"ja": "モード"
+		},
+		"loopProtect": {
+			"description": "Code Options > sketch",
+			"en": "Loop Protection",
+			"ja": "モード"
+		},
+		"loopProtectDescription": {
+			"description": "Code Options > sketch",
+			"en": "Prevents infinite loops that may freeze the sketch.",
+			"ja": "モード"
+		}
+	},
+	"user": {
+		"sketches": {
+			"implemented": false,
+			"description": "Tab",
+			"en": "Sketches",
+			"ja": "モード"
 		}
 	}
 }
