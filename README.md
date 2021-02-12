@@ -26,8 +26,8 @@ To contribute,
 - Make your changes and additions.
 - Test it live by going to the related page on *beta.openprocessing.org* and run the code below in native browser console to use your own branch. This will load lang.json from your own branch. 
 ```
-	//format: OP.setLanguage([language],[branch title]);
-	OP.setLanguage('ja','my-branch')
+	//format: OP.loadLanguage([language],[branch title]);
+	OP.loadLanguage('ja','my-branch')
 ```
 - If things look right, make a pull request. Your changes will be reviewed by language maintainers and will be merged if approved.
 
