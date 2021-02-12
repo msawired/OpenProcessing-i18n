@@ -8,6 +8,41 @@
 			"description": "Used in links such as in code setting descriptions",
 			"en": "Learn more",
 			"ja": "もっと詳しく知る"
+		},
+		"by": {
+			"description": "Used in phrases like '[Sketch Title] by [User name]'",
+			"en": "by",
+			"ja": "本"
+		},
+		"saveAsFork": {
+			"description": "navigation - when sketch is changed",
+			"en": "Save as Fork",
+			"ja": "スケッチ"
+		},
+		"save": {
+			"description": "navigation - when sketch is changed",
+			"en": "Save",
+			"ja": "スケッチ"
+		},
+		"saved": {
+			"description": "navigation - when sketch is saved",
+			"en": "Saved",
+			"ja": "スケッチ"
+		},
+		"saving": {
+			"description": "navigation - when sketch is saving",
+			"en": "Saving…",
+			"ja": "スケッチ…"
+		},
+		"edit": {
+			"description": "navigation - when info panel is selected",
+			"en": "Edit",
+			"ja": "スケッチ"
+		},
+		"submit": {
+			"description": "navigation - when edit panel is selected",
+			"en": "Submit",
+			"ja": "スケッチ"
 		}
 	},
 	"sketch": {
@@ -31,10 +66,20 @@
 			"en": "Mode",
 			"ja": "モード"
 		},
-		"pjsDeprecated": {
+		"mode-HTMLCSS": {
+			"description": "Shows when user selects pjs mode",
+			"en": "Write HTML, CSS, and JS as you wish.",
+			"ja": "HTMLCSS モード"
+		},
+		"mode-pjs": {
 			"description": "Shows when user selects pjs mode",
 			"en": "Processingjs is deprecated.",
-			"ja": "モード"
+			"ja": "Processingjs モード"
+		},
+		"mode-applet": {
+			"description": "Shows when user selects an legacy Applet mode",
+			"en": "Java doesn't work in browsers anymore.",
+			"ja": "Java モード"
 		},
 		"tutorialMode": {
 			"description": "Code Options > sketch > label",
@@ -94,6 +139,31 @@
 		"loopProtectDescription": {
 			"description": "Code Options > sketch",
 			"en": "Prevents infinite loops that may freeze the sketch.",
+			"ja": "モード"
+		},
+		"libraries": {
+			"description": "Code Options > sketch",
+			"en": "Libraries",
+			"ja": "モード"
+		},
+		"showAll": {
+			"description": "Code Options > sketch > libraries",
+			"en": "Show All",
+			"ja": "モード"
+		},
+		"showLess": {
+			"description": "Code Options > sketch > libraries",
+			"en": "Show Less",
+			"ja": "モード"
+		},
+		"addCustomLibrary": {
+			"description": "Code Options > sketch > libraries",
+			"en": "Add Custom Library",
+			"ja": "モード"
+		},
+		"pasteURL": {
+			"description": "text input placeholder when adding a custom library",
+			"en": "Paste URL or file name",
 			"ja": "モード"
 		}
 	},

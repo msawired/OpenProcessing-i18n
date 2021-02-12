@@ -8,6 +8,7 @@ This project includes OpenProcessing translation and internationalization files.
 Users can change their preferred language under user profile settings. The website loads and uses lang.json file to look up translations of phrases used on the website. Default language is English (en). 
 
 ## How to Contribute
+You can contribute by adding your own language, or making updates to existing ones. Please email info@openprocessing.org to join as a contributor to this project.
 All the phrases from the website are being added to lang.json. You can follow this repo to get any updates on the master branch.
 To contribute,
 - Create a branch first.
