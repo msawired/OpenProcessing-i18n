@@ -40,9 +40,57 @@
 			"ja": "スケッチ"
 		},
 		"submit": {
-			"description": "navigation - when edit panel is selected",
+			"description": "form submission button",
 			"en": "Submit",
 			"ja": "スケッチ"
+		},
+		"signin": {
+			"description": "link label for sign in page",
+			"en": "Sign in",
+			"ja": "スケッチ"
+		},
+		"signout": {
+			"description": "link label for sign out page",
+			"en": "Sign out",
+			"ja": "スケッチ"
+		},
+		"join": {
+			"description": "link label asking users to join the website",
+			"en": "Join",
+			"ja": "スケッチ"
+		},
+		"joinPlus": {
+			"description": "link label asking users to join the Plus+ Membership",
+			"en": "Join Plus+",
+			"ja": "スケッチ Plus+"
+		}
+
+	},
+	"navigation": {
+		"search": {
+			"description": "Placeholder text when search icon is clicked",
+			"en": "Search",
+			"ja": "探す"
+		},
+		"discover": {
+			"description": "navigation item",
+			"en": "Discover",
+			"ja": "発見する"
+		},
+		"learn": {
+			"description": "navigation item",
+			"en": "Learn",
+			"ja": "学ぶ"
+		},
+		"teach": {
+			"description": "navigation item",
+			"en": "Teach",
+			"ja": "教える"
+		},
+		"createSketch": {
+			"description": "navigation button",
+			"en": "Create a Sketch",
+			"ja": "スケッチを作成する"
 		}
 	},
 	"sketch": {
@@ -165,14 +213,193 @@
 			"description": "text input placeholder when adding a custom library",
 			"en": "Paste URL or file name",
 			"ja": "モード"
+		},
+		"saveToUpload": {
+			"description": "code settings > files",
+			"en": "Save or fork the sketch to upload files.",
+			"ja": "モード"
+		},
+		"textSize": {
+			"description": "code settings > editor",
+			"en": "Text Size",
+			"ja": "モード"
+		},
+		"layout": {
+			"description": "code settings > editor",
+			"en": "Layout",
+			"ja": "モード"
+		},
+		"layoutDescription": {
+			"description": "code settings > editor",
+			"en": "This will be the default layout for your sketches",
+			"ja": "モード"
+		},
+		"console": {
+			"description": "code settings > editor",
+			"en": "Console",
+			"ja": "モード"
+		},
+		"consoleDescription": {
+			"description": "code settings > editor",
+			"en": "It will show up when there is an error or print() in code",
+			"ja": "モード"
+		},
+		"linting": {
+			"description": "code settings > editor",
+			"en": "Linting",
+			"ja": "モード"
+		},
+		"lintingDescription": {
+			"description": "code settings > editor",
+			"en": "Potential warnings will be displayed as you type",
+			"ja": "モード"
+		},
+		"lintingDescription-p5js": {
+			"description": "code settings > editor. Shows when sketch is not p5js.",
+			"en": "Disabled: Only available on p5js sketches.",
+			"ja": "モード"
+		},
+		"shortcuts": {
+			"description": "code settings > editor",
+			"en": "Shortcuts",
+			"ja": "モード"
+		},
+		"seeMoreShortcuts": {
+			"description": "code settings > editor",
+			"en": "Shortcuts",
+			"ja": "モード"
+		},
+		"versionsSummarized": {
+			"description": "code settings > versions. Displayed when sketch has more than 20 versions.",
+			"en": "Prior to most recent 20 versions are summarized.",
+			"ja": "モード"
+		},
+		"plusPromo": {
+			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
+			"en": "{0} to add custom libraries, private sketches, and more!",
+			"ja": "{0} モード"
 		}
 	},
 	"user": {
-		"sketches": {
-			"implemented": false,
-			"description": "Tab",
-			"en": "Sketches",
+		"name": {
+			"description": "Edit Profile label",
+			"en": "name",
 			"ja": "モード"
-		}
+		},
+		"location": {
+			"description": "Edit Profile > label",
+			"en": "location",
+			"ja": "モード"
+		},
+		"website": {
+			"description": "Edit Profile > label",
+			"en": "website",
+			"ja": "モード"
+		},
+		"email": {
+			"description": "Edit Profile > label",
+			"en": "email",
+			"ja": "モード"
+		},
+		"password": {
+			"description": "Edit Profile > label",
+			"en": "password",
+			"ja": "モード"
+		},
+		"clickToChange": {
+			"description": "Edit Profile > password change link",
+			"en": "Click to Change",
+			"ja": "モード"
+		},
+		"language": {
+			"description": "Edit Profile > label",
+			"en": "Language",
+			"ja": "モード"
+		},
+		"learnMoreAbout": {
+			"description": "Edit Profile > language description",
+			"en": "Beta: Learn more about",
+			"ja": "モード"
+		},
+		"multilanguageSupport": {
+			"description": "Edit Profile > language description",
+			"en": "multi-language support",
+			"ja": "モード"
+		},
+		"membership": {
+			"description": "Edit Profile > label",
+			"en": "{membershipType} membership",
+			"ja": "{membershipType} モード"
+		},
+		"membershipDescription": {
+			"description": "Edit Profile > label. Should use variable {membershipType} instead of 'Plus+'",
+			"en": "Make changes or cancel your {membershipType} Membership",
+			"ja": "モード {membershipType} モード"
+		},
+		"notifications": {
+			"description": "Edit Profile > label",
+			"en": "Notifications",
+			"ja": "モードモ"
+		},
+		"notificationsDescription": {
+			"description": "Edit Profile > label",
+			"en": "Select when to receive email notifications",
+			"ja": "モードモードモードモード"
+		},
+		"deleteAccount": {
+			"description": "Edit Profile > label",
+			"en": "Delete Account",
+			"ja": "モード"
+		},
+		"deleteAccountDescription": {
+			"description": "Edit Profile > label",
+			"en": "Just like you'd shoot it with lasers",
+			"ja": "モード"
+		},
+		"from": {
+			"description": "user bio",
+			"en": "from",
+			"ja": "モード"
+		},
+		"editProfile": {
+			"description": "user bio",
+			"en": "Edit Profile",
+			"ja": "モード"
+		},
+		"activity": {
+			"description": "Tab",
+			"en": "Activity",
+			"ja": "モード"
+		},
+		"sketches": {
+			"description": "Tab",
+			"en": "0 Sketches | 1 Sketch | {n} Sketches",
+			"ja": "0 モード | 1 モード | {n} モード"
+		},
+		"classes": {
+			"description": "Tab",
+			"en": "0 Classes | 1 Class | {n} Classes",
+			"ja": "0 モード | 1 モード | {n} モード"
+		},
+		"curations": {
+			"description": "Tab",
+			"en": "0 Curations | 1 Curation | {n} Curations",
+			"ja": "0 モード | 1 モード | {n} モード"
+		},
+		"hearts": {
+			"description": "Tab. Due to copyrights, this phrase should not be anything close to 'like'. Please stick to 'hearts' as in 'you have a place in my heart'",
+			"en": "0 Hearts | 1 Heart | {n} Hearts",
+			"ja": "0 モード | 1 モード | {n} モード"
+		},
+		"followers": {
+			"description": "Tab",
+			"en": "0 Followers | 1 Follower |{n} Followers",
+			"ja": "0 モード | 1 モード | {n} モード"
+		},
+		"following": {
+			"description": "Tab",
+			"en": "{n} Following",
+			"ja": "モード"
+		},
 	}
 }
