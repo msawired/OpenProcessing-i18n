@@ -7,9 +7,11 @@ Languages supported at the moment are English and Japanese.
 Pages available for translation: 
 - Sketch (80%)
 - User (50%)
-- Navigation (100%)
+- Navigation (80%)
 
-At the moment, numbers, dates are *not* translated or localized.
+At the moment:
+- Localization is only available on [beta.openprocessing.org](https://beta.openprocessing.org) until caching issues are resolved for the production environment.
+- Numbers, dates are *not* localized.
 
 ## Rules of Conduct
 [To be defined]
@@ -23,8 +25,8 @@ All the phrases from the website are being added to lang.json. You can follow th
 To contribute,
 - Reach out to info@openprocessing.org to join this repo as a collaborator.
 - Create a branch to make your changes.
-- Make your changes and additions.
-- Test it live by going to the related page on *beta.openprocessing.org* and run the code below in native browser console to use your own branch. This will load lang.json from your own branch. 
+- Make your changes and additions. Also, look for any *null* values (eg. 'fr': null). These are new phrases that need translation.
+- Test it live by going to the related page on [beta.openprocessing.org](https://beta.openprocessing.org) and run the code below in native browser console. This will load lang.json from your own branch. 
 ```
 	//format: OP.loadLanguage([language],[branch title]);
 	OP.loadLanguage('ja','my-branch')
