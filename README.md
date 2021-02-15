@@ -28,8 +28,10 @@ To contribute,
 - Make your changes and additions. Also, look for any *null* values (eg. 'fr': null). These are new phrases that need translation.
 - Test it live by going to the related page on [beta.openprocessing.org](https://beta.openprocessing.org) and run the code below in native browser console. This will load lang.json from your own branch. 
 ```
-	//format: OP.loadLanguage([language],[branch title]);
-	OP.loadLanguage('ja','my-branch')
+	//format: OP.loadLanguage([language],[branch title],[github username]);
+	OP.loadLanguage('ja'); //loads Japanese from msawired/OpenProcessing-i18n/lang.json 'master' branch
+	OP.loadLanguage('ja','my-branch') //loads Japanese from msawired/OpenProcessing-i18n/lang.json 'my-branch' branch
+	OP.loadLanguage('ja','my-branch', 'user') //loads Japanese from [user]/OpenProcessing-i18n/lang.json 'my-branch' branch
 ```
 - If things look right, make a pull request. Your changes will be reviewed by language maintainers and will be merged if approved.
 
@@ -41,7 +43,9 @@ This file contains the phrases used on the website, grouped by sections, in the 
 		"implemented": false, //if website support not implemented yet.
 		"description": "Tab", 
 		"en": "Sketches",
-		"ja": "モード"
+		"ja": "モード",
+		"pt": "Esboços",
+		...
 	}
 }
 ```
