@@ -144,13 +144,13 @@
 		"mode-pjs": {
 			"description": "Shows when user selects pjs mode",
 			"en": "Processingjs is deprecated.",
-			"ja": "Processingjsモードは非推奨です。",
+			"ja": "Processingjsモードは非推奨です",
 			"pt": "Processingjs foi descontinuado."
 		},
 		"mode-applet": {
 			"description": "Shows when user selects an legacy Applet mode",
 			"en": "Java doesn't work in browsers anymore.",
-			"ja": "Javaモードはブラウザでは動作しません。",
+			"ja": "Javaモードはブラウザでは動作しません",
 			"pt": "Java não funciona mais em navegadores."
 		},
 		"tutorialMode": {
@@ -162,7 +162,7 @@
 		"tutorialModeDescription": {
 			"description": "Code Options > sketch > label",
 			"en": "Write step-by-step tutorials.",
-			"ja": "チュートリアルを書きましょう。",
+			"ja": "チュートリアル記事を書く",
 			"pt": "Escreva tutoriais passo-a-passo."
 		},
 		"liveCollaboration": {
@@ -174,31 +174,31 @@
 		"liveCollaborationDescription-tutorial": {
 			"description": "Shows when tutorial is enabled",
 			"en": "Live Collaboration is not supported on tutorials.",
-			"ja": "ライブコラボレーションはチュートリアルに対応していません。",
+			"ja": "ライブコラボレーションはチュートリアルに対応していません",
 			"pt": "Colaboração Ao Vivo não é suportado em tutoriais."
 		},
 		"liveCollaborationDescription-singleTab": {
 			"description": "Shows when sketch has multiple tabs",
 			"en": "Live Collaboration is only supported on sketches with single tab.",
-			"ja": "ライブコラボレーションはタブが1つのスケッチのみ対応しています。",
+			"ja": "ライブコラボレーションはタブが1つのスケッチのみ対応しています",
 			"pt": "Colaboração Ao Vivo é suportado apenas em esboços com abas únicas."
 		},
 		"liveCollaborationDescription-save": {
 			"description": "Shows when it is a new sketch (not saved)",
 			"en": "Please save your sketch to enable.",
-			"ja": "スケッチを保存してください。",
+			"ja": "スケッチを保存してください",
 			"pt": "Por favor, salve o esboço para habilitar."
 		},
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
 			"en": "Share the URL with your class to code together.",
-			"ja": "コードを共有するためにクラスにURLをシェアしましょう。",
+			"ja": "コーディングを楽しむためにクラスにURLをシェアしましょう",
 			"pt": "Compartilhe a URL da sua aula com o código junto."
 		},
 		"liveCollaborationDescription-default": {
 			"description": "Shows when it can be enabled",
 			"en": "Invite your class to code together.",
-			"ja": "コーディングを楽しむためにクラスに招待しましょう。",
+			"ja": "コーディングを楽しむためにクラスに招待しましょう",
 			"pt": "Convide sua turma para programar juntos."
 		},
 		"showcaseSketch": {
@@ -210,7 +210,7 @@
 		"showcaseSketchDescription": {
 			"description": "Code Options > sketch",
 			"en": "Centers sketch and matches the background color.",
-			"ja": "スケッチを中央に配置して背景色を同化させる。",
+			"ja": "スケッチを中央に配置して背景色を同じ色にする",
 			"pt": "Centralizar esboço e corresponder a cor de fundo."
 		},
 		"loopProtect": {
@@ -222,7 +222,7 @@
 		"loopProtectDescription": {
 			"description": "Code Options > sketch",
 			"en": "Prevents infinite loops that may freeze the sketch.",
-			"ja": "スケッチのフリーズを引き起こす無限ループを防止する。",
+			"ja": "スケッチのフリーズを引き起こす無限ループを防止する",
 			"pt": "Previne lanços infinitos que podem congelar seu esboço."
 		},
 		"libraries": {
@@ -252,13 +252,13 @@
 		"pasteURL": {
 			"description": "text input placeholder when adding a custom library",
 			"en": "Paste URL or file name",
-			"ja": "URLもしくはファイル名を入力してください。",
+			"ja": "URLもしくはファイル名を入力してください",
 			"pt": "Colar URL ou nome do arquivo"
 		},
 		"saveToUpload": {
 			"description": "code settings > files",
 			"en": "Save or fork the sketch to upload files.",
-			"ja": "ファイルをアップロードするにはスケッチを保存するかフォークしてください。",
+			"ja": "ファイルをアップロードするにはスケッチを保存するかフォークしてください",
 			"pt": "Salve ou bifurque seu esboço para enviar arquivos."
 		},
 		"textSize": {
@@ -276,7 +276,7 @@
 		"layoutDescription": {
 			"description": "code settings > editor",
 			"en": "This will be the default layout for your sketches",
-			"ja": "デフォルトのレイアウトです。",
+			"ja": "デフォルトのレイアウト",
 			"pt": "Este será a visualização padrão para seus esboços"
 		},
 		"console": {
@@ -288,7 +288,7 @@
 		"consoleDescription": {
 			"description": "code settings > editor",
 			"en": "It will show up when there is an error or print() in code",
-			"ja": "",
+			"ja": "コード中のエラーやprint()を表示する",
 			"pt": "Será exibido quando houver um erro ou print() no código"
 		},
 		"linting": {
@@ -300,13 +300,13 @@
 		"lintingDescription": {
 			"description": "code settings > editor",
 			"en": "Potential warnings will be displayed as you type",
-			"ja": "入力時のエラーや警告を表示する。",
+			"ja": "入力時のエラーや警告を表示する",
 			"pt": "Avisos em potencial serão exibidos conforme você digita"
 		},
 		"lintingDescription-p5js": {
 			"description": "code settings > editor. Shows when sketch is not p5js.",
 			"en": "Disabled: Only available on p5js sketches.",
-			"ja": "p5jsのみ使用できます。",
+			"ja": "p5jsのみ使用できます",
 			"pt": "Desabilitado: Disponível somente nos esboços de p5js."
 		},
 		"shortcuts": {
@@ -368,13 +368,13 @@
 		"clickToChange": {
 			"description": "Edit Profile > password change link",
 			"en": "Click to Change",
-			"ja": "モード",
+			"ja": "クリックして変更",
 			"pt": "Clique para Mudar"
 		},
 		"language": {
 			"description": "Edit Profile > label",
 			"en": "Language",
-			"ja": "モード",
+			"ja": "言語",
 			"pt": "Idioma"
 		},
 		"learnMoreAbout": {
@@ -410,7 +410,7 @@
 		"notificationsDescription": {
 			"description": "Edit Profile > label",
 			"en": "Select when to receive email notifications",
-			"ja": "メールのお知らせをいつ受け取るか設定",
+			"ja": "メールのお知らせをいつ受け取るか設定する",
 			"pt": "Selecione quando receber notificações por email"
 		},
 		"deleteAccount": {
@@ -422,7 +422,7 @@
 		"deleteAccountDescription": {
 			"description": "Edit Profile > label",
 			"en": "Just like you'd shoot it with lasers",
-			"ja": "消去はレーザーで撃たれたように一瞬です",
+			"ja": "消去はレーザーで撃たれるように一瞬です",
 			"pt": "Somente se você for atirar com lasers"
 		},
 		"from": {
