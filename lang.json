@@ -11,11 +11,23 @@
 			"ja": "さらに詳しく",
 			"pt": "Saiba mais"
 		},
+		"learnMoreAbout": {
+			"description": "Used in links such as 'Learn more about Creative Commons'",
+			"en": "Learn more about",
+			"ja": null,
+			"pt": "Saiba mais sobre"
+		},
 		"by": {
 			"description": "Used in phrases like '[Sketch Title] by [User name]'",
 			"en": "by",
 			"ja": "-",
 			"pt": "por"
+		},
+		"eg": {
+			"description": "Used to give examples with e.g. (for example)'",
+			"en": "e.g., {0}",
+			"ja": null,
+			"pt": null
 		},
 		"saveAsFork": {
 			"description": "navigation - when sketch is changed",
@@ -332,6 +344,138 @@
 			"en": "{0} to add custom libraries, private sketches, and more!",
 			"ja": "{0} にカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
 			"pt": "{0} adicionar mais bibliotecas personalizadas, esboços privados, e mais!"
+		},
+		"forkInfo": {
+			"description": "info panel",
+			"en": "A fork of {sketchtitle} by {username}",
+			"ja": "モード {sketchtitle} {username}",
+			"pt": null
+		},
+		"title": {
+			"description": "info > edit panel",
+			"en": "Title",
+			"ja": null,
+			"pt": null
+		},
+		"description": {
+			"description": "info > edit panel",
+			"en": "Description",
+			"ja": null,
+			"pt": null
+		},
+		"howToInteract": {
+			"description": "info > edit panel",
+			"en": "How to <br/> interact with it",
+			"ja": null,
+			"pt": null
+		},
+		"tags": {
+			"description": "info > edit panel",
+			"en": "Tags",
+			"ja": null,
+			"pt": null
+		},
+		"license": {
+			"description": "info > edit panel",
+			"en": "License",
+			"ja": null,
+			"pt": null
+		},
+		"draft": {
+			"description": "info > edit panel",
+			"en": "Draft",
+			"ja": null,
+			"pt": null
+		},
+		"draftDescription": {
+			"description": "info > edit panel",
+			"en": "won't be listed on feeds but still accessible on your profile",
+			"ja": null,
+			"pt": null
+		},
+		"whoCanSeeSketch": {
+			"description": "info > edit panel",
+			"en": "Who can see your sketch?",
+			"ja": null,
+			"pt": null
+		},
+		"whoCanSeeCode": {
+			"description": "info > edit panel",
+			"en": "Who can see the code?",
+			"ja": null,
+			"pt": null
+		},
+		"whoCanComment": {
+			"description": "info > edit panel",
+			"en": "Who can comment?",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-anyone": {
+			"description": "info > edit panel",
+			"en": "Anyone",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-classes": {
+			"description": "info > edit panel",
+			"en": "My Classes",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-classesDescription": {
+			"description": "info > edit panel",
+			"en": "only the students and teachers in your classes",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-teachers": {
+			"description": "info > edit panel",
+			"en": "My Teachers",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-teachersDescription": {
+			"description": "info > edit panel",
+			"en": "only the teachers in your classes",
+			"ja": null,
+			"pt": null
+		},
+		"privacy-me": {
+			"description": "info > edit panel",
+			"en": "Only Me",
+			"ja": null,
+			"pt": null
+		},
+		"privateURL": {
+			"description": "info > edit panel",
+			"en": "Private URL",
+			"ja": null,
+			"pt": null
+		},
+		"privateURLDescription": {
+			"description": "info > edit panel",
+			"en": "You can share your sketch with this URL even if it is set hidden above",
+			"ja": null,
+			"pt": null
+		},
+		"privateURL-create": {
+			"description": "info > edit panel",
+			"en": "Create",
+			"ja": null,
+			"pt": null
+		},
+		"privateURL-pleaseSave": {
+			"description": "info > edit panel",
+			"en": "Please save your sketch to create private URL",
+			"ja": null,
+			"pt": null
+		},
+		"deleteSketch": {
+			"description": "info > edit panel",
+			"en": "Delete Sketch?",
+			"ja": null,
+			"pt": null
 		}
 	},
 	"user": {
