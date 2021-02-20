@@ -381,6 +381,12 @@
 			"ja": "モード",
 			"pt": null
 		},
+		"license-needPlus": {
+			"description": "info > edit panel. Displayed below license if user is not a Plus+ member",
+			"en": "{0} to change license",
+			"ja": null,
+			"pt": null
+		},
 		"draft": {
 			"description": "info > edit panel",
 			"en": "Draft",
