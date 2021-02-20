@@ -1,4 +1,4 @@
-{
+OP.languageLibraryDefault = {
 	"languages": {
 		"en": "English",
 		"ja": "Japanese",
