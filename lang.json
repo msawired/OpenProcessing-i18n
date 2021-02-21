@@ -27,7 +27,7 @@
 			"description": "Used to give examples with e.g. (for example)'",
 			"en": "e.g., {0}",
 			"ja": null,
-			"pt": null
+			"pt": "ex: {0}"
 		},
 		"saveAsFork": {
 			"description": "navigation - when sketch is changed",
@@ -349,139 +349,139 @@
 			"description": "info panel",
 			"en": "A fork of {sketchtitle} by {username}",
 			"ja": "モード {sketchtitle} {username}",
-			"pt": null
+			"pt": "Uma bifurcação do {sketchtitle} por {username}"
 		},
 		"title": {
 			"description": "info > edit panel",
 			"en": "Title",
 			"ja": null,
-			"pt": null
+			"pt": "Título"
 		},
 		"description": {
 			"description": "info > edit panel",
 			"en": "Description",
 			"ja": null,
-			"pt": null
+			"pt": "Descrição"
 		},
 		"howToInteract": {
 			"description": "info > edit panel",
 			"en": "How to <br/> interact with it",
 			"ja": null,
-			"pt": null
+			"pt": "Como interagir <br/> com isso"
 		},
 		"tags": {
 			"description": "info > edit panel",
 			"en": "Tags",
 			"ja": null,
-			"pt": null
+			"pt": "Etiquetas"
 		},
 		"license": {
 			"description": "info > edit panel",
 			"en": "License",
 			"ja": null,
-			"pt": null
+			"pt": "Licença"
 		},
 		"license-needPlus": {
 			"description": "info > edit panel. Displayed below license if user is not a Plus+ member",
 			"en": "{0} to change license",
 			"ja": null,
-			"pt": null
+			"pt": "{0} para mudar a licença"
 		},
 		"draft": {
 			"description": "info > edit panel",
 			"en": "Draft",
 			"ja": null,
-			"pt": null
+			"pt": "Rascunho"
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
 			"en": "won't be listed on feeds but still accessible on your profile",
 			"ja": null,
-			"pt": null
+			"pt": "não será listado no feed, mas continuará acessível no seu perfil"
 		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
 			"en": "Who can see your sketch?",
 			"ja": null,
-			"pt": null
+			"pt": "QUem pode ver seu esboço?"
 		},
 		"whoCanSeeCode": {
 			"description": "info > edit panel",
 			"en": "Who can see the code?",
 			"ja": null,
-			"pt": null
+			"pt": "Quem pode ver o código?"
 		},
 		"whoCanComment": {
 			"description": "info > edit panel",
 			"en": "Who can comment?",
 			"ja": null,
-			"pt": null
+			"pt": "Quem pode comentar?"
 		},
 		"privacy-anyone": {
 			"description": "info > edit panel",
 			"en": "Anyone",
 			"ja": null,
-			"pt": null
+			"pt": "Qualquer um"
 		},
 		"privacy-classes": {
 			"description": "info > edit panel",
 			"en": "My Classes",
 			"ja": null,
-			"pt": null
+			"pt": "Minhas Aulas"
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
 			"en": "only the students and teachers in your classes",
 			"ja": null,
-			"pt": null
+			"pt": "somente estudantes e professores nas suas aulas"
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
 			"en": "My Teachers",
 			"ja": null,
-			"pt": null
+			"pt": "Meus Professores"
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
 			"en": "only the teachers in your classes",
 			"ja": null,
-			"pt": null
+			"pt": "somente os professores das suas aulas"
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
 			"en": "Only Me",
 			"ja": null,
-			"pt": null
+			"pt": "Somente Eu"
 		},
 		"privateURL": {
 			"description": "info > edit panel",
 			"en": "Private URL",
 			"ja": null,
-			"pt": null
+			"pt": "URL Privada"
 		},
 		"privateURLDescription": {
 			"description": "info > edit panel",
 			"en": "You can share your sketch with this URL even if it is set hidden above",
 			"ja": null,
-			"pt": null
+			"pt": "Você pode compartilhar o esboço com esta URL mesmo se ela estiver escondida acima"
 		},
 		"privateURL-create": {
 			"description": "info > edit panel",
 			"en": "Create",
 			"ja": null,
-			"pt": null
+			"pt": "Criar"
 		},
 		"privateURL-pleaseSave": {
 			"description": "info > edit panel",
 			"en": "Please save your sketch to create private URL",
 			"ja": null,
-			"pt": null
+			"pt": "Por favor, salve seu esboço para criar uma URL privada"
 		},
 		"deleteSketch": {
 			"description": "info > edit panel",
 			"en": "Delete Sketch?",
 			"ja": null,
-			"pt": null
+			"pt": "Apagar Esboço?"
 		}
 	},
 	"user": {
