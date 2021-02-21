@@ -403,7 +403,7 @@
 			"description": "info > edit panel",
 			"en": "Who can see your sketch?",
 			"ja": null,
-			"pt": "QUem pode ver seu esboço?"
+			"pt": "Quem pode ver seu esboço?"
 		},
 		"whoCanSeeCode": {
 			"description": "info > edit panel",
