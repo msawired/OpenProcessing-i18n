@@ -526,6 +526,13 @@ OP.languageLibraryDefault = {
 			"pt": "Somente Eu",
 			"tr": "Sadece Ben" 
 		},
+		"sourceNotVisible": {
+			"description": "info > edit panel > when source code is hidden",
+			"en": "source code won't be visible, but it will still be accessible via browser console",
+			"ja": null,
+			"pt": null,
+			"tr": "kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
+		},
 		"privateURL": {
 			"description": "info > edit panel",
 			"en": "Private URL",
