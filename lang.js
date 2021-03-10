@@ -342,7 +342,7 @@ OP.languageLibraryDefault = {
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
 			"en": "{0} to add custom libraries, private sketches, and more!",
-			"ja": "{0} になるとカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
+			"ja": "{0}とカスタムライブラリの追加や非公開スケッチなど、様々な機能が追加できます！",
 			"pt": "{0} adicionar mais bibliotecas personalizadas, esboços privados, e mais!"
 		},
 		"forkInfo": {
@@ -384,7 +384,7 @@ OP.languageLibraryDefault = {
 		"license-needPlus": {
 			"description": "info > edit panel. Displayed below license if user is not a Plus+ member",
 			"en": "{0} to change license",
-			"ja": null,
+			"ja": "ライセンス変更のために{0}",
 			"pt": "{0} para mudar a licença"
 		},
 		"draft": {
