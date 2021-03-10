@@ -3,7 +3,7 @@ This project includes OpenProcessing translation and internationalization files.
 
 ## Status
 This project is currently in testing phase and covers a limited part of the website.
-Languages supported at the moment are English (en), Japanese (ja), and Portuguese (pt).
+Languages supported at the moment are English (en), Japanese (ja), Portuguese (pt), and Turkish (tr).
 Pages currently translated: 
 - Sketch (87%)
 - User (50%)
@@ -60,8 +60,8 @@ Values below will only be set by super-admins. These are created or changed as n
 Translations are added with the format "languageShort": "Value":
 ```
 "ja": "ユーザー",
-"es": "usuario",
-"fr": "utilisateur",
+"pt": "usuario",
+"tr": "kullan",
 ...
 ```
 
