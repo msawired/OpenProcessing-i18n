@@ -1,4 +1,4 @@
-{
+OP.languageLibraryDefault = {
 	"languages": {
 		"en": "English",
 		"ja": "Japanese",
@@ -14,20 +14,20 @@
 		"learnMoreAbout": {
 			"description": "Used in links such as 'Learn more about Creative Commons'",
 			"en": "Learn more about",
-			"ja": "さらに詳しく",
+			"ja": null,
 			"pt": "Saiba mais sobre"
 		},
 		"by": {
 			"description": "Used in phrases like '[Sketch Title] by [User name]'",
 			"en": "by",
-			"ja": "by",
+			"ja": "-",
 			"pt": "por"
 		},
 		"eg": {
 			"description": "Used to give examples with e.g. (for example)'",
 			"en": "e.g., {0}",
-			"ja": "例 : {0}",
-			"pt": "ex: {0}"
+			"ja": null,
+			"pt": null
 		},
 		"saveAsFork": {
 			"description": "navigation - when sketch is changed",
@@ -204,13 +204,13 @@
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
 			"en": "Share the URL with your class to code together.",
-			"ja": "共同作業のためにクラスにURLをシェアしましょう",
+			"ja": "コーディングを楽しむためにクラスにURLをシェアしましょう",
 			"pt": "Compartilhe a URL da sua aula com o código junto."
 		},
 		"liveCollaborationDescription-default": {
 			"description": "Shows when it can be enabled",
 			"en": "Invite your class to code together.",
-			"ja": "共同作業のためにクラスに招待しましょう",
+			"ja": "コーディングを楽しむためにクラスに招待しましょう",
 			"pt": "Convide sua turma para programar juntos."
 		},
 		"showcaseSketch": {
@@ -222,7 +222,7 @@
 		"showcaseSketchDescription": {
 			"description": "Code Options > sketch",
 			"en": "Centers sketch and matches the background color.",
-			"ja": "スケッチを中央に配置して背景色をつける",
+			"ja": "スケッチを中央に配置して背景色を同じ色にする",
 			"pt": "Centralizar esboço e corresponder a cor de fundo."
 		},
 		"loopProtect": {
@@ -306,7 +306,7 @@
 		"linting": {
 			"description": "code settings > editor",
 			"en": "Linting",
-			"ja": "コードのリント",
+			"ja": "リント",
 			"pt": "Linting"
 		},
 		"lintingDescription": {
@@ -336,152 +336,152 @@
 		"versionsSummarized": {
 			"description": "code settings > versions. Displayed when sketch has more than 20 versions.",
 			"en": "Prior to most recent 20 versions are summarized.",
-			"ja": "直近の20バージョン以外は集約されています",
+			"ja": "直近の20バージョンをアーカイブする",
 			"pt": "Prévia das 20 versões mais recentes são resumidas."
 		},
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
 			"en": "{0} to add custom libraries, private sketches, and more!",
-			"ja": "{0} になるとカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
+			"ja": "{0} にカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
 			"pt": "{0} adicionar mais bibliotecas personalizadas, esboços privados, e mais!"
 		},
 		"forkInfo": {
 			"description": "info panel",
 			"en": "A fork of {sketchtitle} by {username}",
-			"ja": "{sketchtitle} by {username} のフォーク",
-			"pt": "Uma bifurcação do {sketchtitle} por {username}"
+			"ja": "モード {sketchtitle} {username}",
+			"pt": null
 		},
 		"title": {
 			"description": "info > edit panel",
 			"en": "Title",
-			"ja": "タイトル",
-			"pt": "Título"
+			"ja": null,
+			"pt": null
 		},
 		"description": {
 			"description": "info > edit panel",
 			"en": "Description",
-			"ja": "説明",
-			"pt": "Descrição"
+			"ja": null,
+			"pt": null
 		},
 		"howToInteract": {
 			"description": "info > edit panel",
 			"en": "How to <br/> interact with it",
-			"ja": "操作方法",
-			"pt": "Como interagir <br/> com isso"
+			"ja": null,
+			"pt": null
 		},
 		"tags": {
 			"description": "info > edit panel",
 			"en": "Tags",
-			"ja": "タグ",
-			"pt": "Etiquetas"
+			"ja": null,
+			"pt": null
 		},
 		"license": {
 			"description": "info > edit panel",
 			"en": "License",
-			"ja": "ライセンス",
-			"pt": "Licença"
+			"ja": null,
+			"pt": null
 		},
 		"license-needPlus": {
 			"description": "info > edit panel. Displayed below license if user is not a Plus+ member",
 			"en": "{0} to change license",
 			"ja": null,
-			"pt": "{0} para mudar a licença"
+			"pt": null
 		},
 		"draft": {
 			"description": "info > edit panel",
 			"en": "Draft",
-			"ja": "下書き",
-			"pt": "Rascunho"
+			"ja": null,
+			"pt": null
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
 			"en": "won't be listed on feeds but still accessible on your profile",
-			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
-			"pt": "não será listado no feed, mas continuará acessível no seu perfil"
+			"ja": null,
+			"pt": null
 		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
 			"en": "Who can see your sketch?",
-			"ja": "誰がこのスケッチを見ることができますか？",
-			"pt": "Quem pode ver seu esboço?"
+			"ja": null,
+			"pt": null
 		},
 		"whoCanSeeCode": {
 			"description": "info > edit panel",
 			"en": "Who can see the code?",
-			"ja": "誰がこのコードを見ることができますか？",
-			"pt": "Quem pode ver o código?"
+			"ja": null,
+			"pt": null
 		},
 		"whoCanComment": {
 			"description": "info > edit panel",
 			"en": "Who can comment?",
-			"ja": "誰がコメントできますか？",
-			"pt": "Quem pode comentar?"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-anyone": {
 			"description": "info > edit panel",
 			"en": "Anyone",
-			"ja": "誰でも",
-			"pt": "Qualquer um"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-classes": {
 			"description": "info > edit panel",
 			"en": "My Classes",
-			"ja": "自分のクラス",
-			"pt": "Minhas Aulas"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
 			"en": "only the students and teachers in your classes",
-			"ja": "自分のクラスの先生と生徒のみ",
-			"pt": "somente estudantes e professores nas suas aulas"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
 			"en": "My Teachers",
-			"ja": "先生",
-			"pt": "Meus Professores"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
 			"en": "only the teachers in your classes",
-			"ja": "自分のクラスの先生のみ",
-			"pt": "somente os professores das suas aulas"
+			"ja": null,
+			"pt": null
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
 			"en": "Only Me",
-			"ja": "自分のみ",
-			"pt": "Somente Eu"
+			"ja": null,
+			"pt": null
 		},
 		"privateURL": {
 			"description": "info > edit panel",
 			"en": "Private URL",
-			"ja": "プライベートURL",
-			"pt": "URL Privada"
+			"ja": null,
+			"pt": null
 		},
 		"privateURLDescription": {
 			"description": "info > edit panel",
 			"en": "You can share your sketch with this URL even if it is set hidden above",
-			"ja": "誰が見られるかの設定にかかわらず、このURLでスケッチをシェアできます。",
-			"pt": "Você pode compartilhar o esboço com esta URL mesmo se ela estiver escondida acima"
+			"ja": null,
+			"pt": null
 		},
 		"privateURL-create": {
 			"description": "info > edit panel",
 			"en": "Create",
-			"ja": "作成",
-			"pt": "Criar"
+			"ja": null,
+			"pt": null
 		},
 		"privateURL-pleaseSave": {
 			"description": "info > edit panel",
 			"en": "Please save your sketch to create private URL",
-			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
-			"pt": "Por favor, salve seu esboço para criar uma URL privada"
+			"ja": null,
+			"pt": null
 		},
 		"deleteSketch": {
 			"description": "info > edit panel",
 			"en": "Delete Sketch?",
-			"ja": "スケッチを削除しますか？",
-			"pt": "Apagar Esboço?"
+			"ja": null,
+			"pt": null
 		}
 	},
 	"user": {
@@ -578,7 +578,7 @@
 		"from": {
 			"description": "user bio",
 			"en": "from",
-			"ja": "from",
+			"ja": "居住地",
 			"pt": "de"
 		},
 		"editProfile": {
@@ -626,7 +626,7 @@
 		"following": {
 			"description": "Tab",
 			"en": "{n} Following",
-			"ja": "{n} フォロー",
+			"ja": "フォロー中",
 			"pt": "{n} Seguindo"
 		}
 	}
