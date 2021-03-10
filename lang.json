@@ -14,19 +14,19 @@
 		"learnMoreAbout": {
 			"description": "Used in links such as 'Learn more about Creative Commons'",
 			"en": "Learn more about",
-			"ja": null,
+			"ja": "さらに詳しく",
 			"pt": "Saiba mais sobre"
 		},
 		"by": {
 			"description": "Used in phrases like '[Sketch Title] by [User name]'",
 			"en": "by",
-			"ja": "-",
+			"ja": "by",
 			"pt": "por"
 		},
 		"eg": {
 			"description": "Used to give examples with e.g. (for example)'",
 			"en": "e.g., {0}",
-			"ja": null,
+			"ja": "例 : {0}",
 			"pt": "ex: {0}"
 		},
 		"saveAsFork": {
@@ -204,13 +204,13 @@
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
 			"en": "Share the URL with your class to code together.",
-			"ja": "コーディングを楽しむためにクラスにURLをシェアしましょう",
+			"ja": "共同作業のためにクラスにURLをシェアしましょう",
 			"pt": "Compartilhe a URL da sua aula com o código junto."
 		},
 		"liveCollaborationDescription-default": {
 			"description": "Shows when it can be enabled",
 			"en": "Invite your class to code together.",
-			"ja": "コーディングを楽しむためにクラスに招待しましょう",
+			"ja": "共同作業のためにクラスに招待しましょう",
 			"pt": "Convide sua turma para programar juntos."
 		},
 		"showcaseSketch": {
@@ -222,7 +222,7 @@
 		"showcaseSketchDescription": {
 			"description": "Code Options > sketch",
 			"en": "Centers sketch and matches the background color.",
-			"ja": "スケッチを中央に配置して背景色を同じ色にする",
+			"ja": "スケッチを中央に配置して背景色をつける",
 			"pt": "Centralizar esboço e corresponder a cor de fundo."
 		},
 		"loopProtect": {
@@ -306,7 +306,7 @@
 		"linting": {
 			"description": "code settings > editor",
 			"en": "Linting",
-			"ja": "リント",
+			"ja": "コードのリント",
 			"pt": "Linting"
 		},
 		"lintingDescription": {
@@ -336,49 +336,49 @@
 		"versionsSummarized": {
 			"description": "code settings > versions. Displayed when sketch has more than 20 versions.",
 			"en": "Prior to most recent 20 versions are summarized.",
-			"ja": "直近の20バージョンをアーカイブする",
+			"ja": "直近の20バージョン以外は集約されています",
 			"pt": "Prévia das 20 versões mais recentes são resumidas."
 		},
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
 			"en": "{0} to add custom libraries, private sketches, and more!",
-			"ja": "{0} にカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
+			"ja": "{0} になるとカスタムライブラリの追加や、非公開スケッチ、さらに様々な機能が追加できます！",
 			"pt": "{0} adicionar mais bibliotecas personalizadas, esboços privados, e mais!"
 		},
 		"forkInfo": {
 			"description": "info panel",
 			"en": "A fork of {sketchtitle} by {username}",
-			"ja": "モード {sketchtitle} {username}",
+			"ja": "{sketchtitle} by {username} のフォーク",
 			"pt": "Uma bifurcação do {sketchtitle} por {username}"
 		},
 		"title": {
 			"description": "info > edit panel",
 			"en": "Title",
-			"ja": null,
+			"ja": "タイトル",
 			"pt": "Título"
 		},
 		"description": {
 			"description": "info > edit panel",
 			"en": "Description",
-			"ja": null,
+			"ja": "説明",
 			"pt": "Descrição"
 		},
 		"howToInteract": {
 			"description": "info > edit panel",
 			"en": "How to <br/> interact with it",
-			"ja": null,
+			"ja": "操作方法",
 			"pt": "Como interagir <br/> com isso"
 		},
 		"tags": {
 			"description": "info > edit panel",
 			"en": "Tags",
-			"ja": null,
+			"ja": "タグ",
 			"pt": "Etiquetas"
 		},
 		"license": {
 			"description": "info > edit panel",
 			"en": "License",
-			"ja": null,
+			"ja": "ライセンス",
 			"pt": "Licença"
 		},
 		"license-needPlus": {
@@ -390,97 +390,97 @@
 		"draft": {
 			"description": "info > edit panel",
 			"en": "Draft",
-			"ja": null,
+			"ja": "下書き",
 			"pt": "Rascunho"
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
 			"en": "won't be listed on feeds but still accessible on your profile",
-			"ja": null,
+			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
 			"pt": "não será listado no feed, mas continuará acessível no seu perfil"
 		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
 			"en": "Who can see your sketch?",
-			"ja": null,
+			"ja": "誰がこのスケッチを見ることができますか？",
 			"pt": "Quem pode ver seu esboço?"
 		},
 		"whoCanSeeCode": {
 			"description": "info > edit panel",
 			"en": "Who can see the code?",
-			"ja": null,
+			"ja": "誰がこのコードを見ることができますか？",
 			"pt": "Quem pode ver o código?"
 		},
 		"whoCanComment": {
 			"description": "info > edit panel",
 			"en": "Who can comment?",
-			"ja": null,
+			"ja": "誰がコメントできますか？",
 			"pt": "Quem pode comentar?"
 		},
 		"privacy-anyone": {
 			"description": "info > edit panel",
 			"en": "Anyone",
-			"ja": null,
+			"ja": "誰でも",
 			"pt": "Qualquer um"
 		},
 		"privacy-classes": {
 			"description": "info > edit panel",
 			"en": "My Classes",
-			"ja": null,
+			"ja": "自分のクラス",
 			"pt": "Minhas Aulas"
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
 			"en": "only the students and teachers in your classes",
-			"ja": null,
+			"ja": "自分のクラスの先生と生徒のみ",
 			"pt": "somente estudantes e professores nas suas aulas"
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
 			"en": "My Teachers",
-			"ja": null,
+			"ja": "先生",
 			"pt": "Meus Professores"
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
 			"en": "only the teachers in your classes",
-			"ja": null,
+			"ja": "自分のクラスの先生のみ",
 			"pt": "somente os professores das suas aulas"
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
 			"en": "Only Me",
-			"ja": null,
+			"ja": "自分のみ",
 			"pt": "Somente Eu"
 		},
 		"privateURL": {
 			"description": "info > edit panel",
 			"en": "Private URL",
-			"ja": null,
+			"ja": "プライベートURL",
 			"pt": "URL Privada"
 		},
 		"privateURLDescription": {
 			"description": "info > edit panel",
 			"en": "You can share your sketch with this URL even if it is set hidden above",
-			"ja": null,
+			"ja": "誰が見られるかの設定にかかわらず、このURLでスケッチをシェアできます。",
 			"pt": "Você pode compartilhar o esboço com esta URL mesmo se ela estiver escondida acima"
 		},
 		"privateURL-create": {
 			"description": "info > edit panel",
 			"en": "Create",
-			"ja": null,
+			"ja": "作成",
 			"pt": "Criar"
 		},
 		"privateURL-pleaseSave": {
 			"description": "info > edit panel",
 			"en": "Please save your sketch to create private URL",
-			"ja": null,
+			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
 			"pt": "Por favor, salve seu esboço para criar uma URL privada"
 		},
 		"deleteSketch": {
 			"description": "info > edit panel",
 			"en": "Delete Sketch?",
-			"ja": null,
+			"ja": "スケッチを削除しますか？",
 			"pt": "Apagar Esboço?"
 		}
 	},
@@ -578,7 +578,7 @@
 		"from": {
 			"description": "user bio",
 			"en": "from",
-			"ja": "居住地",
+			"ja": "from",
 			"pt": "de"
 		},
 		"editProfile": {
@@ -626,7 +626,7 @@
 		"following": {
 			"description": "Tab",
 			"en": "{n} Following",
-			"ja": "フォロー中",
+			"ja": "{n} フォロー",
 			"pt": "{n} Seguindo"
 		}
 	}
