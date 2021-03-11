@@ -576,12 +576,19 @@ OP.languageLibraryDefault = {
 			"pt": "nome",
 			"tr": "isim" 
 		},
+		"bio": {
+			"description": "Edit Profile label",
+			"en": "bio",
+			"ja": null,
+			"pt": null,
+			"tr": "biyo" 
+		},
 		"location": {
 			"description": "Edit Profile > label",
 			"en": "location",
 			"ja": "居住地",
 			"pt": "localização",
-			"tr": "yerleşim" 
+			"tr": "yerleşke" 
 		},
 		"website": {
 			"description": "Edit Profile > label",
@@ -595,7 +602,7 @@ OP.languageLibraryDefault = {
 			"en": "email",
 			"ja": "メールアドレス",
 			"pt": "email",
-			"tr": "email" 
+			"tr": "eposta" 
 		},
 		"password": {
 			"description": "Edit Profile > label",
@@ -610,6 +617,27 @@ OP.languageLibraryDefault = {
 			"ja": "クリックして変更",
 			"pt": "Clique para Mudar",
 			"tr": "Değiştirmek için tıkla" 
+		},
+		"backgroundSketch": {
+			"description": "Edit Profile > label",
+			"en": "background sketch",
+			"ja": null,
+			"pt": null,
+			"tr": "arka plan çizimi" 
+		},
+		"backgroundSketch-description": {
+			"description": "Edit Profile > label",
+			"en": "For the better experience, choose a sketch that uses no file or audio and requires no interaction.",
+			"ja": null,
+			"pt": null,
+			"tr": "En olumlu sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen bir çizim seçin" 
+		},
+		"backgroundSketch-needPlus": {
+			"description": "Edit Profile > label",
+			"en": "{joinplus} to feature a sketch behind your profile",
+			"ja": null,
+			"pt": null,
+			"tr": "Arka planda bir çiziminizi göstermek için {joinplus}"
 		},
 		"language": {
 			"description": "Edit Profile > label",
@@ -658,7 +686,7 @@ OP.languageLibraryDefault = {
 			"en": "Select when to receive email notifications",
 			"ja": "メールのお知らせをいつ受け取るか設定する",
 			"pt": "Selecione quando receber notificações por email",
-			"tr": "Hangi durumlarda email bildirimi almak istediğini seç" 
+			"tr": "Hangi durumlarda eposta bildirimi almak istediğini seç" 
 		},
 		"deleteAccount": {
 			"description": "Edit Profile > label",
