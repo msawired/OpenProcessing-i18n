@@ -52,6 +52,7 @@ OP.languageLibraryDefault = {
 			"description": "navigation - when sketch is saved",
 			"en": "Saved",
 			"ja": "保存完了",
+			"pt": null,
 			"tr": "Kaydoldu" 
 		},
 		"saving": {
@@ -59,7 +60,7 @@ OP.languageLibraryDefault = {
 			"en": "Saving…",
 			"ja": "保存中…",
 			"pt": "Salvando…",
-			"tr": "Kayıtlanıyor..." 
+			"tr": "Kayıtlanıyor…"
 		},
 		"edit": {
 			"description": "navigation - when info panel is selected",
@@ -100,7 +101,8 @@ OP.languageLibraryDefault = {
 			"description": "link label asking users to join the Plus+ Membership",
 			"en": "Join Plus+",
 			"ja": "Plus+メンバーになる",
-			"pt": "Plus+'a üye ol"
+			"pt": "Entrar Plus+",
+			"tr": "Plus+'a üye ol"
 		}
 	},
 	"navigation": {
@@ -565,7 +567,8 @@ OP.languageLibraryDefault = {
 			"description": "info > edit panel",
 			"en": "Delete Sketch?",
 			"ja": "スケッチを削除しますか？",
-			"pt": "Çizimi Sil?"
+			"pt": "Apagar Esboço?",
+			"tr": "Çizimi Sil?"
 		}
 	},
 	"user": {
@@ -634,10 +637,10 @@ OP.languageLibraryDefault = {
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
-			"en": "{joinplus} to feature a sketch behind your profile",
+			"en": "{joinpluslink} to feature a sketch behind your profile",
 			"ja": null,
 			"pt": null,
-			"tr": "Arka planda bir çiziminizi göstermek için {joinplus}"
+			"tr": "Arka planda bir çizimini göstermek için {joinpluslink}"
 		},
 		"language": {
 			"description": "Edit Profile > label",
