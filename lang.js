@@ -767,6 +767,20 @@ OP.languageLibraryDefault = {
 			"ja": "{n} フォロー",
 			"pt": "{n} Seguindo",
 			"tr": "{n} Takip"
+		},
+		"listView-list": {
+			"description": "option in the tab section",
+			"en": "List View",
+			"ja": null,
+			"pt": null,
+			"tr": "Liste"
+		},
+		"listView-grid": {
+			"description": "option in the tab section",
+			"en": "Grid View",
+			"ja": null,
+			"pt": null,
+			"tr": "Izgara"
 		}
 	}
 }
