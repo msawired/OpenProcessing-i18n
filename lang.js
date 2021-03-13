@@ -60,7 +60,7 @@ OP.languageLibraryDefault = {
 			"en": "Saving…",
 			"ja": "保存中…",
 			"pt": "Salvando…",
-			"tr": "Kayıtlanıyor…"
+			"tr": "Kaydediliyor…"
 		},
 		"edit": {
 			"description": "navigation - when info panel is selected",
@@ -547,7 +547,7 @@ OP.languageLibraryDefault = {
 			"en": "You can share your sketch with this URL even if it is set hidden above",
 			"ja": "誰が見られるかの設定にかかわらず、このURLでスケッチをシェアできます。",
 			"pt": "Você pode compartilhar o esboço com esta URL mesmo se ela estiver escondida acima",
-			"tr": "Yukarıda gizli olsa bile çiziminizi bu adres ile paylaşabilirsiniz" 
+			"tr": "Yukarıda gizli olsa bile çizimi bu adres ile paylaşabilirsin" 
 		},
 		"privateURL-create": {
 			"description": "info > edit panel",
@@ -561,7 +561,7 @@ OP.languageLibraryDefault = {
 			"en": "Please save your sketch to create private URL",
 			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
 			"pt": "Por favor, salve seu esboço para criar uma URL privada",
-			"tr": "Gizli adres yaratmadan önce lütfen çiziminizi kaydedin" 
+			"tr": "Gizli adres yaratmadan önce lütfen çizimi kaydet" 
 		},
 		"deleteSketch": {
 			"description": "info > edit panel",
