@@ -630,10 +630,10 @@ OP.languageLibraryDefault = {
 		},
 		"backgroundSketch-description": {
 			"description": "Edit Profile > label",
-			"en": "For the better experience, choose a sketch that uses no file or audio and requires no interaction.",
+			"en": "For best experience, choose a fullscreen sketch that uses no file or audio and requires no user interaction.",
 			"ja": null,
 			"pt": null,
-			"tr": "En olumlu sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen bir çizim seçin" 
+			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seçin" 
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
