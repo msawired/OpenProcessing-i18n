@@ -531,7 +531,7 @@ OP.languageLibraryDefault = {
 		"sourceNotVisible": {
 			"description": "info > edit panel > when source code is hidden",
 			"en": "source code won't be visible, but it will still be accessible via browser console",
-			"ja": "ソースコードは非表示になりますが、ブラウザコンソールからのアクセスは引き続き有効です。",
+			"ja": "コードは非表示になりますが、ブラウザコンソールからはアクセス可能です。",
 			"pt": null,
 			"tr": "kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
 		},
@@ -582,7 +582,7 @@ OP.languageLibraryDefault = {
 		"bio": {
 			"description": "Edit Profile label",
 			"en": "bio",
-			"ja": "自己紹介文",
+			"ja": "自己紹介",
 			"pt": null,
 			"tr": "biyo" 
 		},
@@ -631,14 +631,14 @@ OP.languageLibraryDefault = {
 		"backgroundSketch-description": {
 			"description": "Edit Profile > label",
 			"en": "For the better experience, choose a sketch that uses no file or audio and requires no interaction.",
-			"ja": "より良い体験のために、外部ファイル・オーディオ・インタラクションを使用しないスケッチを選んでください。",
+			"ja": "外部ファイルやオーディオ、インタラクションを使用していないスケッチをおすすめします。",
 			"pt": null,
 			"tr": "En olumlu sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen bir çizim seçin" 
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
 			"en": "{joinpluslink} to feature a sketch behind your profile",
-			"ja": "プロフィールの背景にスケッチを設定するために{joinpluslink}",
+			"ja": "プロフィールの背景にスケッチを設定するには{joinpluslink}",
 			"pt": null,
 			"tr": "Arka planda bir çizimini göstermek için {joinpluslink}"
 		},
