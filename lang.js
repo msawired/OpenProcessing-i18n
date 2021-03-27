@@ -41,6 +41,13 @@ OP.languageLibraryDefault = {
 			"pt": "Salvar Bifurcação",
 			"tr": "Çatalla" 
 		},
+		"fork": {
+			"description": "navigation - when sketch is embedded. 'Fork' as a verb, not a noun.",
+			"en": "Fork",
+			"ja": null,
+			"pt": null,
+			"tr": "Çatalla" 
+		},
 		"save": {
 			"description": "navigation - when sketch is changed",
 			"en": "Save",
@@ -81,14 +88,14 @@ OP.languageLibraryDefault = {
 			"en": "Sign in",
 			"ja": "サインイン",
 			"pt": "Cadastrar",
-			"tr": "Giriş yap" 
+			"tr": "Giriş" 
 		},
 		"signout": {
 			"description": "link label for sign out page",
 			"en": "Sign out",
 			"ja": "サインアウト",
 			"pt": "Sair",
-			"tr": "Çıkış yap" 
+			"tr": "Çıkış" 
 		},
 		"join": {
 			"description": "link label asking users to join the website",
@@ -103,6 +110,20 @@ OP.languageLibraryDefault = {
 			"ja": "Plus+メンバーになる",
 			"pt": "Entrar Plus+",
 			"tr": "Plus+'a üye ol"
+		},
+		"showAll": {
+			"description": "Used as a link to expand minimized lists. for example, sketch > libraries",
+			"en": "Show All",
+			"ja": "すべて見る",
+			"pt": "Mostras Todos",
+			"tr": "Hepsini Göster"
+		},
+		"showLess": {
+			"description": "Used as a link to collapse expanded lists. for example, sketch > libraries",
+			"en": "Show Less",
+			"ja": "表示を少なくする",
+			"pt": "Mostrar Menos",
+			"tr": "Hepsini Gizle"
 		}
 	},
 	"navigation": {
@@ -134,13 +155,83 @@ OP.languageLibraryDefault = {
 			"pt": "Ensinar",
 			"tr": "Öğret" 
 		},
+		"myProfile": {
+			"description": "navigation item > displayed when on a mobile device",
+			"en": "My Profile",
+			"ja": null,
+			"pt": null,
+			"tr": "Profilim" 
+		},
 		"createSketch": {
 			"description": "navigation button",
 			"en": "Create a Sketch",
 			"ja": "スケッチを作成する",
 			"pt": "Criar um Esboço",
 			"tr": "Çizim Yarat"
-		}
+		},
+		"viewMyProfile": {
+			"description": "navigation item > profile dropdown menu",
+			"en": "View My Profile",
+			"ja": null,
+			"pt": null,
+			"tr": "Profilim"
+		},
+		"alreadyHaveAccount": {
+			"description": "navigation item > guest profile dropdown menu",
+			"en": "Already have an account?",
+			"ja": null,
+			"pt": null,
+			"tr": "Hesabın varsa"
+		},
+		"FAQ": {
+			"description": "navigation item > profile dropdown footer 'Frequently Asked Questions' link",
+			"en": "FAQ",
+			"ja": null,
+			"pt": null,
+			"tr": "SSS"
+		},
+		"contact": {
+			"description": "navigation item > profile dropdown  footer",
+			"en": "Contact",
+			"ja": null,
+			"pt": null,
+			"tr": "İletişim"
+		},
+		"support": {
+			"description": "navigation item > profile dropdown  footer. Used for launching support chat feature.",
+			"en": "Support",
+			"ja": null,
+			"pt": null,
+			"tr": "Yardım"
+		},
+		"editMyMembership": {
+			"description": "navigation item > profile dropdown. This link is to edit Plus+ membership.",
+			"en": "Edit Plus+ Membership",
+			"ja": null,
+			"pt": null,
+			"tr": "Plus+ Üyelik Ayarları"
+		},
+		"sketches": {
+			"description": "navigation profile dropdown",
+			"en": "Sketches",
+			"ja": "スケッチ",
+			"pt": "Esboços",
+			"tr": "Çizimlerim"
+		},
+		"classes": {
+			"description": "navigation profile dropdown",
+			"en": "Classes",
+			"ja": "クラス",
+			"pt": "Aulas",
+			"tr": "Sınıflarım"
+		},
+		"curations": {
+			"description": "navigation profile dropdown",
+			"en": "Curations",
+			"ja": "キュレーション",
+			"pt": "Curadorias",
+			"tr": "Kürasyonlarım"
+		},
 	},
 	"sketch": {
 		"sketch": {
@@ -283,20 +374,6 @@ OP.languageLibraryDefault = {
 			"pt": "Bibliotecas",
 			"tr": "Kütüphaneler" 
 		},
-		"showAll": {
-			"description": "Code Options > sketch > libraries",
-			"en": "Show All",
-			"ja": "すべて見る",
-			"pt": "Mostras Todos",
-			"tr": "Hepsini Göster" 
-		},
-		"showLess": {
-			"description": "Code Options > sketch > libraries",
-			"en": "Show Less",
-			"ja": "表示を少なくする",
-			"pt": "Mostrar Menos",
-			"tr": "Hepsini Gizle" 
-		},
 		"addCustomLibrary": {
 			"description": "Code Options > sketch > libraries",
 			"en": "Add Custom Library",
@@ -407,7 +484,7 @@ OP.languageLibraryDefault = {
 			"en": "A fork of {sketchtitle} by {username}",
 			"ja": "{sketchtitle} by {username} のフォーク",
 			"pt": "Uma bifurcação do {sketchtitle} por {username}",
-			"tr": "{username}'in {sketchtitle} Çatalı"
+			"tr": "{username} - {sketchtitle} çatalı"
 		},
 		"title": {
 			"description": "info > edit panel",
@@ -428,7 +505,7 @@ OP.languageLibraryDefault = {
 			"en": "How to <br/> interact with it",
 			"ja": "操作方法",
 			"pt": "Como interagir <br/> com isso",
-			"tr": "Nasıl Kullanabiliriz" 
+			"tr": "Nasıl Etkileşebiliriz" 
 		},
 		"tags": {
 			"description": "info > edit panel",
@@ -781,6 +858,16 @@ OP.languageLibraryDefault = {
 			"ja": "グリッド表示",
 			"pt": null,
 			"tr": "Izgara"
+		}
+	},
+	"feed": {
+		"submittedSketch": {
+			"implemented": false,
+			"description": "Activity Feed > when a user submits a sketch to class or collection",
+			"en": "{user} submitted a sketch to {collection}",
+			"ja": null,
+			"pt": null,
+			"tr": "{user} {collection} sınıfına bir çizim ekledi"
 		}
 	}
 }
