@@ -810,6 +810,13 @@ OP.languageLibraryDefault = {
 			"pt": "de",
 			"tr": "" 
 		},
+		"changeAvatar": {
+			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
+			"en": "Change Avatar",
+			"ja": null,
+			"pt": null,
+			"tr": "Resmi Değiştir"
+		},
 		"editProfile": {
 			"description": "user bio",
 			"en": "Edit Profile",
