@@ -656,6 +656,27 @@ OP.languageLibraryDefault = {
 			"pt": "nome",
 			"tr": "isim" 
 		},
+		"username": {
+			"description": "Currently, only used for student accounts. ie. codingLegend1234",
+			"en": "username",
+			"ja": null,
+			"pt": null,
+			"tr": "kullanıcı ismi"
+		},
+		"username-warning": {
+			"description": "warning students not to use their real name",
+			"en": "Do not include your real name",
+			"ja": null,
+			"pt": null,
+			"tr": "Güvenliğiniz için gerçek isminizi kullanmayın"
+		},
+		"restricted-warning": {
+			"description": "warning for restricted student accounts about their profile",
+			"en": "You have a restricted student account. You can browse OpenProcessing as usual, but you can only interact with your classmates and teachers. Your profile and sketches are only visible to your classmates and teachers.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kısıtlı öğrenci hesabınız var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfınızdaki kullanıcılarla iletişim kurabilirsiniz. Hesabınız ve projeleriniz sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
+		},
 		"bio": {
 			"description": "Edit Profile label",
 			"en": "bio",
