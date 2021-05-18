@@ -537,9 +537,9 @@ OP.languageLibraryDefault = {
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
-			"en": "won't be listed on feeds but still accessible on your profile",
+			"en": "Won't be listed on feeds but still accessible on your profile",
 			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
-			"pt": "não será listado no feed, mas continuará acessível no seu perfil",
+			"pt": "Não será listado no feed, mas continuará acessível no seu perfil",
 			"tr": "Bildirimlerde gözükmez ama kendi profilinizde hala erişilebilir" 
 		},
 		"whoCanSeeSketch": {
@@ -579,10 +579,10 @@ OP.languageLibraryDefault = {
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
-			"en": "only the students and teachers in your classes",
+			"en": "Only the students and teachers in your classes",
 			"ja": "自分のクラスの先生と生徒のみ",
-			"pt": "somente estudantes e professores nas suas aulas",
-			"tr": "sadece sınıflarınızdaki öğrenci ve öğretmenler" 
+			"pt": "Somente estudantes e professores nas suas aulas",
+			"tr": "Sadece sınıflarınızdaki öğrenci ve öğretmenler" 
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
@@ -593,10 +593,10 @@ OP.languageLibraryDefault = {
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
-			"en": "only the teachers in your classes",
+			"en": "Only the teachers in your classes",
 			"ja": "自分のクラスの先生のみ",
-			"pt": "somente os professores das suas aulas",
-			"tr": "sadece sınıflarınızdaki öğretmenleriniz" 
+			"pt": "Somente os professores das suas aulas",
+			"tr": "Sadece sınıflarınızdaki öğretmenleriniz" 
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
@@ -605,12 +605,26 @@ OP.languageLibraryDefault = {
 			"pt": "Somente Eu",
 			"tr": "Sadece Ben" 
 		},
+		"privacy-joinPlus": {
+			"description": "info > edit panel. Displayed to non-plus members",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to change privacy settings",
+			"ja": null,
+			"pt": null,
+			"tr": "Gizlilik seçenekleri için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
+		},
 		"sourceNotVisible": {
 			"description": "info > edit panel > when source code is hidden",
-			"en": "source code won't be visible, but it will still be accessible via browser console",
+			"en": "Source code won't be visible, but it will still be accessible via browser console",
 			"ja": "コードは非表示になりますが、ブラウザコンソールからはアクセス可能です。",
 			"pt": null,
-			"tr": "kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
+			"tr": "Kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
+		},
+		"hideSource-joinPlus": {
+			"description": "info > edit panel. Displayed to non-plus members",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to hide source code",
+			"ja": null,
+			"pt": null,
+			"tr": "Kodu gizlemek için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"privateURL": {
 			"description": "info > edit panel",
@@ -639,6 +653,13 @@ OP.languageLibraryDefault = {
 			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
 			"pt": "Por favor, salve seu esboço para criar uma URL privada",
 			"tr": "Gizli adres yaratmadan önce lütfen çizimi kaydet" 
+		},
+		"privateURL-joinPlus": {
+			"description": "info > edit panel",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to share your sketch with private URL",
+			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
+			"pt": "Por favor, salve seu esboço para criar uma URL privada",
+			"tr": "Çizimini gizli adres ile paylaşmak için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"deleteSketch": {
 			"description": "info > edit panel",
