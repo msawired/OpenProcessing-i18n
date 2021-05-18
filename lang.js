@@ -537,9 +537,9 @@ OP.languageLibraryDefault = {
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
-			"en": "won't be listed on feeds but still accessible on your profile",
+			"en": "Won't be listed on feeds but still accessible on your profile",
 			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
-			"pt": "não será listado no feed, mas continuará acessível no seu perfil",
+			"pt": "Não será listado no feed, mas continuará acessível no seu perfil",
 			"tr": "Bildirimlerde gözükmez ama kendi profilinizde hala erişilebilir" 
 		},
 		"whoCanSeeSketch": {
@@ -579,10 +579,10 @@ OP.languageLibraryDefault = {
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
-			"en": "only the students and teachers in your classes",
+			"en": "Only the students and teachers in your classes",
 			"ja": "自分のクラスの先生と生徒のみ",
-			"pt": "somente estudantes e professores nas suas aulas",
-			"tr": "sadece sınıflarınızdaki öğrenci ve öğretmenler" 
+			"pt": "Somente estudantes e professores nas suas aulas",
+			"tr": "Sadece sınıflarınızdaki öğrenci ve öğretmenler" 
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
@@ -593,10 +593,10 @@ OP.languageLibraryDefault = {
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
-			"en": "only the teachers in your classes",
+			"en": "Only the teachers in your classes",
 			"ja": "自分のクラスの先生のみ",
-			"pt": "somente os professores das suas aulas",
-			"tr": "sadece sınıflarınızdaki öğretmenleriniz" 
+			"pt": "Somente os professores das suas aulas",
+			"tr": "Sadece sınıflarınızdaki öğretmenleriniz" 
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
@@ -605,12 +605,26 @@ OP.languageLibraryDefault = {
 			"pt": "Somente Eu",
 			"tr": "Sadece Ben" 
 		},
+		"privacy-joinPlus": {
+			"description": "info > edit panel. Displayed to non-plus members",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to change privacy settings",
+			"ja": null,
+			"pt": null,
+			"tr": "Gizlilik seçenekleri için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
+		},
 		"sourceNotVisible": {
 			"description": "info > edit panel > when source code is hidden",
-			"en": "source code won't be visible, but it will still be accessible via browser console",
+			"en": "Source code won't be visible, but it will still be accessible via browser console",
 			"ja": "コードは非表示になりますが、ブラウザコンソールからはアクセス可能です。",
 			"pt": null,
-			"tr": "kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
+			"tr": "Kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
+		},
+		"hideSource-joinPlus": {
+			"description": "info > edit panel. Displayed to non-plus members",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to hide source code",
+			"ja": null,
+			"pt": null,
+			"tr": "Kodu gizlemek için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"privateURL": {
 			"description": "info > edit panel",
@@ -640,6 +654,13 @@ OP.languageLibraryDefault = {
 			"pt": "Por favor, salve seu esboço para criar uma URL privada",
 			"tr": "Gizli adres yaratmadan önce lütfen çizimi kaydet" 
 		},
+		"privateURL-joinPlus": {
+			"description": "info > edit panel",
+			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to share your sketch with private URL",
+			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
+			"pt": "Por favor, salve seu esboço para criar uma URL privada",
+			"tr": "Çizimini gizli adres ile paylaşmak için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
+		},
 		"deleteSketch": {
 			"description": "info > edit panel",
 			"en": "Delete Sketch?",
@@ -655,6 +676,27 @@ OP.languageLibraryDefault = {
 			"ja": "名前",
 			"pt": "nome",
 			"tr": "isim" 
+		},
+		"username": {
+			"description": "Currently, only used for student accounts. ie. codingLegend1234",
+			"en": "username",
+			"ja": null,
+			"pt": null,
+			"tr": "kullanıcı ismi"
+		},
+		"username-warning": {
+			"description": "warning students not to use their real name",
+			"en": "Do not include your real name",
+			"ja": null,
+			"pt": null,
+			"tr": "Güvenliğiniz için gerçek isminizi kullanmayın"
+		},
+		"restricted-warning": {
+			"description": "warning for restricted student accounts about their profile",
+			"en": "You have a restricted student account. You can browse OpenProcessing as usual, but you can only interact with your classmates and teachers. Your profile and sketches are only visible to your classmates and teachers.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kısıtlı öğrenci hesabınız var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfınızdaki kullanıcılarla iletişim kurabilirsiniz. Hesabınız ve projeleriniz sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
 		},
 		"bio": {
 			"description": "Edit Profile label",
@@ -788,6 +830,13 @@ OP.languageLibraryDefault = {
 			"ja": "from",
 			"pt": "de",
 			"tr": "" 
+		},
+		"changeAvatar": {
+			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
+			"en": "Change Avatar",
+			"ja": null,
+			"pt": null,
+			"tr": "Resmi Değiştir"
 		},
 		"editProfile": {
 			"description": "user bio",
