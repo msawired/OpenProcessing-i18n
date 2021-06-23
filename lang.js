@@ -576,6 +576,13 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Tam Ekran"
+		},
+		"share": {
+			"description": "under share panel",
+			"en": "Share",
+			"ja": null,
+			"pt": null,
+			"tr": "Paylaş"
 		}
 	},
 	"user": {
