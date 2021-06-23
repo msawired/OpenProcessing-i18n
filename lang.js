@@ -569,6 +569,13 @@ OP.languageLibraryDefault = {
 			"ja": "スケッチを削除しますか？",
 			"pt": "Apagar Esboço?",
 			"tr": "Çizimi Sil?"
+		},
+		"fullscreen": {
+			"description": "under share panel",
+			"en": "Fullscreen",
+			"ja": null,
+			"pt": null,
+			"tr": "Tam Ekran"
 		}
 	},
 	"user": {
