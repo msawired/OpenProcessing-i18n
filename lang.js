@@ -723,6 +723,13 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Tam ekran görüntüle"
+		},
+		"submitToClass": {
+			"description": "under share panel",
+			"en": "Submit to Class",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıfa teslim et"
 		}
 	},
 	"user": {
