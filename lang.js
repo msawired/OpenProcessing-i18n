@@ -696,13 +696,33 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "İndirmek için giriş yapın"
 		},
-
 		"addToCuration": {
 			"description": "under share panel",
 			"en": "Add to Curation",
 			"ja": null,
 			"pt": null,
 			"tr": "Kürasyona ekle"
+		},
+		"addToCuration": {
+			"description": "under share panel",
+			"en": "Add to Curation",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyona ekle"
+		},
+		"showInstructions": {
+			"description": "under share panel",
+			"en": "Show Instructions",
+			"ja": null,
+			"pt": null,
+			"tr": "Yönergeleri görüntüle"
+		},
+		"showFullscreen": {
+			"description": "under share panel",
+			"en": "Show Instructions",
+			"ja": null,
+			"pt": null,
+			"tr": "Tam ekran görüntüle"
 		}
 	},
 	"user": {
