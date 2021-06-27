@@ -583,6 +583,28 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Paylaş"
+		},
+		"noForksCreatedYet": {
+			"description": "under fork panel",
+			"en": "No forks created yet",
+			"ja": null,
+			"pt": null,
+			"tr": "Henüz hiçbir çatal oluşturulmadı."
+		},
+		"signInToDownload": {
+			"description": "under share panel",
+			"en": "Sign in to download",
+			"ja": null,
+			"pt": null,
+			"tr": "İndirmek için giriş yapın"
+		},
+
+		"addToCuration": {
+			"description": "under share panel",
+			"en": "Add to Curation",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyona ekle"
 		}
 	},
 	"user": {
