@@ -687,7 +687,7 @@ OP.languageLibraryDefault = {
 			"en": "No forks created yet",
 			"ja": null,
 			"pt": null,
-			"tr": "Henüz hiçbir çatal oluşturulmadı."
+			"tr": "Henüz hiçbir çatal oluşturulmadı"
 		},
 		"signInToDownload": {
 			"description": "under share panel",
@@ -701,35 +701,28 @@ OP.languageLibraryDefault = {
 			"en": "Add to Curation",
 			"ja": null,
 			"pt": null,
-			"tr": "Kürasyona ekle"
-		},
-		"addToCuration": {
-			"description": "under share panel",
-			"en": "Add to Curation",
-			"ja": null,
-			"pt": null,
-			"tr": "Kürasyona ekle"
+			"tr": "Kürasyona Ekle"
 		},
 		"showInstructions": {
 			"description": "under share panel",
 			"en": "Show Instructions",
 			"ja": null,
 			"pt": null,
-			"tr": "Yönergeleri görüntüle"
+			"tr": "Yönergeleri Görüntüle"
 		},
 		"showFullscreen": {
 			"description": "under share panel",
 			"en": "Show Instructions",
 			"ja": null,
 			"pt": null,
-			"tr": "Tam ekran görüntüle"
+			"tr": "Tam Ekran Görüntüle"
 		},
 		"submitToClass": {
 			"description": "under share panel",
 			"en": "Submit to Class",
 			"ja": null,
 			"pt": null,
-			"tr": "Sınıfa teslim et"
+			"tr": "Sınıfa Teslim Et"
 		}
 	},
 	"user": {
