@@ -667,6 +667,62 @@ OP.languageLibraryDefault = {
 			"ja": "スケッチを削除しますか？",
 			"pt": "Apagar Esboço?",
 			"tr": "Çizimi Sil?"
+		},
+		"fullscreen": {
+			"description": "under share panel",
+			"en": "Fullscreen",
+			"ja": null,
+			"pt": null,
+			"tr": "Tam Ekran"
+		},
+		"share": {
+			"description": "under share panel",
+			"en": "Share",
+			"ja": null,
+			"pt": null,
+			"tr": "Paylaş"
+		},
+		"noForksCreatedYet": {
+			"description": "under fork panel",
+			"en": "No forks created yet",
+			"ja": null,
+			"pt": null,
+			"tr": "Henüz hiçbir çatal oluşturulmadı"
+		},
+		"signInToDownload": {
+			"description": "under share panel",
+			"en": "Sign in to download",
+			"ja": null,
+			"pt": null,
+			"tr": "İndirmek için giriş yapın"
+		},
+		"addToCuration": {
+			"description": "under share panel",
+			"en": "Add to Curation",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyona Ekle"
+		},
+		"showInstructions": {
+			"description": "under share panel",
+			"en": "Show Instructions",
+			"ja": null,
+			"pt": null,
+			"tr": "Yönergeleri Görüntüle"
+		},
+		"showFullscreen": {
+			"description": "under share panel",
+			"en": "Show Instructions",
+			"ja": null,
+			"pt": null,
+			"tr": "Tam Ekran Görüntüle"
+		},
+		"submitToClass": {
+			"description": "under share panel",
+			"en": "Submit to Class",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıfa Teslim Et"
 		}
 	},
 	"user": {
