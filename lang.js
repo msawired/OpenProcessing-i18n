@@ -730,7 +730,43 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Sınıfa teslim et"
-		}
+		},
+		"post": {
+			"description": "under comment panel",
+			"en": "Post",
+			"ja": null,
+			"pt": null,
+			"tr": "Paylaş"
+		},
+		"cancel": {
+			"description": "under comment panel",
+			"en": "Cancel",
+			"ja": null,
+			"pt": null,
+			"tr": "İptal"
+		},
+		"cancel": {
+			"description": "under comment panel",
+			"en": "Cancel",
+			"ja": null,
+			"pt": null,
+			"tr": "İptal"
+		},
+		"attribute": {
+			"description": "under share panel",
+			"en": "Attribute",
+			"ja": null,
+			"pt": null,
+			"tr": "Kaynak göster"
+		},
+		"download": {
+			"description": "under share panel",
+			"en": "Download",
+			"ja": null,
+			"pt": null,
+			"tr": "İndir"
+		},
+
 	},
 	"user": {
 		"name": {
