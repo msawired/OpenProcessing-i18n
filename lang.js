@@ -722,7 +722,7 @@ OP.languageLibraryDefault = {
 			"en": "Submit to Class",
 			"ja": null,
 			"pt": null,
-			"tr": "Sınıfa teslim et"
+			"tr": "Sınıfa Ekle"
 		},
 		"post": {
 			"description": "under comment panel",
@@ -761,10 +761,10 @@ OP.languageLibraryDefault = {
 		},
 		"embed": {
 			"description": "under share panel",
-			"en": "Embed:",
+			"en": "Embed",
 			"ja": null,
 			"pt": null,
-			"tr": "Yerleştir:"
+			"tr": "Gömülü Nesne"
 		},
 		"select": {
 			"description": "under share panel",
