@@ -757,7 +757,7 @@ OP.languageLibraryDefault = {
 			"en": "Attribute",
 			"ja": null,
 			"pt": null,
-			"tr": "Kaynak göster"
+			"tr": "Kaynak bilgisi"
 		},
 		"download": {
 			"description": "under share panel",
@@ -765,6 +765,20 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "İndir"
+		},
+		"download": {
+			"description": "under share panel",
+			"en": "Download",
+			"ja": null,
+			"pt": null,
+			"tr": "İndir"
+		},
+		"license": {
+			"description": "under share panel",
+			"en": "License:",
+			"ja": null,
+			"pt": null,
+			"tr": "Lisans:"
 		},
 
 	},
