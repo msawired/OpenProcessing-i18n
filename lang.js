@@ -25,7 +25,7 @@ OP.languageLibraryDefault = {
 			"en": "by",
 			"ja": "by",
 			"pt": "por",
-			"tr": "" 
+			"tr": "​" //note zero-width space
 		},
 		"eg": {
 			"description": "Used to give examples with e.g. (for example)'",
@@ -687,7 +687,7 @@ OP.languageLibraryDefault = {
 			"en": "No forks created yet",
 			"ja": null,
 			"pt": null,
-			"tr": "Henüz hiçbir çatal oluşturulmadı."
+			"tr": "Henüz hiçbir çatal oluşturulmadı"
 		},
 		"signInToDownload": {
 			"description": "under share panel",
@@ -701,28 +701,21 @@ OP.languageLibraryDefault = {
 			"en": "Add to Curation",
 			"ja": null,
 			"pt": null,
-			"tr": "Kürasyona ekle"
-		},
-		"addToCuration": {
-			"description": "under share panel",
-			"en": "Add to Curation",
-			"ja": null,
-			"pt": null,
-			"tr": "Kürasyona ekle"
+			"tr": "Kürasyona Ekle"
 		},
 		"showInstructions": {
 			"description": "under share panel",
 			"en": "Show Instructions",
 			"ja": null,
 			"pt": null,
-			"tr": "Yönergeleri görüntüle"
+			"tr": "Yönergeleri Görüntüle"
 		},
 		"showFullscreen": {
 			"description": "under share panel",
 			"en": "Show Instructions",
 			"ja": null,
 			"pt": null,
-			"tr": "Tam ekran görüntüle"
+			"tr": "Tam Ekran Görüntüle"
 		},
 		"submitToClass": {
 			"description": "under share panel",
@@ -745,26 +738,12 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "İptal"
 		},
-		"cancel": {
-			"description": "under comment panel",
-			"en": "Cancel",
-			"ja": null,
-			"pt": null,
-			"tr": "İptal"
-		},
 		"attribute": {
 			"description": "under share panel",
 			"en": "Attribute",
 			"ja": null,
 			"pt": null,
 			"tr": "Kaynak bilgisi"
-		},
-		"download": {
-			"description": "under share panel",
-			"en": "Download",
-			"ja": null,
-			"pt": null,
-			"tr": "İndir"
 		},
 		"download": {
 			"description": "under share panel",
