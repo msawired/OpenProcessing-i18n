@@ -25,7 +25,7 @@ OP.languageLibraryDefault = {
 			"en": "by",
 			"ja": "by",
 			"pt": "por",
-			"tr": "" 
+			"tr": "​" //note zero-width space
 		},
 		"eg": {
 			"description": "Used to give examples with e.g. (for example)'",
