@@ -743,7 +743,7 @@ OP.languageLibraryDefault = {
 			"en": "Attribute",
 			"ja": null,
 			"pt": null,
-			"tr": "Kaynak bilgisi"
+			"tr": "Kaynak Bilgisi"
 		},
 		"download": {
 			"description": "under share panel",
@@ -759,6 +759,20 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "Lisans:"
 		},
+		"embed": {
+			"description": "under share panel",
+			"en": "Embed:",
+			"ja": null,
+			"pt": null,
+			"tr": "Yerleştir:"
+		},
+		"select": {
+			"description": "under share panel",
+			"en": "Select",
+			"ja": null,
+			"pt": null,
+			"tr": "Seç"
+		}
 
 	},
 	"user": {
