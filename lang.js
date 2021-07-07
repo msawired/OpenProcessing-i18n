@@ -772,8 +772,14 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Seç"
+		},
+		"record": {
+			"description": "under share panel",
+			"en": "Record",
+			"ja": null,
+			"pt": null,
+			"tr": "Kaydet"
 		}
-
 	},
 	"user": {
 		"name": {
