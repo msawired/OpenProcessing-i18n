@@ -25,7 +25,7 @@ OP.languageLibraryDefault = {
 			"en": "by",
 			"ja": "by",
 			"pt": "por",
-			"tr": "" 
+			"tr": "​" //note zero-width space
 		},
 		"eg": {
 			"description": "Used to give examples with e.g. (for example)'",
@@ -722,7 +722,63 @@ OP.languageLibraryDefault = {
 			"en": "Submit to Class",
 			"ja": null,
 			"pt": null,
-			"tr": "Sınıfa Teslim Et"
+			"tr": "Sınıfa Ekle"
+		},
+		"post": {
+			"description": "under comment panel",
+			"en": "Post",
+			"ja": null,
+			"pt": null,
+			"tr": "Paylaş"
+		},
+		"cancel": {
+			"description": "under comment panel",
+			"en": "Cancel",
+			"ja": null,
+			"pt": null,
+			"tr": "İptal"
+		},
+		"attribute": {
+			"description": "under share panel",
+			"en": "Attribute",
+			"ja": null,
+			"pt": null,
+			"tr": "Kaynak Bilgisi"
+		},
+		"download": {
+			"description": "under share panel",
+			"en": "Download",
+			"ja": null,
+			"pt": null,
+			"tr": "İndir"
+		},
+		"license": {
+			"description": "under share panel",
+			"en": "License:",
+			"ja": null,
+			"pt": null,
+			"tr": "Lisans:"
+		},
+		"embed": {
+			"description": "under share panel",
+			"en": "Embed",
+			"ja": null,
+			"pt": null,
+			"tr": "Gömülü Nesne"
+		},
+		"select": {
+			"description": "under share panel",
+			"en": "Select",
+			"ja": null,
+			"pt": null,
+			"tr": "Seç"
+		},
+		"record": {
+			"description": "under share panel",
+			"en": "Record",
+			"ja": null,
+			"pt": null,
+			"tr": "Kaydet"
 		}
 	},
 	"user": {
