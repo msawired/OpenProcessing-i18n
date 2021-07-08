@@ -752,13 +752,6 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "İndir"
 		},
-		"license": {
-			"description": "under share panel",
-			"en": "License:",
-			"ja": null,
-			"pt": null,
-			"tr": "Lisans:"
-		},
 		"embed": {
 			"description": "under share panel",
 			"en": "Embed",
