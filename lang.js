@@ -915,6 +915,20 @@ OP.languageLibraryDefault = {
 			"pt": "Selecione quando receber notificações por email",
 			"tr": "Hangi durumlarda eposta bildirimi almak istediğini seç" 
 		},
+		"advancedSettings": {
+			"description": "Edit Profile > label",
+			"en": "Advanced Settings",
+			"ja": null,
+			"pt": null,
+			"tr": "Karışık İşler"
+		},
+		"advancedSettingsDescription": {
+			"description": "Edit Profile > label",
+			"en": "Update sketches in bulk, download all, and more",
+			"ja": null,
+			"pt": null,
+			"tr": "Tüm çizimlerde toplu değişiklik yap, içerik indir, ve daha fazlası"
+		},
 		"deleteAccount": {
 			"description": "Edit Profile > label",
 			"en": "Delete Account",
