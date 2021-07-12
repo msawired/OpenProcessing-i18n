@@ -365,7 +365,7 @@ OP.languageLibraryDefault = {
 			"en": "Prevents infinite loops that may freeze the sketch.",
 			"ja": "スケッチのフリーズを引き起こす無限ループを防止する",
 			"pt": "Previne lanços infinitos que podem congelar seu esboço.",
-			"tr": "Çiziminizi dondurabilicek döngüleri yakalar." 
+			"tr": "Çiziminizi dondurabilecek döngüleri yakalar." 
 		},
 		"libraries": {
 			"description": "Code Options > sketch",
