@@ -712,7 +712,7 @@ OP.languageLibraryDefault = {
 		},
 		"showFullscreen": {
 			"description": "under share panel",
-			"en": "Show Instructions",
+			"en": "Show Fullscreen",
 			"ja": null,
 			"pt": null,
 			"tr": "Tam Ekran Görüntüle"
