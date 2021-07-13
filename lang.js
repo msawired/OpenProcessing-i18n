@@ -1047,6 +1047,83 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Kürasyon bulunamadı."
+		},
+		"createClass": {
+			"description": "in class section",
+			"en": "Create a Class",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıf Yarat"
+		},
+		"active": {
+			"description": "in class section",
+			"en": "active",
+			"ja": null,
+			"pt": null,
+			"tr": "aktif"
+		},
+		"students": {
+			"description": "in class section",
+			"en": "students",
+			"ja": null,
+			"pt": null,
+			"tr": "öğrenciler"
+		},
+		"student": {
+			"description": "in class section",
+			"en": "student",
+			"ja": null,
+			"pt": null,
+			"tr": "öğrenci"
+		},
+		"seats": {
+			"description": "in class section",
+			"en": "seats",
+			"ja": null,
+			"pt": null,
+			"tr": "yerleri"
+		},
+		"editMembership": {
+			"description": "in class section",
+			"en": "Edit Membership",
+			"ja": null,
+			"pt": null,
+			"tr": "Üyeliği Düzenle"
+		},
+		"faq": {
+			"description": "in class section",
+			"en": "FAQ",
+			"ja": null,
+			"pt": null,
+			"tr": "SSS"
+		},
+		"subscribe": {
+			"description": "in class section",
+			"en": "Subscribe",
+			"ja": null,
+			"pt": null,
+			"tr": "Abone Ol"
+		},
+		"noClasses": {
+			"description": "in class section",
+			"en": "You don't have any classes.",
+			"ja": null,
+			"pt": null,
+			"tr": "Ekli sınıfınız yok."
+		},
+		"noClassesFound": {
+			"description": "in class section",
+			"en": "No classes found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıf bulunamadı."
+		},
+		"archivedClasses": {
+			"description": "in class section",
+			"en": "Archived Classes",
+			"ja": null,
+			"pt": null,
+			"tr": "Arşivlenmiş Sınıflar"
 		}
 	},
 	"feed": {
