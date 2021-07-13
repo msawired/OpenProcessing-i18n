@@ -1026,6 +1026,27 @@ OP.languageLibraryDefault = {
 			"ja": "グリッド表示",
 			"pt": null,
 			"tr": "Izgara"
+		},
+		"createCuration": {
+			"description": "in curation section",
+			"en": "Create a Curation",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyon Yarat"
+		},
+		"curationExplanation": {
+			"description": "in curation section",
+			"en": "With curations, you can collect sketches around a topic or a theme.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerinizi bir araya getirebilirsiniz."
+		},
+		"noCurationFound": {
+			"description": "in curation section",
+			"en": "No curations found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyon bulunamadı."
 		}
 	},
 	"feed": {
