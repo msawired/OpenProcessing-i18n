@@ -45,7 +45,7 @@ OP.languageLibraryDefault = {
 			"description": "navigation - when sketch is embedded. 'Fork' as a verb, not a noun.",
 			"en": "Fork",
 			"ja": null,
-			"pt": null,
+			"pt": "Copiar",
 			"tr": "Çatalla" 
 		},
 		"save": {
@@ -59,7 +59,7 @@ OP.languageLibraryDefault = {
 			"description": "navigation - when sketch is saved",
 			"en": "Saved",
 			"ja": "保存完了",
-			"pt": null,
+			"pt": "Salvo",
 			"tr": "Kaydoldu" 
 		},
 		"saving": {
@@ -159,7 +159,7 @@ OP.languageLibraryDefault = {
 			"description": "navigation item > displayed when on a mobile device",
 			"en": "My Profile",
 			"ja": null,
-			"pt": null,
+			"pt": "Meu Perfil",
 			"tr": "Profilim" 
 		},
 		"createSketch": {
@@ -173,42 +173,42 @@ OP.languageLibraryDefault = {
 			"description": "navigation item > profile dropdown menu",
 			"en": "View My Profile",
 			"ja": null,
-			"pt": null,
+			"pt": "Ver Meu Perfil",
 			"tr": "Profilim"
 		},
 		"alreadyHaveAccount": {
 			"description": "navigation item > guest profile dropdown menu",
 			"en": "Already have an account?",
 			"ja": null,
-			"pt": null,
+			"pt": "Já tem uma conta?",
 			"tr": "Hesabın varsa"
 		},
 		"FAQ": {
 			"description": "navigation item > profile dropdown footer 'Frequently Asked Questions' link",
 			"en": "FAQ",
 			"ja": null,
-			"pt": null,
+			"pt": "Dúvidas",
 			"tr": "SSS"
 		},
 		"contact": {
 			"description": "navigation item > profile dropdown  footer",
 			"en": "Contact",
 			"ja": null,
-			"pt": null,
+			"pt": "Contato",
 			"tr": "İletişim"
 		},
 		"support": {
 			"description": "navigation item > profile dropdown  footer. Used for launching support chat feature.",
 			"en": "Support",
 			"ja": null,
-			"pt": null,
+			"pt": "Ajuda",
 			"tr": "Yardım"
 		},
 		"editMyMembership": {
 			"description": "navigation item > profile dropdown. This link is to edit Plus+ membership.",
 			"en": "Edit Plus+ Membership",
 			"ja": null,
-			"pt": null,
+			"pt": "Editar Filiação Plus+",
 			"tr": "Plus+ Üyelik Ayarları"
 		},
 		"sketches": {
@@ -609,21 +609,21 @@ OP.languageLibraryDefault = {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to change privacy settings",
 			"ja": null,
-			"pt": null,
+			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para mudar sua configuração de privacidade",
 			"tr": "Gizlilik seçenekleri için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"sourceNotVisible": {
 			"description": "info > edit panel > when source code is hidden",
 			"en": "Source code won't be visible, but it will still be accessible via browser console",
 			"ja": "コードは非表示になりますが、ブラウザコンソールからはアクセス可能です。",
-			"pt": null,
+			"pt": "O código fonte não estará visível, mas será acessível pelo depurador do navegador.",
 			"tr": "Kod gözükmeyecek ama hala tarayıcı konsolu üzerinden erişilebilir"
 		},
 		"hideSource-joinPlus": {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to hide source code",
 			"ja": null,
-			"pt": null,
+			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para esconder o código fonte",
 			"tr": "Kodu gizlemek için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"privateURL": {
@@ -672,105 +672,105 @@ OP.languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Fullscreen",
 			"ja": null,
-			"pt": null,
+			"pt": "Tela cheia",
 			"tr": "Tam Ekran"
 		},
 		"share": {
 			"description": "under share panel",
 			"en": "Share",
 			"ja": null,
-			"pt": null,
+			"pt": "Compartilhar",
 			"tr": "Paylaş"
 		},
 		"noForksCreatedYet": {
 			"description": "under fork panel",
 			"en": "No forks created yet",
 			"ja": null,
-			"pt": null,
+			"pt": "Sem cópias criadas ainda",
 			"tr": "Henüz hiçbir çatal oluşturulmadı"
 		},
 		"signInToDownload": {
 			"description": "under share panel",
 			"en": "Sign in to download",
 			"ja": null,
-			"pt": null,
+			"pt": "Entrar para baixar",
 			"tr": "İndirmek için giriş yapın"
 		},
 		"addToCuration": {
 			"description": "under share panel",
 			"en": "Add to Curation",
 			"ja": null,
-			"pt": null,
+			"pt": "Adicionar a Curadoria",
 			"tr": "Kürasyona Ekle"
 		},
 		"showInstructions": {
 			"description": "under share panel",
 			"en": "Show Instructions",
 			"ja": null,
-			"pt": null,
+			"pt": "Apresentar Instruções",
 			"tr": "Yönergeleri Görüntüle"
 		},
 		"showFullscreen": {
 			"description": "under share panel",
 			"en": "Show Fullscreen",
 			"ja": null,
-			"pt": null,
+			"pt": "Apresentar em Tela chcia",
 			"tr": "Tam Ekran Görüntüle"
 		},
 		"submitToClass": {
 			"description": "under share panel",
 			"en": "Submit to Class",
 			"ja": null,
-			"pt": null,
+			"pt": "Enviar para Aula",
 			"tr": "Sınıfa Ekle"
 		},
 		"post": {
 			"description": "under comment panel",
 			"en": "Post",
 			"ja": null,
-			"pt": null,
+			"pt": "Publicar",
 			"tr": "Paylaş"
 		},
 		"cancel": {
 			"description": "under comment panel",
 			"en": "Cancel",
 			"ja": null,
-			"pt": null,
+			"pt": "Cancelar",
 			"tr": "İptal"
 		},
 		"attribute": {
 			"description": "under share panel",
 			"en": "Attribute",
 			"ja": null,
-			"pt": null,
+			"pt": "Atribuir",
 			"tr": "Kaynak Bilgisi"
 		},
 		"download": {
 			"description": "under share panel",
 			"en": "Download",
 			"ja": null,
-			"pt": null,
+			"pt": "Baixar",
 			"tr": "İndir"
 		},
 		"embed": {
 			"description": "under share panel",
 			"en": "Embed",
 			"ja": null,
-			"pt": null,
+			"pt": "Anexar",
 			"tr": "Gömülü Nesne"
 		},
 		"select": {
 			"description": "under share panel",
 			"en": "Select",
 			"ja": null,
-			"pt": null,
+			"pt": "Selecionar",
 			"tr": "Seç"
 		},
 		"record": {
 			"description": "under share panel",
 			"en": "Record",
 			"ja": null,
-			"pt": null,
+			"pt": "Gravar",
 			"tr": "Kaydet"
 		}
 	},
@@ -786,28 +786,28 @@ OP.languageLibraryDefault = {
 			"description": "Currently, only used for student accounts. ie. codingLegend1234",
 			"en": "username",
 			"ja": null,
-			"pt": null,
+			"pt": "usuário(a)",
 			"tr": "kullanıcı ismi"
 		},
 		"username-warning": {
 			"description": "warning students not to use their real name",
 			"en": "Do not include your real name",
 			"ja": null,
-			"pt": null,
+			"pt": "Não inclua seu nome real",
 			"tr": "Güvenliğiniz için gerçek isminizi kullanmayın"
 		},
 		"restricted-warning": {
 			"description": "warning for restricted student accounts about their profile",
 			"en": "You have a restricted student account. You can browse OpenProcessing as usual, but you can only interact with your classmates and teachers. Your profile and sketches are only visible to your classmates and teachers.",
 			"ja": null,
-			"pt": null,
+			"pt": "Você tem um conta de estudante restrita. Você pode navegar no OpenProcessing normalmente, mas você só poderia interagir com seus amigos de turma e professores. Seu perfil e esboços estarão visíveis apenas para amigos de turma e professores.",
 			"tr": "Kısıtlı öğrenci hesabınız var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfınızdaki kullanıcılarla iletişim kurabilirsiniz. Hesabınız ve projeleriniz sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
 		},
 		"bio": {
 			"description": "Edit Profile label",
 			"en": "bio",
 			"ja": "自己紹介",
-			"pt": null,
+			"pt": "bio",
 			"tr": "biyo" 
 		},
 		"location": {
@@ -849,21 +849,21 @@ OP.languageLibraryDefault = {
 			"description": "Edit Profile > label",
 			"en": "background sketch",
 			"ja": "背景に設定するスケッチ",
-			"pt": null,
+			"pt": "esboço de fundo",
 			"tr": "arka plan çizimi" 
 		},
 		"backgroundSketch-description": {
 			"description": "Edit Profile > label",
 			"en": "For best experience, choose a fullscreen sketch that uses no file or audio and requires no user interaction.",
 			"ja": "外部ファイルやオーディオ、インタラクションを使用していないスケッチをおすすめします。",
-			"pt": null,
+			"pt": "Para melhor experiência, escolha um esboço que funcione em tela cheia e que não utilize arquivos, áudios e não seja necessário interação de usuários.",
 			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seçin" 
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
 			"en": "{joinpluslink} to feature a sketch behind your profile",
 			"ja": "プロフィールの背景にスケッチを設定するには{joinpluslink}",
-			"pt": null,
+			"pt": "{joinpluslink} para destacar um esboço atrás do seu perfil",
 			"tr": "Arka planda bir çizimini göstermek için {joinpluslink}"
 		},
 		"language": {
@@ -919,14 +919,14 @@ OP.languageLibraryDefault = {
 			"description": "Edit Profile > label",
 			"en": "Advanced Settings",
 			"ja": null,
-			"pt": null,
+			"pt": "Configurações Avançadas",
 			"tr": "Karışık İşler"
 		},
 		"advancedSettingsDescription": {
 			"description": "Edit Profile > label",
 			"en": "Update sketches in bulk, download all, and more",
 			"ja": null,
-			"pt": null,
+			"pt": "Atualize vários esboços juntos, baixe todos e muito mais",
 			"tr": "Tüm çizimlerde toplu değişiklik yap, içerik indir, ve daha fazlası"
 		},
 		"deleteAccount": {
@@ -954,7 +954,7 @@ OP.languageLibraryDefault = {
 			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
 			"en": "Change Avatar",
 			"ja": null,
-			"pt": null,
+			"pt": "Alterar Avatar",
 			"tr": "Resmi Değiştir"
 		},
 		"editProfile": {
@@ -1017,14 +1017,14 @@ OP.languageLibraryDefault = {
 			"description": "option in the tab section",
 			"en": "List View",
 			"ja": "リスト表示",
-			"pt": null,
+			"pt": "Ver em Lista",
 			"tr": "Liste"
 		},
 		"listView-grid": {
 			"description": "option in the tab section",
 			"en": "Grid View",
 			"ja": "グリッド表示",
-			"pt": null,
+			"pt": "Ver em Grade",
 			"tr": "Izgara"
 		}
 	},
@@ -1034,7 +1034,7 @@ OP.languageLibraryDefault = {
 			"description": "Activity Feed > when a user submits a sketch to class or collection",
 			"en": "{user} submitted a sketch to {collection}",
 			"ja": null,
-			"pt": null,
+			"pt": "{user} enviou um esboço para {collection}",
 			"tr": "{user} {collection} sınıfına bir çizim ekledi"
 		}
 	}
