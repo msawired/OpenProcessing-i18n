@@ -1124,7 +1124,28 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Arşivlenmiş Sınıflar"
-		}
+		},
+		"noMoreSeats": {
+			"description": "under class panel",
+			"en": "You have no more seats available. Please {addseats} or {archiveclasses}.",
+			"ja": null,
+			"pt": null,
+			"tr": "test {addSeats} or {archiveClasses}"
+		},
+		"addSeats": {
+			"description": "under class panel",
+			"en": "add seats",
+			"ja": null,
+			"pt": null,
+			"tr": "test"
+		},
+		"archiveClasses": {
+			"description": "under class panel",
+			"en": "archive your classes",
+			"ja": null,
+			"pt": null,
+			"tr": "test"
+		},
 	},
 	"feed": {
 		"submittedSketch": {
