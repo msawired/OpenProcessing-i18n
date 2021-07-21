@@ -1146,6 +1146,27 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "test"
 		},
+		"addRemoveSeats": {
+			"description": "under class panel",
+			"en": "Add/Remove Seats",
+			"ja": null,
+			"pt": null,
+			"tr": "Yer Ekle/Çıkar"
+		},
+		"referTeacher": {
+			"description": "under class panel",
+			"en": "Refer a Teacher",
+			"ja": null,
+			"pt": null,
+			"tr": "Öğretmene yönlendir"
+		},
+		"noSketchesFound":{
+			"description": "under class panel",
+			"en": "No sketches found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Çizim bulunamadı."
+		}
 	},
 	"feed": {
 		"submittedSketch": {
