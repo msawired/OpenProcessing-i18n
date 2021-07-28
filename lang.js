@@ -974,37 +974,37 @@ OP.languageLibraryDefault = {
 		"sketches": {
 			"description": "Tab",
 			"en": "0 Sketches | 1 Sketch | {n} Sketches",
-			"ja": "0 スケッチ | 1 スケッチ | {n} スケッチ",
+			"ja": "{n} スケッチ",
 			"pt": "0 Esboços | 1 Esboço | {n} Esboços",
-			"tr": "0 Çizim | 1 Çizim | {n} Çizim"
+			"tr": "{n} Çizim"
 		},
 		"classes": {
 			"description": "Tab",
 			"en": "0 Classes | 1 Class | {n} Classes",
-			"ja": "0 クラス | 1 クラス | {n} クラス",
+			"ja": "{n} クラス",
 			"pt": "0 Aulas | 1 Aula | {n} Aulas",
-			"tr": "0 Sınıf | 1 Sınıf | {n} Sınıf"
+			"tr": "{n} Sınıf"
 		},
 		"curations": {
 			"description": "Tab",
 			"en": "0 Curations | 1 Curation | {n} Curations",
-			"ja": "0 キュレーション | 1 キュレーション | {n} キュレーション",
+			"ja": "{n} キュレーション",
 			"pt": "0 Curadorias | 1 Curadoria | {n} Curadorias",
-			"tr": "0 Kürasyon | 1 Kürasyon | {n} Kürasyon"
+			"tr": "{n} Kürasyon"
 		},
 		"hearts": {
 			"description": "Tab. Due to copyrights, this phrase should not be anything close to 'like'. Please stick to 'hearts' as in 'you have a place in my heart'",
 			"en": "0 Hearts | 1 Heart | {n} Hearts",
-			"ja": "0 ハート | 1 ハート | {n} ハート",
+			"ja": "{n} ハート",
 			"pt": "0 Corações | 1 Coração | {n} Corações",
-			"tr": "0 Kalp | 1 Kalp | {n} Kalp"
+			"tr": "{n} Kalp"
 		},
 		"followers": {
 			"description": "Tab",
 			"en": "0 Followers | 1 Follower |{n} Followers",
-			"ja": "0 フォロワー | 1 フォロワー | {n} フォロワー",
+			"ja": "{n} フォロワー",
 			"pt": "0 Seguidores | 1 Seguidor |{n} Seguidores",
-			"tr": "0 Takipçi | 1 Takipçi | {n} Takipçi"
+			"tr": "{n} Takipçi"
 		},
 		"following": {
 			"description": "Tab",
@@ -1026,6 +1026,139 @@ OP.languageLibraryDefault = {
 			"ja": "グリッド表示",
 			"pt": "Ver em Grade",
 			"tr": "Izgara"
+		},
+		"createCuration": {
+			"description": "in curation section",
+			"en": "Create a Curation",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyon Yarat"
+		},
+		"curationExplanation": {
+			"description": "in curation section",
+			"en": "With curations, you can collect sketches around a topic or a theme.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerinizi bir araya getirebilirsiniz."
+		},
+		"noCurationFound": {
+			"description": "in curation section",
+			"en": "No curations found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Kürasyon bulunamadı."
+		},
+		"createClass": {
+			"description": "in class section",
+			"en": "Create a Class",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıf Yarat"
+		},
+		"activeStudents": {
+			"description": "in class section",
+			"en": "Active Students",
+			"ja": null,
+			"pt": null,
+			"tr": "Aktif Öğrenci"
+		},
+		"studentSeats": {
+			"description": "in class section",
+			"en": "Student Seats",
+			"ja": null,
+			"pt": null,
+			"tr": "Öğrenci Kapasitesi"
+		},
+		"numberOfStudents": {
+			"description": "under each class listed",
+			"en": "0 students | 1 student | {n} students",
+			"ja": null,
+			"pt": null,
+			"tr": "{n} öğrenci"
+		},
+		"editMembership": {
+			"description": "in class section",
+			"en": "Edit Membership",
+			"ja": null,
+			"pt": null,
+			"tr": "Üyeliği Düzenle"
+		},
+		"faq": {
+			"description": "in class section",
+			"en": "FAQ",
+			"ja": null,
+			"pt": null,
+			"tr": "SSS"
+		},
+		"subscribe": {
+			"description": "in class section",
+			"en": "Subscribe",
+			"ja": null,
+			"pt": null,
+			"tr": "Abone Ol"
+		},
+		"noClasses": {
+			"description": "in class section",
+			"en": "You don't have any classes.",
+			"ja": null,
+			"pt": null,
+			"tr": "Ekli sınıfınız yok."
+		},
+		"noClassesFound": {
+			"description": "in class section",
+			"en": "No classes found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Sınıf bulunamadı."
+		},
+		"archivedClasses": {
+			"description": "in class section",
+			"en": "Archived Classes",
+			"ja": null,
+			"pt": null,
+			"tr": "Arşivlenmiş Sınıflar"
+		},
+		"noMoreSeats": {
+			"description": "under class panel",
+			"en": "You have no more seats available. Please {addseats} or {archiveclasses}.",
+			"ja": null,
+			"pt": null,
+			"tr": "Hesabınızda öğrenci kapasiteniz kalmadı. Lütfen  {addseats} veya {archiveclasses}."
+		},
+		"addSeats": {
+			"description": "under class panel",
+			"en": "add seats",
+			"ja": null,
+			"pt": null,
+			"tr": "kapasite ekleyin"
+		},
+		"archiveClasses": {
+			"description": "under class panel",
+			"en": "archive your classes",
+			"ja": null,
+			"pt": null,
+			"tr": "sınıfları arşivleyin"
+		},
+		"addRemoveSeats": {
+			"description": "under class panel",
+			"en": "Add/Remove Seats",
+			"ja": null,
+			"pt": null,
+			"tr": "Kapasite Ekle/Çıkar"
+		},
+		"referTeacher": {
+			"description": "under class panel. This is a link that pops up unique teacher referral code that teacher ",
+			"en": "Refer a Teacher",
+			"ja": null,
+			"pt": null,
+			"tr": "Öğretmen Davet Et"
+		},
+		"noSketchesFound":{
+			"description": "under class panel",
+			"en": "No sketches found.",
+			"ja": null,
+			"pt": null,
+			"tr": "Çizim bulunamadı."
 		}
 	},
 	"feed": {
