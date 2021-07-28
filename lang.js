@@ -1095,7 +1095,7 @@ OP.languageLibraryDefault = {
 			"en": "Subscribe",
 			"ja": null,
 			"pt": null,
-			"tr": "Abone Ol"
+			"tr": "Üye Ol"
 		},
 		"noClasses": {
 			"description": "in class section",
