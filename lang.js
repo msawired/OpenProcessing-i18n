@@ -416,6 +416,20 @@ OP.languageLibraryDefault = {
 			"pt": "Este será a visualização padrão para seus esboços",
 			"tr": "Varsayılan şekil bu olacak" 
 		},
+		"darkMode": {
+			"description": "code settings > editor",
+			"en": "Dark Mode",
+			"ja": null,
+			"pt": null,
+			"tr": "Koyu Renk Modu" 
+		},
+		"darkModeDescription": {
+			"description": "code settings > editor",
+			"en": "Beta: Easy on the eyes",
+			"ja": null,
+			"pt": null,
+			"tr": "Beta: Okumayı kolaylaştırır" 
+		},
 		"console": {
 			"description": "code settings > editor",
 			"en": "Console",
