@@ -786,6 +786,13 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": "Gravar",
 			"tr": "Kaydet"
+		},
+		"reportSketch": {
+			"description": "under share panel",
+			"en": "Report Sketch",
+			"ja": null,
+			"pt": null,
+			"tr": "Çizimi Şikayet Et"
 		}
 	},
 	"user": {
