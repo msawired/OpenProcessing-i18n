@@ -155,6 +155,13 @@ OP.languageLibraryDefault = {
 			"pt": "Ensinar",
 			"tr": "Öğret" 
 		},
+		"collect": {
+			"description": "navigation item",
+			"en": "Collect",
+			"ja": "収集",
+			"pt": "Coletar",
+			"tr": "Satın Al" 
+		},
 		"myProfile": {
 			"description": "navigation item > displayed when on a mobile device",
 			"en": "My Profile",
