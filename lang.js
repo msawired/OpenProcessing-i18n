@@ -999,6 +999,13 @@ OP.languageLibraryDefault = {
 			"pt": "Atividades",
 			"tr": "Olan Bitenler" 
 		},
+		"crayons": {
+			"description": "Tab",
+			"en": "0 Crayons | 1 Crayon | {n} Crayons",
+			"ja": "{n} Crayon",
+			"pt": "0 Crayons | 1 Crayon | {n} Crayons",
+			"tr": "{n} Crayon"
+		},
 		"sketches": {
 			"description": "Tab",
 			"en": "0 Sketches | 1 Sketch | {n} Sketches",
