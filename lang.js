@@ -432,10 +432,10 @@ OP.languageLibraryDefault = {
 		},
 		"darkModeDescription": {
 			"description": "code settings > editor",
-			"en": "Beta: Easy on the eyes",
+			"en": "Easy on the eyes",
 			"ja": null,
 			"pt": null,
-			"tr": "Beta: Okumayı kolaylaştırır" 
+			"tr": "Okumayı kolaylaştırır" 
 		},
 		"console": {
 			"description": "code settings > editor",
@@ -495,10 +495,10 @@ OP.languageLibraryDefault = {
 		},
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
-			"en": "{0} to add custom libraries, private sketches, and more!",
+			"en": "{0} for private sketches, custom embeds, and more!",
 			"ja": "{0}とカスタムライブラリの追加や非公開スケッチなど、様々な機能が追加できます！",
-			"pt": "{0} adicionar mais bibliotecas personalizadas, esboços privados, e mais!",
-			"tr": "Özel kütüphaneler eklemek, gizli çizimler yapmak, ve daha fazlası için {0}"
+			"pt": "{0} esboços privados, embeds personalizadas, e mais!",
+			"tr": "Gizli çizimler, tam ekran gömülü nesneler, ve daha fazlası için {0}"
 		},
 		"forkInfo": {
 			"description": "info panel",
