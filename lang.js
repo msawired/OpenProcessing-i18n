@@ -302,7 +302,7 @@ OP.languageLibraryDefault = {
 			"en": "Write step-by-step tutorials.",
 			"ja": "チュートリアル記事を書く",
 			"pt": "Escreva tutoriais passo-a-passo.",
-			"tr": "Adım adım öğretici rehberler yazın." 
+			"tr": "Adım adım öğretici rehberler yaz." 
 		},
 		"liveCollaboration": {
 			"description": "Code Options > sketch > label",
@@ -330,7 +330,7 @@ OP.languageLibraryDefault = {
 			"en": "Please save your sketch to enable.",
 			"ja": "スケッチを保存してください",
 			"pt": "Por favor, salve o esboço para habilitar.",
-			"tr": "Lütfen önce çiziminizi kaydedin." 
+			"tr": "Lütfen önce çizimini kaydet." 
 		},
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
@@ -372,7 +372,7 @@ OP.languageLibraryDefault = {
 			"en": "Prevents infinite loops that may freeze the sketch.",
 			"ja": "スケッチのフリーズを引き起こす無限ループを防止する",
 			"pt": "Previne lanços infinitos que podem congelar seu esboço.",
-			"tr": "Çiziminizi dondurabilecek döngüleri yakalar." 
+			"tr": "Çizimini dondurabilecek döngüleri yakalar." 
 		},
 		"libraries": {
 			"description": "Code Options > sketch",
@@ -463,7 +463,7 @@ OP.languageLibraryDefault = {
 			"en": "Potential warnings will be displayed as you type",
 			"ja": "入力時のエラーや警告を表示する",
 			"pt": "Avisos em potencial serão exibidos conforme você digita",
-			"tr": "Daha siz yazarken olası hataların altı çizilir"
+			"tr": "Kod yazarken olası hataların altı çizilir"
 		},
 		"lintingDescription-p5js": {
 			"description": "code settings > editor. Shows when sketch is not p5js.",
@@ -526,7 +526,7 @@ OP.languageLibraryDefault = {
 			"en": "How to <br/> interact with it",
 			"ja": "操作方法",
 			"pt": "Como interagir <br/> com isso",
-			"tr": "Nasıl Etkileşebiliriz" 
+			"tr": "Nasıl Etkileşilebilir" 
 		},
 		"tags": {
 			"description": "info > edit panel",
@@ -561,7 +561,21 @@ OP.languageLibraryDefault = {
 			"en": "Won't be listed on feeds but still accessible on your profile",
 			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
 			"pt": "Não será listado no feed, mas continuará acessível no seu perfil",
-			"tr": "Bildirimlerde gözükmez ama kendi profilinizde hala erişilebilir" 
+			"tr": "Bildirimlerde gözükmez ama kendi profilinde hala erişilebilir" 
+		},
+		"template": {
+			"description": "info > edit panel",
+			"en": "Add to My Templates",
+			"ja": null,
+			"pt": null,
+			"tr": "Şablonlarıma Ekle"
+		},
+		"templateDescription": {
+			"description": "info > edit panel",
+			"en": "Will show in template list to use on your new sketches",
+			"ja": null,
+			"pt": null,
+			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
 		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
@@ -603,7 +617,7 @@ OP.languageLibraryDefault = {
 			"en": "Only the students and teachers in your classes",
 			"ja": "自分のクラスの先生と生徒のみ",
 			"pt": "Somente estudantes e professores nas suas aulas",
-			"tr": "Sadece sınıflarınızdaki öğrenci ve öğretmenler" 
+			"tr": "Sadece sınıflarındaki öğrenci ve öğretmenler" 
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
@@ -617,7 +631,7 @@ OP.languageLibraryDefault = {
 			"en": "Only the teachers in your classes",
 			"ja": "自分のクラスの先生のみ",
 			"pt": "Somente os professores das suas aulas",
-			"tr": "Sadece sınıflarınızdaki öğretmenleriniz" 
+			"tr": "Sadece sınıflarındaki öğretmenleriniz" 
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
@@ -822,14 +836,14 @@ OP.languageLibraryDefault = {
 			"en": "Do not include your real name",
 			"ja": null,
 			"pt": "Não inclua seu nome real",
-			"tr": "Güvenliğiniz için gerçek isminizi kullanmayın"
+			"tr": "Güvenliğin için gerçek ismini kullanma"
 		},
 		"restricted-warning": {
 			"description": "warning for restricted student accounts about their profile",
 			"en": "You have a restricted student account. You can browse OpenProcessing as usual, but you can only interact with your classmates and teachers. Your profile and sketches are only visible to your classmates and teachers.",
 			"ja": null,
 			"pt": "Você tem um conta de estudante restrita. Você pode navegar no OpenProcessing normalmente, mas você só poderia interagir com seus amigos de turma e professores. Seu perfil e esboços estarão visíveis apenas para amigos de turma e professores.",
-			"tr": "Kısıtlı öğrenci hesabınız var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfınızdaki kullanıcılarla iletişim kurabilirsiniz. Hesabınız ve projeleriniz sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
+			"tr": "Kısıtlı öğrenci hesabın var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfındaki kullanıcılarla iletişim kurabilirsin. Hesabın ve projelerin sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
 		},
 		"bio": {
 			"description": "Edit Profile label",
@@ -885,7 +899,7 @@ OP.languageLibraryDefault = {
 			"en": "For best experience, choose a fullscreen sketch that uses no file or audio and requires no user interaction.",
 			"ja": "外部ファイルやオーディオ、インタラクションを使用していないスケッチをおすすめします。",
 			"pt": "Para melhor experiência, escolha um esboço que funcione em tela cheia e que não utilize arquivos, áudios e não seja necessário interação de usuários.",
-			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seçin" 
+			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seç" 
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
@@ -1074,7 +1088,7 @@ OP.languageLibraryDefault = {
 			"en": "With curations, you can collect sketches around a topic or a theme.",
 			"ja": null,
 			"pt": null,
-			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerinizi bir araya getirebilirsiniz."
+			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerini bir araya getirebilirsin."
 		},
 		"noCurationFound": {
 			"description": "in curation section",
@@ -1137,7 +1151,7 @@ OP.languageLibraryDefault = {
 			"en": "You don't have any classes.",
 			"ja": null,
 			"pt": null,
-			"tr": "Ekli sınıfınız yok."
+			"tr": "Ekli sınıfın yok."
 		},
 		"noClassesFound": {
 			"description": "in class section",
@@ -1155,24 +1169,24 @@ OP.languageLibraryDefault = {
 		},
 		"noMoreSeats": {
 			"description": "under class panel",
-			"en": "You have no more seats available. Please {addseats} or {archiveclasses}.",
+			"en": "You have no more seats available. Please add seats or archive classes.",
 			"ja": null,
 			"pt": null,
-			"tr": "Hesabınızda öğrenci kapasiteniz kalmadı. Lütfen  {addseats} veya {archiveclasses}."
+			"tr": "Hesabında öğrenci kapasiten kalmadı. Lütfen öğrenci kapasitesi ekle veya eski sınıfları arşivle."
 		},
 		"addSeats": {
 			"description": "under class panel",
 			"en": "add seats",
 			"ja": null,
 			"pt": null,
-			"tr": "kapasite ekleyin"
+			"tr": "kapasite ekley"
 		},
 		"archiveClasses": {
 			"description": "under class panel",
 			"en": "archive your classes",
 			"ja": null,
 			"pt": null,
-			"tr": "sınıfları arşivleyin"
+			"tr": "sınıfları arşivley"
 		},
 		"addRemoveSeats": {
 			"description": "under class panel",
