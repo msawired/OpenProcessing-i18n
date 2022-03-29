@@ -752,6 +752,20 @@ OP.languageLibraryDefault = {
 			"pt": "Apresentar em Tela chcia",
 			"tr": "Tam Ekran Görüntüle"
 		},
+		"submitToCrayon": {
+			"description": "under share panel",
+			"en": "Submit to Crayon",
+			"ja": null,
+			"pt": null,
+			"tr": "Crayon'a Ekle"
+		},
+		"viewCrayon": {
+			"description": "under share panel. If already submitted to Crayon Codes",
+			"en": "View",
+			"ja": null,
+			"pt": null,
+			"tr": "Göz At"
+		},
 		"submitToClass": {
 			"description": "under share panel",
 			"en": "Submit to Class",
