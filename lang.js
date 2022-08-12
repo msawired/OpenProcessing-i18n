@@ -887,12 +887,40 @@ OP.languageLibraryDefault = {
 			"pt": "email",
 			"tr": "eposta" 
 		},
+		"emailBounced": {
+			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
+			"en": "We failed to send you an email using this address. Please change it to another address.",
+			"ja": null,
+			"pt": null,
+			"tr": "eposta" 
+		},
 		"password": {
 			"description": "Edit Profile > label",
 			"en": "password",
 			"ja": "パスワード",
 			"pt": "senha",
 			"tr": "şifre" 
+		},
+		"currentPassword": {
+			"description": "Edit Profile > label",
+			"en": "current password",
+			"ja": null,
+			"pt": null,
+			"tr": "mevcut şifre" 
+		},
+		"newPassword": {
+			"description": "Edit Profile > label",
+			"en": "new password",
+			"ja": null,
+			"pt": null,
+			"tr": "yeni şifre" 
+		},
+		"repeatPassword": {
+			"description": "Edit Profile > label",
+			"en": "repeat password",
+			"ja": null,
+			"pt": null,
+			"tr": "yeni şifre tekrar" 
 		},
 		"clickToChange": {
 			"description": "Edit Profile > password change link",
@@ -1089,6 +1117,13 @@ OP.languageLibraryDefault = {
 			"ja": "グリッド表示",
 			"pt": "Ver em Grade",
 			"tr": "Izgara"
+		},
+		"curation": {
+			"description": "Feed item",
+			"en": "Curation",
+			"ja": "キュレーション",
+			"pt": "Curadoria",
+			"tr": "Kürasyon"
 		},
 		"createCuration": {
 			"description": "in curation section",
