@@ -1,7 +1,7 @@
 OP.languageLibraryDefault = {
 	"languages": {
 		"en": "English",
-		"ja": "Japanese",
+		"ja": "日本語 (Japanese)",
 		"pt": "Portuguese",
 		"tr": "Türkçe"
 	},
@@ -44,7 +44,7 @@ OP.languageLibraryDefault = {
 		"fork": {
 			"description": "navigation - when sketch is embedded. 'Fork' as a verb, not a noun.",
 			"en": "Fork",
-			"ja": null,
+			"ja": "クローン",
 			"pt": "Copiar",
 			"tr": "Çatalla" 
 		},
@@ -165,7 +165,7 @@ OP.languageLibraryDefault = {
 		"myProfile": {
 			"description": "navigation item > displayed when on a mobile device",
 			"en": "My Profile",
-			"ja": null,
+			"ja": "私のプロフィール",
 			"pt": "Meu Perfil",
 			"tr": "Profilim" 
 		},
@@ -179,42 +179,42 @@ OP.languageLibraryDefault = {
 		"viewMyProfile": {
 			"description": "navigation item > profile dropdown menu",
 			"en": "View My Profile",
-			"ja": null,
+			"ja": "私のプロフィールを見る",
 			"pt": "Ver Meu Perfil",
 			"tr": "Profilim"
 		},
 		"alreadyHaveAccount": {
 			"description": "navigation item > guest profile dropdown menu",
 			"en": "Already have an account?",
-			"ja": null,
+			"ja": "すでにアカウントを持っていますか?",
 			"pt": "Já tem uma conta?",
 			"tr": "Hesabın varsa"
 		},
 		"FAQ": {
 			"description": "navigation item > profile dropdown footer 'Frequently Asked Questions' link",
 			"en": "FAQ",
-			"ja": null,
+			"ja": "よくある質問",
 			"pt": "Dúvidas",
 			"tr": "SSS"
 		},
 		"contact": {
 			"description": "navigation item > profile dropdown  footer",
 			"en": "Contact",
-			"ja": null,
+			"ja": "私たちと通信する",
 			"pt": "Contato",
 			"tr": "İletişim"
 		},
 		"support": {
 			"description": "navigation item > profile dropdown  footer. Used for launching support chat feature.",
 			"en": "Support",
-			"ja": null,
+			"ja": "サポート",
 			"pt": "Ajuda",
 			"tr": "Yardım"
 		},
 		"editMyMembership": {
 			"description": "navigation item > profile dropdown. This link is to edit Plus+ membership.",
 			"en": "Edit Plus+ Membership",
-			"ja": null,
+			"ja": "変更 Plus+ メンバーシップ",
 			"pt": "Editar Filiação Plus+",
 			"tr": "Plus+ Üyelik Ayarları"
 		},
@@ -426,14 +426,14 @@ OP.languageLibraryDefault = {
 		"darkMode": {
 			"description": "code settings > editor",
 			"en": "Dark Mode",
-			"ja": null,
+			"ja": "ダークモード",
 			"pt": null,
 			"tr": "Koyu Renk Modu" 
 		},
 		"darkModeDescription": {
 			"description": "code settings > editor",
 			"en": "Easy on the eyes",
-			"ja": null,
+			"ja": "目にやさしく",
 			"pt": null,
 			"tr": "Okumayı kolaylaştırır" 
 		},
@@ -573,7 +573,7 @@ OP.languageLibraryDefault = {
 		"templateDescription": {
 			"description": "info > edit panel",
 			"en": "Will show in template list to use on your new sketches",
-			"ja": null,
+			"ja": "新しいスケッチのテンプレート リストから簡単に呼び出すことができます。",
 			"pt": null,
 			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
 		},
@@ -643,7 +643,7 @@ OP.languageLibraryDefault = {
 		"privacy-joinPlus": {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to change privacy settings",
-			"ja": null,
+			"ja": "<a href='/membership/' target='_blank'>Plus+ に参加</a>プライバシー設定を変更するには",
 			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para mudar sua configuração de privacidade",
 			"tr": "Gizlilik seçenekleri için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
@@ -657,7 +657,7 @@ OP.languageLibraryDefault = {
 		"hideSource-joinPlus": {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to hide source code",
-			"ja": null,
+			"ja": "<a href='/membership/' target='_blank'>Plus+ に参加</a>してソース コードを非表示にする",
 			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para esconder o código fonte",
 			"tr": "Kodu gizlemek için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
@@ -706,126 +706,126 @@ OP.languageLibraryDefault = {
 		"fullscreen": {
 			"description": "under share panel",
 			"en": "Fullscreen",
-			"ja": null,
+			"ja": "フルスクリーン",
 			"pt": "Tela cheia",
 			"tr": "Tam Ekran"
 		},
 		"share": {
 			"description": "under share panel",
 			"en": "Share",
-			"ja": null,
+			"ja": "シェア",
 			"pt": "Compartilhar",
 			"tr": "Paylaş"
 		},
 		"noForksCreatedYet": {
 			"description": "under fork panel",
 			"en": "No forks created yet",
-			"ja": null,
+			"ja": "フォークは作成されません。",
 			"pt": "Sem cópias criadas ainda",
 			"tr": "Henüz hiçbir çatal oluşturulmadı"
 		},
 		"signInToDownload": {
 			"description": "under share panel",
 			"en": "Sign in to download",
-			"ja": null,
+			"ja": "ダウンロードするにはログインしてください",
 			"pt": "Entrar para baixar",
 			"tr": "İndirmek için giriş yapın"
 		},
 		"addToCuration": {
 			"description": "under share panel",
 			"en": "Add to Curation",
-			"ja": null,
+			"ja": "キュレーションに追加",
 			"pt": "Adicionar a Curadoria",
 			"tr": "Kürasyona Ekle"
 		},
 		"showInstructions": {
 			"description": "under share panel",
 			"en": "Show Instructions",
-			"ja": null,
+			"ja": "指示を表示",
 			"pt": "Apresentar Instruções",
 			"tr": "Yönergeleri Görüntüle"
 		},
 		"showFullscreen": {
 			"description": "under share panel",
 			"en": "Show Fullscreen",
-			"ja": null,
+			"ja": "フルスクリーンで表示",
 			"pt": "Apresentar em Tela chcia",
 			"tr": "Tam Ekran Görüntüle"
 		},
 		"submitToCrayon": {
 			"description": "under share panel",
 			"en": "Submit to Crayon",
-			"ja": null,
+			"ja": "クレヨンに提出",
 			"pt": null,
 			"tr": "Crayon'a Ekle"
 		},
 		"viewCrayon": {
 			"description": "under share panel. If already submitted to Crayon Codes",
 			"en": "View",
-			"ja": null,
+			"ja": "ビュー",
 			"pt": null,
 			"tr": "Göz At"
 		},
 		"submitToClass": {
 			"description": "under share panel",
 			"en": "Submit to Class",
-			"ja": null,
+			"ja": "クラスに提出する",
 			"pt": "Enviar para Aula",
 			"tr": "Sınıfa Ekle"
 		},
 		"post": {
 			"description": "under comment panel",
 			"en": "Post",
-			"ja": null,
+			"ja": "投稿する",
 			"pt": "Publicar",
 			"tr": "Paylaş"
 		},
 		"cancel": {
 			"description": "under comment panel",
 			"en": "Cancel",
-			"ja": null,
+			"ja": "取り消す",
 			"pt": "Cancelar",
 			"tr": "İptal"
 		},
 		"attribute": {
 			"description": "under share panel",
 			"en": "Attribute",
-			"ja": null,
+			"ja": "属性",
 			"pt": "Atribuir",
 			"tr": "Kaynak Bilgisi"
 		},
 		"download": {
 			"description": "under share panel",
 			"en": "Download",
-			"ja": null,
+			"ja": "ダウンロード",
 			"pt": "Baixar",
 			"tr": "İndir"
 		},
 		"embed": {
 			"description": "under share panel",
 			"en": "Embed",
-			"ja": null,
+			"ja": "埋め込む",
 			"pt": "Anexar",
 			"tr": "Gömülü Nesne"
 		},
 		"select": {
 			"description": "under share panel",
 			"en": "Select",
-			"ja": null,
+			"ja": "選択する",
 			"pt": "Selecionar",
 			"tr": "Seç"
 		},
 		"record": {
 			"description": "under share panel",
 			"en": "Record",
-			"ja": null,
+			"ja": "記録",
 			"pt": "Gravar",
 			"tr": "Kaydet"
 		},
 		"reportSketch": {
 			"description": "under share panel",
 			"en": "Report Sketch",
-			"ja": null,
+			"ja": "報告スケッチ",
 			"pt": null,
 			"tr": "Çizimi Şikayet Et"
 		}
@@ -841,21 +841,21 @@ OP.languageLibraryDefault = {
 		"username": {
 			"description": "Currently, only used for student accounts. ie. codingLegend1234",
 			"en": "username",
-			"ja": null,
+			"ja": "ユーザー名",
 			"pt": "usuário(a)",
 			"tr": "kullanıcı ismi"
 		},
 		"username-warning": {
 			"description": "warning students not to use their real name",
 			"en": "Do not include your real name",
-			"ja": null,
+			"ja": "実名を使用しないでください。",
 			"pt": "Não inclua seu nome real",
 			"tr": "Güvenliğin için gerçek ismini kullanma"
 		},
 		"restricted-warning": {
 			"description": "warning for restricted student accounts about their profile",
 			"en": "You have a restricted student account. You can browse OpenProcessing as usual, but you can only interact with your classmates and teachers. Your profile and sketches are only visible to your classmates and teachers.",
-			"ja": null,
+			"ja": "ユーザー アカウントは制限付きの学生です。 ウェブサイトを閲覧することはできますが、クラスメート以外と交流することはできません。",
 			"pt": "Você tem um conta de estudante restrita. Você pode navegar no OpenProcessing normalmente, mas você só poderia interagir com seus amigos de turma e professores. Seu perfil e esboços estarão visíveis apenas para amigos de turma e professores.",
 			"tr": "Kısıtlı öğrenci hesabın var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfındaki kullanıcılarla iletişim kurabilirsin. Hesabın ve projelerin sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
 		},
@@ -890,9 +890,9 @@ OP.languageLibraryDefault = {
 		"emailBounced": {
 			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
 			"en": "We failed to send you an email using this address. Please change it to another address.",
-			"ja": null,
+			"ja": "メールアドレスに接続できませんでした。",
 			"pt": null,
-			"tr": "eposta" 
+			"tr": "Eposta ile bağlantı kurulamadı." 
 		},
 		"password": {
 			"description": "Edit Profile > label",
@@ -904,21 +904,21 @@ OP.languageLibraryDefault = {
 		"currentPassword": {
 			"description": "Edit Profile > label",
 			"en": "current password",
-			"ja": null,
+			"ja": "現行パスワード",
 			"pt": null,
 			"tr": "mevcut şifre" 
 		},
 		"newPassword": {
 			"description": "Edit Profile > label",
 			"en": "new password",
-			"ja": null,
+			"ja": "新しいパスワード",
 			"pt": null,
 			"tr": "yeni şifre" 
 		},
 		"repeatPassword": {
 			"description": "Edit Profile > label",
 			"en": "repeat password",
-			"ja": null,
+			"ja": "パスワードを再度入力してください",
 			"pt": null,
 			"tr": "yeni şifre tekrar" 
 		},
@@ -1002,14 +1002,14 @@ OP.languageLibraryDefault = {
 		"advancedSettings": {
 			"description": "Edit Profile > label",
 			"en": "Advanced Settings",
-			"ja": null,
+			"ja": "高度な設定",
 			"pt": "Configurações Avançadas",
 			"tr": "Karışık İşler"
 		},
 		"advancedSettingsDescription": {
 			"description": "Edit Profile > label",
 			"en": "Update sketches in bulk, download all, and more",
-			"ja": null,
+			"ja": "スケッチを一括で更新し、すべてのスケッチをダウンロードします  そして、より多くの設定。",
 			"pt": "Atualize vários esboços juntos, baixe todos e muito mais",
 			"tr": "Tüm çizimlerde toplu değişiklik yap, içerik indir, ve daha fazlası"
 		},
@@ -1128,84 +1128,84 @@ OP.languageLibraryDefault = {
 		"createCuration": {
 			"description": "in curation section",
 			"en": "Create a Curation",
-			"ja": null,
+			"ja": "キュレーションを作成します",
 			"pt": null,
 			"tr": "Kürasyon Yarat"
 		},
 		"curationExplanation": {
 			"description": "in curation section",
 			"en": "With curations, you can collect sketches around a topic or a theme.",
-			"ja": null,
+			"ja": "キュレーションとは、トピックに基づく一連のスケッチです。",
 			"pt": null,
 			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerini bir araya getirebilirsin."
 		},
 		"noCurationFound": {
 			"description": "in curation section",
 			"en": "No curations found.",
-			"ja": null,
+			"ja": "キュレーションが見つかりません",
 			"pt": null,
 			"tr": "Kürasyon bulunamadı."
 		},
 		"createClass": {
 			"description": "in class section",
 			"en": "Create a Class",
-			"ja": null,
+			"ja": "クラスを作成する",
 			"pt": null,
 			"tr": "Sınıf Yarat"
 		},
 		"activeStudents": {
 			"description": "in class section",
 			"en": "Active Students",
-			"ja": null,
+			"ja": "活発な学生",
 			"pt": null,
 			"tr": "Aktif Öğrenci"
 		},
 		"studentSeats": {
 			"description": "in class section",
 			"en": "Student Seats",
-			"ja": null,
+			"ja": "学生席",
 			"pt": null,
 			"tr": "Öğrenci Kapasitesi"
 		},
 		"numberOfStudents": {
 			"description": "under each class listed",
 			"en": "0 students | 1 student | {n} students",
-			"ja": null,
+			"ja": "{n} 人の学生",
 			"pt": null,
 			"tr": "{n} öğrenci"
 		},
 		"editMembership": {
 			"description": "in class section",
 			"en": "Edit Membership",
-			"ja": null,
+			"ja": "メンバーシップを編集",
 			"pt": null,
 			"tr": "Üyeliği Düzenle"
 		},
 		"faq": {
 			"description": "in class section",
 			"en": "FAQ",
-			"ja": null,
+			"ja": "よくある質問",
 			"pt": null,
 			"tr": "SSS"
 		},
 		"subscribe": {
 			"description": "in class section",
 			"en": "Subscribe",
-			"ja": null,
+			"ja": "購読する",
 			"pt": null,
 			"tr": "Üye Ol"
 		},
 		"noClasses": {
 			"description": "in class section",
 			"en": "You don't have any classes.",
-			"ja": null,
+			"ja": "クラスはありません。",
 			"pt": null,
 			"tr": "Ekli sınıfın yok."
 		},
 		"noClassesFound": {
 			"description": "in class section",
 			"en": "No classes found.",
-			"ja": null,
+			"ja": "いいえクラスが見つかりました。",
 			"pt": null,
 			"tr": "Sınıf bulunamadı."
 		},
@@ -1254,7 +1254,7 @@ OP.languageLibraryDefault = {
 		"noSketchesFound":{
 			"description": "under class panel",
 			"en": "No sketches found.",
-			"ja": null,
+			"ja": "いいえスケッチが見つかりました。",
 			"pt": null,
 			"tr": "Çizim bulunamadı."
 		}
@@ -1264,7 +1264,7 @@ OP.languageLibraryDefault = {
 			"implemented": false,
 			"description": "Activity Feed > when a user submits a sketch to class or collection",
 			"en": "{user} submitted a sketch to {collection}",
-			"ja": null,
+			"ja": "{user} はスケッチを {collection} に送信しました",
 			"pt": "{user} enviou um esboço para {collection}",
 			"tr": "{user} {collection} sınıfına bir çizim ekledi"
 		}
