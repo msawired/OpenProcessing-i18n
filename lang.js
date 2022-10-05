@@ -566,7 +566,7 @@ OP.languageLibraryDefault = {
 		"template": {
 			"description": "info > edit panel",
 			"en": "Add to My Templates",
-			"ja": null,
+			"ja": "マイ テンプレートに追加",
 			"pt": null,
 			"tr": "Şablonlarıma Ekle"
 		},
@@ -1037,7 +1037,7 @@ OP.languageLibraryDefault = {
 		"changeAvatar": {
 			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
 			"en": "Change Avatar",
-			"ja": null,
+			"ja": "アバターの変更",
 			"pt": "Alterar Avatar",
 			"tr": "Resmi Değiştir"
 		},
@@ -1058,7 +1058,7 @@ OP.languageLibraryDefault = {
 		"crayons": {
 			"description": "Tab",
 			"en": "0 Crayons | 1 Crayon | {n} Crayons",
-			"ja": "{n} Crayon",
+			"ja": "{n} クレヨン",
 			"pt": "0 Crayons | 1 Crayon | {n} Crayons",
 			"tr": "{n} Crayon"
 		},
@@ -1212,42 +1212,42 @@ OP.languageLibraryDefault = {
 		"archivedClasses": {
 			"description": "in class section",
 			"en": "Archived Classes",
-			"ja": null,
+			"ja": "アーカイブされたクラス",
 			"pt": null,
 			"tr": "Arşivlenmiş Sınıflar"
 		},
 		"noMoreSeats": {
 			"description": "under class panel",
 			"en": "You have no more seats available. Please add seats or archive classes.",
-			"ja": null,
+			"ja": "空席なし！ クラスをアーカイブするか、座席を削除する。",
 			"pt": null,
 			"tr": "Hesabında öğrenci kapasiten kalmadı. Lütfen öğrenci kapasitesi ekle veya eski sınıfları arşivle."
 		},
 		"addSeats": {
 			"description": "under class panel",
 			"en": "add seats",
-			"ja": null,
+			"ja": "席を追加",
 			"pt": null,
 			"tr": "kapasite ekley"
 		},
 		"archiveClasses": {
 			"description": "under class panel",
 			"en": "archive your classes",
-			"ja": null,
+			"ja": "クラスをアーカイブする",
 			"pt": null,
 			"tr": "sınıfları arşivley"
 		},
 		"addRemoveSeats": {
 			"description": "under class panel",
 			"en": "Add/Remove Seats",
-			"ja": null,
+			"ja": "座を追加もしくは削除",
 			"pt": null,
 			"tr": "Kapasite Ekle/Çıkar"
 		},
 		"referTeacher": {
 			"description": "under class panel. This is a link that pops up unique teacher referral code that teacher ",
 			"en": "Refer a Teacher",
-			"ja": null,
+			"ja": "先生参照する",
 			"pt": null,
 			"tr": "Öğretmen Davet Et"
 		},
