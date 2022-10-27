@@ -241,6 +241,27 @@ OP.languageLibraryDefault = {
 		},
 	},
 	"sketch": {
+		"info": {
+			"description": "navigation",
+			"en": "Play",
+			"ja": "情報",
+			"pt": "Informações",
+			"tr": "Bilgi"
+		},
+		"play": {
+			"description": "navigation",
+			"en": "Play",
+			"ja": "演じる",
+			"pt": "Jogar",
+			"tr": "Oynat"
+		},
+		"code": {
+			"description": "navigation",
+			"en": "Code",
+			"ja": "コード",
+			"pt": "Codificar",
+			"tr": "Programla"
+		},
 		"sketch": {
 			"description": "Code Options > tab",
 			"en": "Sketch",
@@ -1083,6 +1104,13 @@ OP.languageLibraryDefault = {
 			"pt": "0 Curadorias | 1 Curadoria | {n} Curadorias",
 			"tr": "{n} Kürasyon"
 		},
+		"clubs": {
+			"description": "Tab",
+			"en": "0 Clubs | 1 Club | {n} Clubs",
+			"ja": "{n} クラブ",
+			"pt": "0 Clubes | 1 Clube | {n} Clubes",
+			"tr": "{n} Klüp"
+		},
 		"hearts": {
 			"description": "Tab. Due to copyrights, this phrase should not be anything close to 'like'. Please stick to 'hearts' as in 'you have a place in my heart'",
 			"en": "0 Hearts | 1 Heart | {n} Hearts",
@@ -1235,7 +1263,7 @@ OP.languageLibraryDefault = {
 			"en": "archive your classes",
 			"ja": null,
 			"pt": null,
-			"tr": "sınıfları arşivley"
+			"tr": "sınıfları arşivleyin"
 		},
 		"addRemoveSeats": {
 			"description": "under class panel",
@@ -1267,6 +1295,15 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": "{user} enviou um esboço para {collection}",
 			"tr": "{user} {collection} sınıfına bir çizim ekledi"
+		}
+	},
+	'clubs': {
+		'members': {
+			"description": "In club description",
+			"en": "0 Members | 1 Member | {n} Members",
+			"ja": "{n} メンバー",
+			"pt": "0 Membros | 1 Membro | {n} Membros",
+			"tr": "{n} Üye"
 		}
 	}
 }
