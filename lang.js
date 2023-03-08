@@ -39,28 +39,28 @@ OP.languageLibraryDefault = {
 			"en": "Save as Fork",
 			"ja": "フォークとして保存",
 			"pt": "Salvar Bifurcação",
-			"tr": "Çatalla" 
+			"tr": "Çatalla"
 		},
 		"fork": {
 			"description": "navigation - when sketch is embedded. 'Fork' as a verb, not a noun.",
 			"en": "Fork",
 			"ja": null,
 			"pt": "Copiar",
-			"tr": "Çatalla" 
+			"tr": "Çatalla"
 		},
 		"save": {
 			"description": "navigation - when sketch is changed",
 			"en": "Save",
 			"ja": "保存",
 			"pt": "Salvar",
-			"tr": "Kaydet" 
+			"tr": "Kaydet"
 		},
 		"saved": {
 			"description": "navigation - when sketch is saved",
 			"en": "Saved",
 			"ja": "保存完了",
 			"pt": "Salvo",
-			"tr": "Kaydoldu" 
+			"tr": "Kaydoldu"
 		},
 		"saving": {
 			"description": "navigation - when sketch is saving",
@@ -74,35 +74,35 @@ OP.languageLibraryDefault = {
 			"en": "Edit",
 			"ja": "編集",
 			"pt": "Editar",
-			"tr": "Değiştir" 
+			"tr": "Değiştir"
 		},
 		"submit": {
 			"description": "form submission button",
 			"en": "Submit",
 			"ja": "投稿",
 			"pt": "Enviar",
-			"tr": "Kaydet" 
+			"tr": "Kaydet"
 		},
 		"signin": {
 			"description": "link label for sign in page",
 			"en": "Sign in",
 			"ja": "サインイン",
 			"pt": "Cadastrar",
-			"tr": "Giriş" 
+			"tr": "Giriş"
 		},
 		"signout": {
 			"description": "link label for sign out page",
 			"en": "Sign out",
 			"ja": "サインアウト",
 			"pt": "Sair",
-			"tr": "Çıkış" 
+			"tr": "Çıkış"
 		},
 		"join": {
 			"description": "link label asking users to join the website",
 			"en": "Join",
 			"ja": "参加する",
 			"pt": "Entrar",
-			"tr": "Kaydol" 
+			"tr": "Kaydol"
 		},
 		"joinPlus": {
 			"description": "link label asking users to join the Plus+ Membership",
@@ -132,42 +132,42 @@ OP.languageLibraryDefault = {
 			"en": "Search",
 			"ja": "検索",
 			"pt": "Procurar",
-			"tr": "Ara" 
+			"tr": "Ara"
 		},
 		"discover": {
 			"description": "navigation item",
 			"en": "Discover",
 			"ja": "発見",
 			"pt": "Descobrir",
-			"tr": "Keşfet" 
+			"tr": "Keşfet"
 		},
 		"learn": {
 			"description": "navigation item",
 			"en": "Learn",
 			"ja": "学ぶ",
 			"pt": "Aprender",
-			"tr": "Öğren" 
+			"tr": "Öğren"
 		},
 		"teach": {
 			"description": "navigation item",
 			"en": "Teach",
 			"ja": "教える",
 			"pt": "Ensinar",
-			"tr": "Öğret" 
+			"tr": "Öğret"
 		},
 		"collect": {
 			"description": "navigation item",
 			"en": "Collect",
 			"ja": "収集",
 			"pt": "Coletar",
-			"tr": "Satın Al" 
+			"tr": "Satın Al"
 		},
 		"myProfile": {
 			"description": "navigation item > displayed when on a mobile device",
 			"en": "My Profile",
 			"ja": null,
 			"pt": "Meu Perfil",
-			"tr": "Profilim" 
+			"tr": "Profilim"
 		},
 		"createSketch": {
 			"description": "navigation button",
@@ -267,28 +267,28 @@ OP.languageLibraryDefault = {
 			"en": "Sketch",
 			"ja": "スケッチ",
 			"pt": "Esboço",
-			"tr": "Çizim" 
+			"tr": "Çizim"
 		},
 		"files": {
 			"description": "Code Options > tab",
 			"en": "Files",
 			"ja": "ファイル",
 			"pt": "Arquivos",
-			"tr": "Dosyalar" 
+			"tr": "Dosyalar"
 		},
 		"editor": {
 			"description": "Code Options > tab",
 			"en": "Editor",
 			"ja": "コードエディタ",
 			"pt": "Editor",
-			"tr": "Editör" 
+			"tr": "Editör"
 		},
 		"mode": {
 			"description": "Code Options > Sketch",
 			"en": "Mode",
 			"ja": "モード",
 			"pt": "Modo",
-			"tr": "Mod" 
+			"tr": "Mod"
 		},
 		"mode-HTMLCSS": {
 			"description": "Shows when user selects pjs mode",
@@ -309,175 +309,175 @@ OP.languageLibraryDefault = {
 			"en": "Java doesn't work in browsers anymore.",
 			"ja": "Javaモードはブラウザでは動作しません",
 			"pt": "Java não funciona mais em navegadores.",
-			"tr": "Java artık tarayıcılarda çalışmıyor." 
+			"tr": "Java artık tarayıcılarda çalışmıyor."
 		},
 		"tutorialMode": {
 			"description": "Code Options > sketch > label",
 			"en": "Tutorial Mode",
 			"ja": "チュートリアルモード",
 			"pt": "Modo Tutorial",
-			"tr": "Eğitsel Modu" 
+			"tr": "Eğitsel Modu"
 		},
 		"tutorialModeDescription": {
 			"description": "Code Options > sketch > label",
 			"en": "Write step-by-step tutorials.",
 			"ja": "チュートリアル記事を書く",
 			"pt": "Escreva tutoriais passo-a-passo.",
-			"tr": "Adım adım öğretici rehberler yaz." 
+			"tr": "Adım adım öğretici rehberler yaz."
 		},
 		"liveCollaboration": {
 			"description": "Code Options > sketch > label",
 			"en": "Live Collaboration",
 			"ja": "ライブコラボレーション",
 			"pt": "Colaboração Ao Vivo",
-			"tr": "Canlı Kodlama" 
+			"tr": "Canlı Kodlama"
 		},
 		"liveCollaborationDescription-tutorial": {
 			"description": "Shows when tutorial is enabled",
 			"en": "Live Collaboration is not supported on tutorials.",
 			"ja": "ライブコラボレーションはチュートリアルに対応していません",
 			"pt": "Colaboração Ao Vivo não é suportado em tutoriais.",
-			"tr": "Canlı Kodlama Eğitsellerde mümkün değil." 
+			"tr": "Canlı Kodlama Eğitsellerde mümkün değil."
 		},
 		"liveCollaborationDescription-singleTab": {
 			"description": "Shows when sketch has multiple tabs",
 			"en": "Live Collaboration is only supported on sketches with single tab.",
 			"ja": "ライブコラボレーションはタブが1つのスケッチのみ対応しています",
 			"pt": "Colaboração Ao Vivo é suportado apenas em esboços com abas únicas.",
-			"tr": "Canlı Kodlama sadece tek sayfa çizimlerde çalışır." 
+			"tr": "Canlı Kodlama sadece tek sayfa çizimlerde çalışır."
 		},
 		"liveCollaborationDescription-save": {
 			"description": "Shows when it is a new sketch (not saved)",
 			"en": "Please save your sketch to enable.",
 			"ja": "スケッチを保存してください",
 			"pt": "Por favor, salve o esboço para habilitar.",
-			"tr": "Lütfen önce çizimini kaydet." 
+			"tr": "Lütfen önce çizimini kaydet."
 		},
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
 			"en": "Share the URL with your class to code together.",
 			"ja": "共同作業のためにクラスにURLをシェアしましょう",
 			"pt": "Compartilhe a URL da sua aula com o código junto.",
-			"tr": "Sınıfınla beraber kodlamak için adresi paylaş." 
+			"tr": "Sınıfınla beraber kodlamak için adresi paylaş."
 		},
 		"liveCollaborationDescription-default": {
 			"description": "Shows when it can be enabled",
 			"en": "Invite your class to code together.",
 			"ja": "共同作業のためにクラスに招待しましょう",
 			"pt": "Convide sua turma para programar juntos.",
-			"tr": "Beraber kodlamak için sınıfını davet et." 
+			"tr": "Beraber kodlamak için sınıfını davet et."
 		},
 		"showcaseSketch": {
 			"description": "Code Options > sketch",
 			"en": "Showcase Sketch",
 			"ja": "ショーケーススケッチ",
 			"pt": "Mostrar seu Esboço",
-			"tr": "Çizimi ortala" 
+			"tr": "Çizimi ortala"
 		},
 		"showcaseSketchDescription": {
 			"description": "Code Options > sketch",
 			"en": "Centers sketch and matches the background color.",
 			"ja": "スケッチを中央に配置して背景色をつける",
 			"pt": "Centralizar esboço e corresponder a cor de fundo.",
-			"tr": "Çizimi ortalar ve arka planı aynı renge boyar." 
+			"tr": "Çizimi ortalar ve arka planı aynı renge boyar."
 		},
 		"loopProtect": {
 			"description": "Code Options > sketch",
 			"en": "Loop Protection",
 			"ja": "ループプロテクション",
 			"pt": "Proteção de Laço",
-			"tr": "Döngü Koruma" 
+			"tr": "Döngü Koruma"
 		},
 		"loopProtectDescription": {
 			"description": "Code Options > sketch",
 			"en": "Prevents infinite loops that may freeze the sketch.",
 			"ja": "スケッチのフリーズを引き起こす無限ループを防止する",
 			"pt": "Previne lanços infinitos que podem congelar seu esboço.",
-			"tr": "Çizimini dondurabilecek döngüleri yakalar." 
+			"tr": "Çizimini dondurabilecek döngüleri yakalar."
 		},
 		"libraries": {
 			"description": "Code Options > sketch",
 			"en": "Libraries",
 			"ja": "ライブラリ",
 			"pt": "Bibliotecas",
-			"tr": "Kütüphaneler" 
+			"tr": "Kütüphaneler"
 		},
 		"addCustomLibrary": {
 			"description": "Code Options > sketch > libraries",
 			"en": "Add Custom Library",
 			"ja": "カスタムライブラリを追加する",
 			"pt": "Adicionar Biblioteca Personalizada",
-			"tr": "Özel Kütüphane Ekle" 
+			"tr": "Özel Kütüphane Ekle"
 		},
 		"pasteURL": {
 			"description": "text input placeholder when adding a custom library",
 			"en": "Paste URL or file name",
 			"ja": "URLもしくはファイル名を入力してください",
 			"pt": "Colar URL ou nome do arquivo",
-			"tr": "Adres ya da dosya ismi yapıştır" 
+			"tr": "Adres ya da dosya ismi yapıştır"
 		},
 		"saveToUpload": {
 			"description": "code settings > files",
 			"en": "Save or fork the sketch to upload files.",
 			"ja": "ファイルをアップロードするにはスケッチを保存するかフォークしてください",
 			"pt": "Salve ou bifurque seu esboço para enviar arquivos.",
-			"tr": "Dosya yüklemek için önce çizimi kaydedin ya da çatallayın." 
+			"tr": "Dosya yüklemek için önce çizimi kaydedin ya da çatallayın."
 		},
 		"textSize": {
 			"description": "code settings > editor",
 			"en": "Text Size",
 			"ja": "文字サイズ",
 			"pt": "Tamanho do Texto",
-			"tr": "Yazı Boyutu" 
+			"tr": "Yazı Boyutu"
 		},
 		"layout": {
 			"description": "code settings > editor",
 			"en": "Layout",
 			"ja": "レイアウト",
 			"pt": "Visualização",
-			"tr": "Editör Şekli" 
+			"tr": "Editör Şekli"
 		},
 		"layoutDescription": {
 			"description": "code settings > editor",
 			"en": "This will be the default layout for your sketches",
 			"ja": "デフォルトのレイアウト",
 			"pt": "Este será a visualização padrão para seus esboços",
-			"tr": "Varsayılan şekil bu olacak" 
+			"tr": "Varsayılan şekil bu olacak"
 		},
 		"darkMode": {
 			"description": "code settings > editor",
 			"en": "Dark Mode",
 			"ja": null,
 			"pt": null,
-			"tr": "Koyu Renk Modu" 
+			"tr": "Koyu Renk Modu"
 		},
 		"darkModeDescription": {
 			"description": "code settings > editor",
 			"en": "Easy on the eyes",
 			"ja": null,
 			"pt": null,
-			"tr": "Okumayı kolaylaştırır" 
+			"tr": "Okumayı kolaylaştırır"
 		},
 		"console": {
 			"description": "code settings > editor",
 			"en": "Console",
 			"ja": "コンソール",
 			"pt": "Console",
-			"tr": "Konsol" 
+			"tr": "Konsol"
 		},
 		"consoleDescription": {
 			"description": "code settings > editor",
 			"en": "It will show up when there is an error or print() in code",
 			"ja": "コード中のエラーやprint()を表示する",
 			"pt": "Será exibido quando houver um erro ou print() no código",
-			"tr": "Bir hata oluştuğunda veya print() kullanıldığında gözükür" 
+			"tr": "Bir hata oluştuğunda veya print() kullanıldığında gözükür"
 		},
 		"linting": {
 			"description": "code settings > editor",
 			"en": "Linting",
 			"ja": "コードのリント",
 			"pt": "Linting",
-			"tr": "Yazarken Hata Bulma" 
+			"tr": "Yazarken Hata Bulma"
 		},
 		"lintingDescription": {
 			"description": "code settings > editor",
@@ -491,28 +491,28 @@ OP.languageLibraryDefault = {
 			"en": "Disabled: Only available on p5js sketches.",
 			"ja": "p5jsのみ使用できます",
 			"pt": "Desabilitado: Disponível somente nos esboços de p5js",
-			"tr": "Devre dışı: Sadece p5js çizimler için kullanılabilir" 
+			"tr": "Devre dışı: Sadece p5js çizimler için kullanılabilir"
 		},
 		"shortcuts": {
 			"description": "code settings > editor",
 			"en": "Shortcuts",
 			"ja": "ショートカット",
 			"pt": "Atalhos",
-			"tr": "Kısayollar" 
+			"tr": "Kısayollar"
 		},
 		"seeMoreShortcuts": {
 			"description": "code settings > editor",
 			"en": "See More Shortcuts",
 			"ja": "ショートカット",
 			"pt": "Ver mais atalhos",
-			"tr": "Diğer Kısayolları Gör" 
+			"tr": "Diğer Kısayolları Gör"
 		},
 		"versionsSummarized": {
 			"description": "code settings > versions. Displayed when sketch has more than 20 versions.",
 			"en": "Prior to most recent 20 versions are summarized.",
 			"ja": "直近の20バージョン以外は集約されています",
 			"pt": "Prévia das 20 versões mais recentes são resumidas.",
-			"tr": "Son 20 kayıttan öncekiler özetlenmiştir." 
+			"tr": "Son 20 kayıttan öncekiler özetlenmiştir."
 		},
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
@@ -533,35 +533,35 @@ OP.languageLibraryDefault = {
 			"en": "Title",
 			"ja": "タイトル",
 			"pt": "Título",
-			"tr": "Çizim İsmi" 
+			"tr": "Çizim İsmi"
 		},
 		"description": {
 			"description": "info > edit panel",
 			"en": "Description",
 			"ja": "説明",
 			"pt": "Descrição",
-			"tr": "Açıklama" 
+			"tr": "Açıklama"
 		},
 		"howToInteract": {
 			"description": "info > edit panel",
 			"en": "How to <br/> interact with it",
 			"ja": "操作方法",
 			"pt": "Como interagir <br/> com isso",
-			"tr": "Nasıl Etkileşilebilir" 
+			"tr": "Nasıl Etkileşilebilir"
 		},
 		"tags": {
 			"description": "info > edit panel",
 			"en": "Tags",
 			"ja": "タグ",
 			"pt": "Etiquetas",
-			"tr": "Etiketler" 
+			"tr": "Etiketler"
 		},
 		"license": {
 			"description": "info > edit panel",
 			"en": "License",
 			"ja": "ライセンス",
 			"pt": "Licença",
-			"tr": "Lisans" 
+			"tr": "Lisans"
 		},
 		"license-needPlus": {
 			"description": "info > edit panel. Displayed below license if user is not a Plus+ member",
@@ -575,14 +575,14 @@ OP.languageLibraryDefault = {
 			"en": "Draft",
 			"ja": "下書き",
 			"pt": "Rascunho",
-			"tr": "Taslak" 
+			"tr": "Taslak"
 		},
 		"draftDescription": {
 			"description": "info > edit panel",
 			"en": "Won't be listed on feeds but still accessible on your profile",
 			"ja": "フィードには表示されませんが、あなたのプロフィールページには表示されます。",
 			"pt": "Não será listado no feed, mas continuará acessível no seu perfil",
-			"tr": "Bildirimlerde gözükmez ama kendi profilinde hala erişilebilir" 
+			"tr": "Bildirimlerde gözükmez ama kendi profilinde hala erişilebilir"
 		},
 		"template": {
 			"description": "info > edit panel",
@@ -593,10 +593,17 @@ OP.languageLibraryDefault = {
 		},
 		"templateDescription": {
 			"description": "info > edit panel",
-			"en": "Will show in template list to use on your new sketches",
+			"en": "Will be listed in your templates to use on new sketches",
 			"ja": null,
 			"pt": null,
 			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
+		}, 
+		"templateDescription_teacher": {
+			"description": "info > edit panel",
+			"en": "Will be listed in templates for both you and your students.",
+			"ja": null,
+			"pt": null,
+			"tr": "Senin ve öğrencilerinin şablon listesine eklenecek"
 		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
@@ -624,42 +631,42 @@ OP.languageLibraryDefault = {
 			"en": "Anyone",
 			"ja": "誰でも",
 			"pt": "Qualquer um",
-			"tr": "Herkes" 
+			"tr": "Herkes"
 		},
 		"privacy-classes": {
 			"description": "info > edit panel",
 			"en": "My Classes",
 			"ja": "自分のクラス",
 			"pt": "Minhas Aulas",
-			"tr": "Sınıflarım" 
+			"tr": "Sınıflarım"
 		},
 		"privacy-classesDescription": {
 			"description": "info > edit panel",
 			"en": "Only the students and teachers in your classes",
 			"ja": "自分のクラスの先生と生徒のみ",
 			"pt": "Somente estudantes e professores nas suas aulas",
-			"tr": "Sadece sınıflarındaki öğrenci ve öğretmenler" 
+			"tr": "Sadece sınıflarındaki öğrenci ve öğretmenler"
 		},
 		"privacy-teachers": {
 			"description": "info > edit panel",
 			"en": "My Teachers",
 			"ja": "先生",
 			"pt": "Meus Professores",
-			"tr": "Öğretmenlerim" 
+			"tr": "Öğretmenlerim"
 		},
 		"privacy-teachersDescription": {
 			"description": "info > edit panel",
 			"en": "Only the teachers in your classes",
 			"ja": "自分のクラスの先生のみ",
 			"pt": "Somente os professores das suas aulas",
-			"tr": "Sadece sınıflarındaki öğretmenleriniz" 
+			"tr": "Sadece sınıflarındaki öğretmenleriniz"
 		},
 		"privacy-me": {
 			"description": "info > edit panel",
 			"en": "Only Me",
 			"ja": "自分のみ",
 			"pt": "Somente Eu",
-			"tr": "Sadece Ben" 
+			"tr": "Sadece Ben"
 		},
 		"privacy-joinPlus": {
 			"description": "info > edit panel. Displayed to non-plus members",
@@ -687,28 +694,28 @@ OP.languageLibraryDefault = {
 			"en": "Private URL",
 			"ja": "プライベートURL",
 			"pt": "URL Privada",
-			"tr": "Gizli Adres" 
+			"tr": "Gizli Adres"
 		},
 		"privateURLDescription": {
 			"description": "info > edit panel",
 			"en": "You can share your sketch with this URL even if it is set hidden above",
 			"ja": "誰が見られるかの設定にかかわらず、このURLでスケッチをシェアできます。",
 			"pt": "Você pode compartilhar o esboço com esta URL mesmo se ela estiver escondida acima",
-			"tr": "Yukarıda gizli olsa bile çizimi bu adres ile paylaşabilirsin" 
+			"tr": "Yukarıda gizli olsa bile çizimi bu adres ile paylaşabilirsin"
 		},
 		"privateURL-create": {
 			"description": "info > edit panel",
 			"en": "Create",
 			"ja": "作成",
 			"pt": "Criar",
-			"tr": "Yarat" 
+			"tr": "Yarat"
 		},
 		"privateURL-pleaseSave": {
 			"description": "info > edit panel",
 			"en": "Please save your sketch to create private URL",
 			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
 			"pt": "Por favor, salve seu esboço para criar uma URL privada",
-			"tr": "Gizli adres yaratmadan önce lütfen çizimi kaydet" 
+			"tr": "Gizli adres yaratmadan önce lütfen çizimi kaydet"
 		},
 		"privateURL-joinPlus": {
 			"description": "info > edit panel",
@@ -857,7 +864,7 @@ OP.languageLibraryDefault = {
 			"en": "name",
 			"ja": "名前",
 			"pt": "nome",
-			"tr": "isim" 
+			"tr": "isim"
 		},
 		"username": {
 			"description": "Currently, only used for student accounts. ie. codingLegend1234",
@@ -885,84 +892,84 @@ OP.languageLibraryDefault = {
 			"en": "bio",
 			"ja": "自己紹介",
 			"pt": "bio",
-			"tr": "biyo" 
+			"tr": "biyo"
 		},
 		"location": {
 			"description": "Edit Profile > label",
 			"en": "location",
 			"ja": "居住地",
 			"pt": "localização",
-			"tr": "yerleşke" 
+			"tr": "yerleşke"
 		},
 		"website": {
 			"description": "Edit Profile > label",
 			"en": "website",
 			"ja": "ウェブサイト",
 			"pt": "website",
-			"tr": "internet sitesi" 
+			"tr": "internet sitesi"
 		},
 		"email": {
 			"description": "Edit Profile > label",
 			"en": "email",
 			"ja": "メールアドレス",
 			"pt": "email",
-			"tr": "eposta" 
+			"tr": "eposta"
 		},
 		"emailBounced": {
 			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
 			"en": "We failed to send you an email using this address. Please change it to another address.",
 			"ja": null,
 			"pt": null,
-			"tr": "eposta" 
+			"tr": "eposta"
 		},
 		"password": {
 			"description": "Edit Profile > label",
 			"en": "password",
 			"ja": "パスワード",
 			"pt": "senha",
-			"tr": "şifre" 
+			"tr": "şifre"
 		},
 		"currentPassword": {
 			"description": "Edit Profile > label",
 			"en": "current password",
 			"ja": null,
 			"pt": null,
-			"tr": "mevcut şifre" 
+			"tr": "mevcut şifre"
 		},
 		"newPassword": {
 			"description": "Edit Profile > label",
 			"en": "new password",
 			"ja": null,
 			"pt": null,
-			"tr": "yeni şifre" 
+			"tr": "yeni şifre"
 		},
 		"repeatPassword": {
 			"description": "Edit Profile > label",
 			"en": "repeat password",
 			"ja": null,
 			"pt": null,
-			"tr": "yeni şifre tekrar" 
+			"tr": "yeni şifre tekrar"
 		},
 		"clickToChange": {
 			"description": "Edit Profile > password change link",
 			"en": "Click to Change",
 			"ja": "クリックして変更",
 			"pt": "Clique para Mudar",
-			"tr": "Değiştirmek için tıkla" 
+			"tr": "Değiştirmek için tıkla"
 		},
 		"backgroundSketch": {
 			"description": "Edit Profile > label",
 			"en": "background sketch",
 			"ja": "背景に設定するスケッチ",
 			"pt": "esboço de fundo",
-			"tr": "arka plan çizimi" 
+			"tr": "arka plan çizimi"
 		},
 		"backgroundSketch-description": {
 			"description": "Edit Profile > label",
 			"en": "For best experience, choose a fullscreen sketch that uses no file or audio and requires no user interaction.",
 			"ja": "外部ファイルやオーディオ、インタラクションを使用していないスケッチをおすすめします。",
 			"pt": "Para melhor experiência, escolha um esboço que funcione em tela cheia e que não utilize arquivos, áudios e não seja necessário interação de usuários.",
-			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seç" 
+			"tr": "En iyi sonuç için, dosya veya ses kullanmayan, etkileşim gerektirmeyen tam ekran bir çizim seç"
 		},
 		"backgroundSketch-needPlus": {
 			"description": "Edit Profile > label",
@@ -976,21 +983,21 @@ OP.languageLibraryDefault = {
 			"en": "Language",
 			"ja": "言語",
 			"pt": "Idioma",
-			"tr": "Dil" 
+			"tr": "Dil"
 		},
 		"learnMoreAbout": {
 			"description": "Edit Profile > language description",
 			"en": "Beta: Learn more about",
 			"ja": "ベータ機能: さらに詳しく",
 			"pt": "Beta: Saiba mais sobre",
-			"tr": "Beta: Hakkında öğren" 
+			"tr": "Beta: Hakkında öğren"
 		},
 		"multilanguageSupport": {
 			"description": "Edit Profile > language description",
 			"en": "multi-language support",
 			"ja": "多言語対応",
 			"pt": "suporte multi-idiomas",
-			"tr": "dil desteği" 
+			"tr": "dil desteği"
 		},
 		"membership": {
 			"description": "Edit Profile > label",
@@ -1011,14 +1018,14 @@ OP.languageLibraryDefault = {
 			"en": "Notifications",
 			"ja": "お知らせ",
 			"pt": "Notificações",
-			"tr": "Bildirimler" 
+			"tr": "Bildirimler"
 		},
 		"notificationsDescription": {
 			"description": "Edit Profile > label",
 			"en": "Select when to receive email notifications",
 			"ja": "メールのお知らせをいつ受け取るか設定する",
 			"pt": "Selecione quando receber notificações por email",
-			"tr": "Hangi durumlarda eposta bildirimi almak istediğini seç" 
+			"tr": "Hangi durumlarda eposta bildirimi almak istediğini seç"
 		},
 		"advancedSettings": {
 			"description": "Edit Profile > label",
@@ -1039,21 +1046,21 @@ OP.languageLibraryDefault = {
 			"en": "Delete Account",
 			"ja": "アカウントの消去",
 			"pt": "Apagar Conta",
-			"tr": "Hesabı Sil" 
+			"tr": "Hesabı Sil"
 		},
 		"deleteAccountDescription": {
 			"description": "Edit Profile > label",
 			"en": "Just like you'd shoot it with lasers",
 			"ja": "消去はレーザーで撃たれるように一瞬です",
 			"pt": "Somente se você for atirar com lasers",
-			"tr": "Sanki bir laserli kılıçla kesermişçesine" 
+			"tr": "Sanki bir laserli kılıçla kesermişçesine"
 		},
 		"from": {
 			"description": "user bio",
 			"en": "from",
 			"ja": "from",
 			"pt": "de",
-			"tr": "" 
+			"tr": ""
 		},
 		"changeAvatar": {
 			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
@@ -1067,14 +1074,14 @@ OP.languageLibraryDefault = {
 			"en": "Edit Profile",
 			"ja": "プロフィールの変更",
 			"pt": "Editar Perfil",
-			"tr": "Profili Düzenle" 
+			"tr": "Profili Düzenle"
 		},
 		"activity": {
 			"description": "Tab",
 			"en": "Activity",
 			"ja": "アクティビティ",
 			"pt": "Atividades",
-			"tr": "Olan Bitenler" 
+			"tr": "Olan Bitenler"
 		},
 		"crayons": {
 			"description": "Tab",
@@ -1279,7 +1286,7 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "Öğretmen Davet Et"
 		},
-		"noSketchesFound":{
+		"noSketchesFound": {
 			"description": "under class panel",
 			"en": "No sketches found.",
 			"ja": null,
