@@ -142,7 +142,8 @@ OP.languageLibraryDefault = {
 			"pt": "Mostrar Menos",
 			"tr": "Hepsini Gizle",
 			"zh": "減少顯示"
-	    },
+		}
+	},
 	"navigation": {
 		"search": {
 			"description": "Placeholder text when search icon is clicked",
