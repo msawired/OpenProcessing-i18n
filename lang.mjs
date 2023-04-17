@@ -856,6 +856,13 @@ export const languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Çizimi Şikayet Et"
+		},
+		"newCommentPlaceholder": {
+			"description": "under comments panel, placeholder text used in new comment textarea",
+			"en": "What do you think?",
+			"ja": null,
+			"pt": null,
+			"tr": "Ne düşünüyorsun?"
 		}
 	},
 	"user": {
