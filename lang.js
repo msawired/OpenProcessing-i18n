@@ -124,6 +124,20 @@ OP.languageLibraryDefault = {
 			"ja": "表示を少なくする",
 			"pt": "Mostrar Menos",
 			"tr": "Hepsini Gizle"
+		},
+		"approve": {
+			"description": "Used as a button to approve a sketch for curation, or a user for a private community/class",
+			"en": "Approve",
+			"ja": "承認する",
+			"pt": "Aprovar",
+			"tr": "Onayla"
+		},
+		"reject": {
+			"description": "Used as a button to reject a sketch for curation, or a user for a private community/class",
+			"en": "Reject",
+			"ja": "拒否する",
+			"pt": "Rejeitar",
+			"tr": "Reddet"
 		}
 	},
 	"navigation": {
@@ -324,6 +338,13 @@ OP.languageLibraryDefault = {
 			"ja": "チュートリアル記事を書く",
 			"pt": "Escreva tutoriais passo-a-passo.",
 			"tr": "Adım adım öğretici rehberler yaz."
+		},
+		"timelineDescription": {
+			"description": "Code Options > sketch > label",
+			"en": "Use a timeline to create functions triggered with time.",
+			"ja": "タイムラインを使って時間によって実行される関数を作成する",
+			"pt": "Use uma linha do tempo para criar funções acionadas com o tempo.",
+			"tr": "Zaman çizelgesi kullanarak zamanla tetiklenen fonksiyonlar yarat."
 		},
 		"liveCollaboration": {
 			"description": "Code Options > sketch > label",
@@ -597,7 +618,7 @@ OP.languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
-		}, 
+		},
 		"templateDescription_teacher": {
 			"description": "info > edit panel",
 			"en": "Will be listed in templates for both you and your students.",
@@ -925,7 +946,7 @@ OP.languageLibraryDefault = {
 		},
 		"emailBounced": {
 			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
-			"en": "We failed to send you an email using this address. Please change it to another address.",
+			"en": "We failed to send you an email using this address. Please update your email address.",
 			"ja": null,
 			"pt": null,
 			"tr": "eposta"

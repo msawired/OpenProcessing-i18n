@@ -124,6 +124,20 @@ export const languageLibraryDefault = {
 			"ja": "表示を少なくする",
 			"pt": "Mostrar Menos",
 			"tr": "Hepsini Gizle"
+		},
+		"approve": {
+			"description": "Used as a button to approve a sketch for curation, or a user for a private community/class",
+			"en": "Approve",
+			"ja": "承認する",
+			"pt": "Aprovar",
+			"tr": "Onayla"
+		},
+		"reject": {
+			"description": "Used as a button to reject a sketch for curation, or a user for a private community/class",
+			"en": "Reject",
+			"ja": "拒否する",
+			"pt": "Rejeitar",
+			"tr": "Reddet"
 		}
 	},
 	"navigation": {
@@ -597,7 +611,7 @@ export const languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
-		}, 
+		},
 		"templateDescription_teacher": {
 			"description": "info > edit panel",
 			"en": "Will be listed in templates for both you and your students.",
