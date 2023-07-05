@@ -339,6 +339,20 @@ export const languageLibraryDefault = {
 			"pt": "Escreva tutoriais passo-a-passo.",
 			"tr": "Adım adım öğretici rehberler yaz."
 		},
+		"timeline": {
+			"description": "Code Options > sketch > label",
+			"en": "Timeline (Beta)",
+			"ja": null,
+			"pt": null,
+			"tr": "Zaman Çizelgesi (Beta)"
+		},
+		"timelineDescription": {
+			"description": "Code Options > sketch > label",
+			"en": "Use a timeline to create functions triggered with time.",
+			"ja": "タイムラインを使って時間によって実行される関数を作成する",
+			"pt": "Use uma linha do tempo para criar funções acionadas com o tempo.",
+			"tr": "Zaman çizelgesi kullanarak zamanla tetiklenen fonksiyonlar yarat."
+		},
 		"liveCollaboration": {
 			"description": "Code Options > sketch > label",
 			"en": "Live Collaboration",
