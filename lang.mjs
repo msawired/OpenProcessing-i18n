@@ -118,6 +118,13 @@ export const languageLibraryDefault = {
 			"pt": "Mostras Todos",
 			"tr": "Hepsini Göster"
 		},
+		"showMore": {
+			"description": "Used as a link to expand minimized lists by increment. for example, sketch > forks panel > list",
+			"en": "Show More",
+			"ja": "表示を増やす",
+			"pt": "Mostrar Mais",
+			"tr": "Daha Fazla"
+		},
 		"showLess": {
 			"description": "Used as a link to collapse expanded lists. for example, sketch > libraries",
 			"en": "Show Less",
@@ -776,9 +783,9 @@ export const languageLibraryDefault = {
 		"noForksCreatedYet": {
 			"description": "under fork panel",
 			"en": "No forks created yet",
-			"ja": null,
+			"ja": "フォークはまだありません",
 			"pt": "Sem cópias criadas ainda",
-			"tr": "Henüz hiçbir çatal oluşturulmadı"
+			"tr": "Henüz çatal oluşturulmadı"
 		},
 		"signInToDownload": {
 			"description": "under share panel",
