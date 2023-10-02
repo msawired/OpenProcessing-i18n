@@ -186,7 +186,7 @@ export const languageLibraryDefault = {
 		"myProfile": {
 			"description": "navigation item > displayed when on a mobile device",
 			"en": "My Profile",
-			"ja": null,
+			"ja": "プロフィール",
 			"pt": "Meu Perfil",
 			"tr": "Profilim"
 		},
@@ -800,6 +800,13 @@ export const languageLibraryDefault = {
 			"ja": null,
 			"pt": "Adicionar a Curadoria",
 			"tr": "Kürasyona Ekle"
+		},
+		"instructions": {
+			"description": "under share panel",
+			"en": "Instructions",
+			"ja": null,
+			"pt": "Instruções",
+			"tr": "Yönergeler"
 		},
 		"showInstructions": {
 			"description": "under share panel",
