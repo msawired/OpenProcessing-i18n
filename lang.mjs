@@ -145,7 +145,14 @@ export const languageLibraryDefault = {
 			"ja": "拒否する",
 			"pt": "Rejeitar",
 			"tr": "Reddet"
-		}
+		},
+		'copiedToClipboard': {
+			"description": "Shown when a link is copied to clipboard via clipboard component (ie. embed code in sketch page)",
+			"en": "Copied to Clipboard!",
+			"ja": "コピーしました!",
+			"pt": "Copiado!",
+			"tr": "Kopyalandı!"
+		},
 	},
 	"navigation": {
 		"search": {
@@ -551,10 +558,10 @@ export const languageLibraryDefault = {
 		},
 		"plusPromo": {
 			"description": "code settings > promo. Displayed at the bottom if user is not a Plus+ member",
-			"en": "{0} for private sketches, version history, custom embeds, and more!",
+			"en": "{0} for private sketches, version history, 1GB space, custom embeds, and more!",
 			"ja": "{0}とカスタムライブラリの追加や非公開スケッチなど、様々な機能が追加できます！",
 			"pt": "{0} esboços privados, embeds personalizadas, e mais!",
-			"tr": "Gizli çizimler, tam ekran gömülü nesneler, ve daha fazlası için {0}"
+			"tr": "Gizli çizimler, tam ekran gömülü nesneler, 1GB alan, ve daha fazlası için {0}"
 		},
 		"forkInfo": {
 			"description": "info panel",
@@ -800,6 +807,27 @@ export const languageLibraryDefault = {
 			"ja": null,
 			"pt": "Adicionar a Curadoria",
 			"tr": "Kürasyona Ekle"
+		},
+		"embedView": {
+			"description": "under share panel > embed settings",
+			"en": "View",
+			"jp": null,
+			"pt": null,
+			"tr": "Göster"
+		},
+		"embedView-sketch": {
+			"description": "under share panel > embed settings",
+			"en": "Sketch",
+			"ja": "スケッチ",
+			"pt": "Esboço",
+			"tr": "Çizim"
+		},
+		"embedView-code": {
+			"description": "under share panel > embed settings ('code' as a noun)",
+			"en": "Code",
+			"ja": "コード",
+			"pt": "Código",
+			"tr": "Kod"
 		},
 		"instructions": {
 			"description": "under share panel",
