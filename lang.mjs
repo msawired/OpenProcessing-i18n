@@ -535,6 +535,20 @@ export const languageLibraryDefault = {
 			"pt": "Desabilitado: Disponível somente nos esboços de p5js",
 			"tr": "Devre dışı: Sadece p5js çizimler için kullanılabilir"
 		},
+		"closeBrackets": {
+			"description": "code settings > editor",
+			"en": "Close Brackets",
+			"ja": "括弧を閉じる",
+			"pt": "Fechar Parênteses",
+			"tr": "Parantezleri Kapat"
+		},
+		"closeBracketsDescription": {
+			"description": "code settings > editor",
+			"en": "Closes parenthesis-like characters automatically as you type",
+			"ja": "入力時に自動で括弧を閉じる",
+			"pt": "Fecha automaticamente parênteses conforme você digita",
+			"tr": "Yazarken parantez benzeri karakterleri otomatik kapatır"
+		},
 		"shortcuts": {
 			"description": "code settings > editor",
 			"en": "Shortcuts",
@@ -971,6 +985,13 @@ export const languageLibraryDefault = {
 			"pt": "bio",
 			"tr": "biyo"
 		},
+		"bioDescription": {
+			"description": "Displayed if user account is not mature yet",
+			"en": "You can add bio after 7 days of signing up",
+			"ja": "自己紹介はアカウント作成から7日後に追加できます",
+			"pt": "Você pode adicionar uma bio após 7 dias de inscrição",
+			"tr": "Biyografini hesap oluşturduktan 7 gün sonra ekleyebilirsin"
+		},
 		"location": {
 			"description": "Edit Profile > label",
 			"en": "location",
@@ -984,6 +1005,13 @@ export const languageLibraryDefault = {
 			"ja": "ウェブサイト",
 			"pt": "website",
 			"tr": "internet sitesi"
+		},
+		"websiteDescription":{
+			"description": "Displayed if user account is not mature yet",
+			"en": "You can add website after 7 days of signing up",
+			"ja": "ウェブサイトはアカウント作成から7日後に追加できます",
+			"pt": "Você pode adicionar um site após 7 dias de inscrição",
+			"tr": "İnternet sitesini hesap oluşturduktan 7 gün sonra ekleyebilirsin"
 		},
 		"email": {
 			"description": "Edit Profile > label",
@@ -1181,6 +1209,13 @@ export const languageLibraryDefault = {
 			"pt": "0 Aulas | 1 Aula | {n} Aulas",
 			"tr": "{n} Sınıf"
 		},
+		"mySchool": {
+			"description": "Tab",
+			"en": "My School",
+			"ja": "マイスクール",
+			"pt": "Minha Escola",
+			"tr": "Okulum"
+		},
 		"curations": {
 			"description": "Tab",
 			"en": "0 Curations | 1 Curation | {n} Curations",
@@ -1279,13 +1314,6 @@ export const languageLibraryDefault = {
 			"pt": null,
 			"tr": "Öğrenci Kapasitesi"
 		},
-		"numberOfStudents": {
-			"description": "under each class listed",
-			"en": "0 students | 1 student | {n} students",
-			"ja": null,
-			"pt": null,
-			"tr": "{n} öğrenci"
-		},
 		"editMembership": {
 			"description": "in class section",
 			"en": "Edit Membership",
@@ -1299,6 +1327,13 @@ export const languageLibraryDefault = {
 			"ja": null,
 			"pt": null,
 			"tr": "SSS"
+		},
+		"helpCenter": {
+			"description": "in class section",
+			"en": "Help Center",
+			"ja": "ヘルプセンター",
+			"pt": "Central de Ajuda",
+			"tr": "Yardım Merkezi"
 		},
 		"subscribe": {
 			"description": "in class section",
@@ -1321,6 +1356,20 @@ export const languageLibraryDefault = {
 			"pt": null,
 			"tr": "Sınıf bulunamadı."
 		},
+		"numberOfStudents": {
+			"description": "under each class listed",
+			"en": "0 Students | 1 Student | {n} Students",
+			"ja": "{n} 学生",
+			"pt": "0 Estudantes | 1 Estudante | {n} Estudantes",
+			"tr": "{n} Öğrenci"
+		},
+		"public": {
+			"description": "under each class listed, whether the class is public or private",
+			"en": "Public",
+			"ja": "公開",
+			"pt": "Público",
+			"tr": "Herkese Açık"
+		},
 		"archivedClasses": {
 			"description": "in class section",
 			"en": "Archived Classes",
@@ -1328,19 +1377,33 @@ export const languageLibraryDefault = {
 			"pt": null,
 			"tr": "Arşivlenmiş Sınıflar"
 		},
+		"archived": {
+			"description": "in class section",
+			"en": "Archived",
+			"ja": "アーカイブ済み",
+			"pt": "Arquivado",
+			"tr": "Arşivlendi"
+		},
 		"noMoreSeats": {
 			"description": "under class panel",
-			"en": "You have no more seats available. Please add seats or archive classes.",
-			"ja": null,
-			"pt": null,
-			"tr": "Hesabında öğrenci kapasiten kalmadı. Lütfen öğrenci kapasitesi ekle veya eski sınıfları arşivle."
+			"en": "No Student Seats Left",
+			"ja": "残りの学生席はありません",
+			"pt": "Não há mais vagas para estudantes",
+			"tr": "Öğrenci Kapasitesi Dolu"
+		},
+		"noMoreSeatsDescription": {
+			"description": "under class panel",
+			"en": "Please add seats or archive classes",
+			"ja": "席を追加するか、クラスをアーカイブしてください",
+			"pt": "Por favor, adicione vagas ou arquive aulas",
+			"tr": "Lütfen kapasite ekle veya sınıfları arşivle"
 		},
 		"addSeats": {
 			"description": "under class panel",
 			"en": "add seats",
 			"ja": null,
 			"pt": null,
-			"tr": "kapasite ekley"
+			"tr": "kapasite ekle"
 		},
 		"archiveClasses": {
 			"description": "under class panel",
@@ -1349,12 +1412,12 @@ export const languageLibraryDefault = {
 			"pt": null,
 			"tr": "sınıfları arşivleyin"
 		},
-		"addRemoveSeats": {
+		"addRemove":{
 			"description": "under class panel",
-			"en": "Add/Remove Seats",
-			"ja": null,
-			"pt": null,
-			"tr": "Kapasite Ekle/Çıkar"
+			"en": "Add/Remove",
+			"ja": "追加/削除",
+			"pt": "Adicionar/Remover",
+			"tr": "Ekle/Çıkar"
 		},
 		"referTeacher": {
 			"description": "under class panel. This is a link that pops up unique teacher referral code that teacher ",

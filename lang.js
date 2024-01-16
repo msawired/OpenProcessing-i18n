@@ -1231,13 +1231,6 @@ OP.languageLibraryDefault = {
 			"pt": null,
 			"tr": "Öğrenci Kapasitesi"
 		},
-		"numberOfStudents": {
-			"description": "under each class listed",
-			"en": "0 students | 1 student | {n} students",
-			"ja": null,
-			"pt": null,
-			"tr": "{n} öğrenci"
-		},
 		"editMembership": {
 			"description": "in class section",
 			"en": "Edit Membership",
