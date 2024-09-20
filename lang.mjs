@@ -978,6 +978,13 @@ export const languageLibraryDefault = {
 			"pt": "Você tem um conta de estudante restrita. Você pode navegar no OpenProcessing normalmente, mas você só poderia interagir com seus amigos de turma e professores. Seu perfil e esboços estarão visíveis apenas para amigos de turma e professores.",
 			"tr": "Kısıtlı öğrenci hesabın var. Bu hesapla OpenProcessing'i dilediğinizce gezebilir fakat sadece sınıfındaki kullanıcılarla iletişim kurabilirsin. Hesabın ve projelerin sadece sınıf öğrencileri ve öğretmenleri tarafından görülebilir."
 		},
+		"suspension_warning": {
+			"description": "displayed when user account is suspended",
+			"en": "🏴‍☠️ Your account is suspended per our Community Guidelines but you can still download your sketches. Contact info@openprocessing.org to re-activate.",
+			"ja": "🏴‍☠️ コミュニティ ガイドラインに従ってアカウントが停止されていますが、スケッチをダウンロードすることは可能です。再度アクティブ化するには、info@openprocessing.org にお問い合わせください。",
+			"pt": "🏴‍☠️ Sua conta está suspensa de acordo com nossas Diretrizes da Comunidade, mas você ainda pode baixar seus esboços. Entre em contato com info@openprocessing.org para reativá-la.",
+			"tr": "🏴‍☠️ Hesabınız Topluluk Kurallarımız uyarınca askıya alındı ​​ancak hala çizimlerinizi indirebilirsiniz. Yeniden etkinleştirmek için info@openprocessing.org ile iletişime geçin."
+		},
 		"bio": {
 			"description": "Edit Profile label",
 			"en": "bio",
