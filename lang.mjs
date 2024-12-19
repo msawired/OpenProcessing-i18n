@@ -153,6 +153,20 @@ export const languageLibraryDefault = {
 			"pt": "Copiado!",
 			"tr": "Kopyalandı!"
 		},
+		'newVersion': {
+			"description": "Shown when a new version of OpenProcessing website is available",
+			"en": "<b>OpenProcessing has a new version 🚀 </b> Please <a href='#' class='red' onclick='location.reload()'>refresh the page</a> to load the updates.",
+			"ja": "<b>OpenProcessingに新しいバージョンがあります 🚀 </b> 更新を読み込むために <a href='#' class='red' onclick='location.reload()'>ページをリフレッシュ</a> してください。",
+			"pt": "<b>OpenProcessing tem uma nova versão 🚀 </b> Por favor <a href='#' class='red' onclick='location.reload()'>atualize a página</a> para carregar as atualizações.",
+			"tr": "<b>OpenProcessing yenilendi 🚀 </b> Lütfen güncellemeleri yüklemek için <a href='#' class='red' onclick='location.reload()'>sayfayı tazeleyin</a>."
+		},
+		'newVersion-save': {
+			"description": "Shown when a new version of OpenProcessing website is available, and user has unsaved progress",
+			"en": "<b>OpenProcessing has a new version 🚀 </b> Please save any changes and <a href='#' class='red' onclick='location.reload()'> refresh the page</a> to load the updates.",
+			"ja": "<b>OpenProcessingに新しいバージョンがあります 🚀 </b> 変更を保存してください。更新を読み込むために <a href='#' class='red' onclick='location.reload()'>ページをリフレッシュ</a> してください。",
+			"pt": "<b>OpenProcessing tem uma nova versão 🚀 </b> Por favor salve quaisquer alterações e <a href='#' class='red' onclick='location.reload()'>atualize a página</a> para carregar as atualizações.",
+			"tr": "<b>OpenProcessing yenilendi 🚀 </b> Lütfen değişiklikleri kaydedin ve güncellemeleri yüklemek için <a href='#' class='red' onclick='location.reload()'>sayfayı tazeleyin</a>."
+		}
 	},
 	"navigation": {
 		"search": {
