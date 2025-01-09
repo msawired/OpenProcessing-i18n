@@ -1457,7 +1457,6 @@ export const languageLibraryDefault = {
 	},
 	"feed": {
 		"submittedSketch": {
-			"implemented": false,
 			"description": "Activity Feed > when a user submits a sketch to class or collection",
 			"en": "{user} submitted a sketch to {collection}",
 			"ja": null,
@@ -1465,9 +1464,9 @@ export const languageLibraryDefault = {
 			"tr": "{user} {collection} sınıfına bir çizim ekledi"
 		}
 	},
-	'clubs': {
-		'members': {
-			"description": "In club description",
+	"clubs": {
+		"members": {
+			"description": "In club description. Not implemented yet",
 			"en": "0 Members | 1 Member | {n} Members",
 			"ja": "{n} メンバー",
 			"pt": "0 Membros | 1 Membro | {n} Membros",
