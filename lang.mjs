@@ -104,9 +104,9 @@ export const languageLibraryDefault = {
 			"tr": "Giriş"
 		},
 		"signout": {
-			"description": "link label for sign out page",
+			"description": "link label for signing out in the navigation",
 			"en": "Sign out",
-			"es": "Cerrar Sesión",
+			"es": "Cerrar",
 			"ja": "サインアウト",
 			"pt": "Sair",
 			"tr": "Çıkış"
