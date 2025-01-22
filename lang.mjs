@@ -325,7 +325,7 @@ export const languageLibraryDefault = {
 	"sketch": {
 		"info": {
 			"description": "navigation",
-			"en": "Play",
+			"en": "Info",
 			"es": "Información",
 			"ja": "情報",
 			"pt": "Informações",
