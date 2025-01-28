@@ -419,6 +419,38 @@ export const languageLibraryDefault = {
 			"pt": "Escreva tutoriais passo-a-passo.",
 			"tr": "Adım adım öğretici rehberler yaz."
 		},
+		"deletePage_title": {
+			"description": "Title for the dialog when deleting a page from a tutorial",
+			"en": "Delete Page?",
+			"es": "Eliminar Página?",
+			"ja": "ページを削除しますか？",
+			"pt": "Excluir Página?",
+			"tr": "Sayfayı Sil?"
+		},
+		"deletePage_description": {
+			"description": "Question to ask when deleting a page from a tutorial",
+			"en": "Are you sure you want to delete this page?",
+			"es": "¿Estás seguro de que quieres eliminar esta página?",
+			"ja": "このページを削除してもよろしいですか？",
+			"pt": "Tem certeza de que deseja excluir esta página?",
+			"tr": "Bu sayfayı silmek istediğinizden emin misin?"
+		},
+		"delete": {
+			"description": "Button Label for deleting a page from a tutorial",
+			"en": "Delete",
+			"es": "Eliminar",
+			"ja": "削除",
+			"pt": "Excluir",
+			"tr": "Sil"
+		},
+		"cancel": {
+			"description": "Button Label for canceling a page deletion from a tutorial",
+			"en": "Cancel",
+			"es": "Cancelar",
+			"ja": "キャンセル",
+			"pt": "Cancelar",
+			"tr": "İptal"
+		},
 		"timeline": {
 			"description": "Code Options > sketch > label",
 			"en": "Timeline (Beta)",
