@@ -51,7 +51,7 @@ export const languageLibraryDefault = {
 			"description": "navigation - when sketch is embedded. 'Fork' as a verb, not a noun.",
 			"en": "Fork",
 			"es": "Hacer Fork",
-			"ja": null,
+			"ja": "フォークする",
 			"pt": "Copiar",
 			"tr": "Çatalla"
 		},
@@ -253,7 +253,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > profile dropdown menu",
 			"en": "View My Profile",
 			"es": "Ver Mi Perfil",
-			"ja": null,
+			"ja": "プロフィールを見る",
 			"pt": "Ver Meu Perfil",
 			"tr": "Profilim"
 		},
@@ -261,7 +261,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > guest profile dropdown menu",
 			"en": "Already have an account?",
 			"es": "¿Ya tienes una cuenta?",
-			"ja": null,
+			"ja": "アカウントをお持ちですか？",
 			"pt": "Já tem uma conta?",
 			"tr": "Hesabın varsa"
 		},
@@ -269,7 +269,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > profile dropdown footer 'Frequently Asked Questions' link",
 			"en": "FAQ",
 			"es": "P+F",
-			"ja": null,
+			"ja": "よくある質問",
 			"pt": "Dúvidas",
 			"tr": "SSS"
 		},
@@ -277,7 +277,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > profile dropdown  footer",
 			"en": "Contact",
 			"es": "Contacto",
-			"ja": null,
+			"ja": "お問い合わせ",
 			"pt": "Contato",
 			"tr": "İletişim"
 		},
@@ -285,7 +285,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > profile dropdown  footer. Used for launching support chat feature.",
 			"en": "Support",
 			"es": "Soporte",
-			"ja": null,
+			"ja": "サポート",
 			"pt": "Ajuda",
 			"tr": "Yardım"
 		},
@@ -293,7 +293,7 @@ export const languageLibraryDefault = {
 			"description": "navigation item > profile dropdown. This link is to edit Plus+ membership.",
 			"en": "Edit Plus+ Membership",
 			"es": "Editar Membresía Plus+",
-			"ja": null,
+			"ja": "Plus+メンバーシップを編集",
 			"pt": "Editar Filiação Plus+",
 			"tr": "Plus+ Üyelik Ayarları"
 		},
@@ -455,8 +455,8 @@ export const languageLibraryDefault = {
 			"description": "Code Options > sketch > label",
 			"en": "Timeline (Beta)",
 			"es": "Línea deL Tiempo (Beta)",
-			"ja": null,
-			"pt": null,
+			"ja": "タイムライン (ベータ)",
+			"pt": "Linha do Tempo (Beta)",
 			"tr": "Zaman Çizelgesi (Beta)"
 		},
 		"timelineDescription": {
@@ -607,16 +607,16 @@ export const languageLibraryDefault = {
 			"description": "code settings > editor",
 			"en": "Dark Mode",
 			"es": "Modo Obscuro",
-			"ja": null,
-			"pt": null,
+			"ja": "ダークモード",
+			"pt": "Modo Escuro",
 			"tr": "Koyu Renk Modu"
 		},
 		"darkModeDescription": {
 			"description": "code settings > editor",
 			"en": "Easy on the eyes",
 			"es": "Suave con la vista",
-			"ja": null,
-			"pt": null,
+			"ja": "目に優しい表示モード",
+			"pt": "Mais suave para os olhos",
 			"tr": "Okumayı kolaylaştırır"
 		},
 		"console": {
@@ -783,24 +783,24 @@ export const languageLibraryDefault = {
 			"description": "info > edit panel",
 			"en": "Add to My Templates",
 			"es": "Añadir a Mis Plantillas",
-			"ja": null,
-			"pt": null,
+			"ja": "テンプレートに追加",
+			"pt": "Adicionar aos Meus Modelos",
 			"tr": "Şablonlarıma Ekle"
 		},
 		"templateDescription": {
 			"description": "info > edit panel",
 			"en": "Will be listed in your templates to use on new sketches",
 			"es": "Se mostrará en tus plantillas para usar en nuevos bocetos",
-			"ja": null,
-			"pt": null,
+			"ja": "新規スケッチ作成時にテンプレートとして使用できます",
+			"pt": "Será listado em seus modelos para usar em novos esboços",
 			"tr": "Yeni çizimlerde şablon listesinden kolayca çağırabilirsin"
 		},
 		"templateDescription_teacher": {
 			"description": "info > edit panel",
 			"en": "Will be listed in templates for both you and your students.",
 			"es": "Se mostrará en las plantillas para ti y tus estudiantes.",
-			"ja": null,
-			"pt": null,
+			"ja": "あなたと生徒のテンプレートリストに表示されます",
+			"pt": "Será listado nos modelos para você e seus alunos",
 			"tr": "Senin ve öğrencilerinin şablon listesine eklenecek"
 		},
 		"whoCanSeeSketch": {
@@ -879,7 +879,7 @@ export const languageLibraryDefault = {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to change privacy settings",
 			"es": "<a href='/membership/' target='_blank'>Suscríbete a Plus+</a> para cambiar la configuración de privacidad",
-			"ja": null,
+			"ja": "<a href='/membership/' target='_blank'>Plus+に参加</a>してプライバシー設定を変更",
 			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para mudar sua configuração de privacidade",
 			"tr": "Gizlilik seçenekleri için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
@@ -895,7 +895,7 @@ export const languageLibraryDefault = {
 			"description": "info > edit panel. Displayed to non-plus members",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to hide source code",
 			"es": "<a href='/membership/' target='_blank'>Suscríbete a Plus+</a> para ocultar el código fuente",
-			"ja": null,
+			"ja": "<a href='/membership/' target='_blank'>Plus+に参加</a>してソースコードを非表示",
 			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para esconder o código fonte",
 			"tr": "Kodu gizlemek için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
@@ -935,8 +935,8 @@ export const languageLibraryDefault = {
 			"description": "info > edit panel",
 			"en": "<a href='/membership/' target='_blank'>Join Plus+</a> to share your sketch with private URL",
 			"es": "<a href='/membership/' target='_blank'>Suscríbete a Plus+</a> para compartir tu boceto con una URL privada",
-			"ja": "プライベートURLを作成するにはスケッチを保存してください。",
-			"pt": "Por favor, salve seu esboço para criar uma URL privada",
+			"ja": "<a href='/membership/' target='_blank'>Plus+に参加</a>してプライベートURLでスケッチを共有",
+			"pt": "<a href='/membership/' target='_blank'>Aderir ao Plus+</a> para compartilhar seu esboço com URL privada",
 			"tr": "Çizimini gizli adres ile paylaşmak için <a href='/membership/' target='_blank'>Plus+'a katıl</a>"
 		},
 		"deleteSketch": {
@@ -951,7 +951,7 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Fullscreen",
 			"es": "Pantalla Completa",
-			"ja": null,
+			"ja": "全画面表示",
 			"pt": "Tela cheia",
 			"tr": "Tam Ekran"
 		},
@@ -959,7 +959,7 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Share",
 			"es": "Compartir",
-			"ja": null,
+			"ja": "共有",
 			"pt": "Compartilhar",
 			"tr": "Paylaş"
 		},
@@ -1039,23 +1039,23 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Submit to Crayon",
 			"es": "Enviar a Crayon",
-			"ja": null,
-			"pt": null,
+			"ja": "Crayonに提出",
+			"pt": "Enviar para Crayon",
 			"tr": "Crayon'a Ekle"
 		},
 		"viewCrayon": {
 			"description": "under share panel. If already submitted to Crayon Codes",
 			"en": "View",
 			"es": "Ver",
-			"ja": null,
-			"pt": null,
+			"ja": "表示",
+			"pt": "Visualizar",
 			"tr": "Göz At"
 		},
 		"submitToClass": {
 			"description": "under share panel",
 			"en": "Submit to Class",
 			"es": "Enviar a Clase",
-			"ja": null,
+			"ja": "クラスに提出",
 			"pt": "Enviar para Aula",
 			"tr": "Sınıfa Ekle"
 		},
@@ -1063,7 +1063,7 @@ export const languageLibraryDefault = {
 			"description": "under comment panel",
 			"en": "Post",
 			"es": "Publicar",
-			"ja": null,
+			"ja": "投稿",
 			"pt": "Publicar",
 			"tr": "Paylaş"
 		},
@@ -1071,7 +1071,7 @@ export const languageLibraryDefault = {
 			"description": "under comment panel",
 			"en": "Cancel",
 			"es": "Cancelar",
-			"ja": null,
+			"ja": "キャンセル",
 			"pt": "Cancelar",
 			"tr": "İptal"
 		},
@@ -1079,7 +1079,7 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Attribute",
 			"es": "Atribuir",
-			"ja": null,
+			"ja": "帰属",
 			"pt": "Atribuir",
 			"tr": "Kaynak Bilgisi"
 		},
@@ -1087,7 +1087,7 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Download",
 			"es": "Descargar",
-			"ja": null,
+			"ja": "ダウンロード",
 			"pt": "Baixar",
 			"tr": "İndir"
 		},
@@ -1095,15 +1095,15 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Embed",
 			"es": "Crear Código Embebido",
-			"ja": null,
-			"pt": "Anexar",
+			"ja": "埋め込み",
+			"pt": "Incorporar",
 			"tr": "Gömülü Nesne"
 		},
 		"select": {
 			"description": "under share panel",
 			"en": "Select",
 			"es": "Seleccionar",
-			"ja": null,
+			"ja": "選択",
 			"pt": "Selecionar",
 			"tr": "Seç"
 		},
@@ -1111,7 +1111,7 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Record",
 			"es": "Grabar",
-			"ja": null,
+			"ja": "録画",
 			"pt": "Gravar",
 			"tr": "Kaydet"
 		},
@@ -1119,16 +1119,16 @@ export const languageLibraryDefault = {
 			"description": "under share panel",
 			"en": "Report Sketch",
 			"es": "Reportar Boceto",
-			"ja": null,
-			"pt": null,
+			"ja": "スケッチを報告",
+			"pt": "Denunciar Esboço",
 			"tr": "Çizimi Şikayet Et"
 		},
 		"newCommentPlaceholder": {
 			"description": "under comments panel, placeholder text used in new comment textarea",
 			"en": "What do you think?",
 			"es": "¿Qué estás pensando?",
-			"ja": null,
-			"pt": null,
+			"ja": "コメントを入力してください",
+			"pt": "O que você acha?",
 			"tr": "Ne düşünüyorsun?"
 		}
 	},
@@ -1225,9 +1225,9 @@ export const languageLibraryDefault = {
 			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
 			"en": "We failed to send you an email using this address. Please change it to another address.",
 			"es": "No pudimos enviarte un correo electrónico a esta dirección. Por favor, actualiza tu dirección de correo electrónico.",
-			"ja": null,
-			"pt": null,
-			"tr": "eposta"
+			"ja": "このメールアドレスにメールを送信できませんでした。別のアドレスに変更してください。",
+			"pt": "Não conseguimos enviar um email para este endereço. Por favor, altere para outro endereço.",
+			"tr": "Bu adrese eposta gönderemedik. Lütfen başka bir adres kullanın."
 		},
 		"password": {
 			"description": "Edit Profile > label",
@@ -1241,24 +1241,24 @@ export const languageLibraryDefault = {
 			"description": "Edit Profile > label",
 			"en": "current password",
 			"es": "contraseña actual",
-			"ja": null,
-			"pt": null,
+			"ja": "現在のパスワード",
+			"pt": "senha atual",
 			"tr": "mevcut şifre"
 		},
 		"newPassword": {
 			"description": "Edit Profile > label",
 			"en": "new password",
 			"es": "nueva contraseña",
-			"ja": null,
-			"pt": null,
+			"ja": "新しいパスワード",
+			"pt": "nova senha",
 			"tr": "yeni şifre"
 		},
 		"repeatPassword": {
 			"description": "Edit Profile > label",
 			"en": "repeat password",
 			"es": "confirmar contraseña",
-			"ja": null,
-			"pt": null,
+			"ja": "パスワードの確認",
+			"pt": "confirmar senha",
 			"tr": "yeni şifre tekrar"
 		},
 		"clickToChange": {
@@ -1353,7 +1353,7 @@ export const languageLibraryDefault = {
 			"description": "Edit Profile > label",
 			"en": "Advanced Settings",
 			"es": "Configuración Avanzada",
-			"ja": null,
+			"ja": "詳細設定",
 			"pt": "Configurações Avançadas",
 			"tr": "Karışık İşler"
 		},
@@ -1393,7 +1393,7 @@ export const languageLibraryDefault = {
 			"description": "Edit Profile > label. Displayed only to restricted student accounts.",
 			"en": "Change Avatar",
 			"es": "Cambiar Avatar",
-			"ja": null,
+			"ja": "アバターを変更",
 			"pt": "Alterar Avatar",
 			"tr": "Resmi Değiştir"
 		},
@@ -1513,64 +1513,64 @@ export const languageLibraryDefault = {
 			"description": "in curation section",
 			"en": "Create a Curation",
 			"es": "Crear Curación",
-			"ja": null,
-			"pt": null,
+			"ja": "キュレーションを作成",
+			"pt": "Criar Curadoria",
 			"tr": "Kürasyon Yarat"
 		},
 		"curationExplanation": {
 			"description": "in curation section",
 			"en": "With curations, you can collect sketches around a topic or a theme.",
 			"es": "Con curaciones, puedes recopilar bocetos sobre un tema en específico o por alguna temática.",
-			"ja": null,
-			"pt": null,
+			"ja": "キュレーションを使用して、トピックやテーマに関連するスケッチをまとめることができます。",
+			"pt": "Com curadorias, você pode coletar esboços em torno de um tópico ou tema.",
 			"tr": "Kürasyonlar sayesinde bir konu veya tema üzerine olan çizimlerini bir araya getirebilirsin."
 		},
 		"noCurationFound": {
 			"description": "in curation section",
 			"en": "No curations found.",
 			"es": "No se encontraron curaciones.",
-			"ja": null,
-			"pt": null,
+			"ja": "キュレーションが見つかりません。",
+			"pt": "Nenhuma curadoria encontrada.",
 			"tr": "Kürasyon bulunamadı."
 		},
 		"createClass": {
 			"description": "in class section",
 			"en": "Create a Class",
 			"es": "Crear Clase",
-			"ja": null,
-			"pt": null,
+			"ja": "クラスを作成",
+			"pt": "Criar Aula",
 			"tr": "Sınıf Yarat"
 		},
 		"activeStudents": {
 			"description": "in class section",
 			"en": "Active Students",
 			"es": "Estudiantes Activos",
-			"ja": null,
-			"pt": null,
+			"ja": "アクティブな生徒",
+			"pt": "Estudantes Ativos",
 			"tr": "Aktif Öğrenci"
 		},
 		"studentSeats": {
 			"description": "in class section",
 			"en": "Student Seats",
 			"es": "Cupos de Estudiantes",
-			"ja": null,
-			"pt": null,
+			"ja": "生徒数上限",
+			"pt": "Vagas para Estudantes",
 			"tr": "Öğrenci Kapasitesi"
 		},
 		"editMembership": {
 			"description": "in class section",
 			"en": "Edit Membership",
 			"es": "Editar Membresía",
-			"ja": null,
-			"pt": null,
+			"ja": "メンバーシップを編集",
+			"pt": "Editar Associação",
 			"tr": "Üyeliği Düzenle"
 		},
 		"faq": {
 			"description": "in class section",
 			"en": "FAQ",
 			"es": "P+F",
-			"ja": null,
-			"pt": null,
+			"ja": "よくある質問",
+			"pt": "Perguntas Frequentes",
 			"tr": "SSS"
 		},
 		"helpCenter": {
@@ -1585,24 +1585,24 @@ export const languageLibraryDefault = {
 			"description": "in class section",
 			"en": "Subscribe",
 			"es": "Suscribirse",
-			"ja": null,
-			"pt": null,
+			"ja": "登録する",
+			"pt": "Inscrever-se",
 			"tr": "Üye Ol"
 		},
 		"noClasses": {
 			"description": "in class section",
 			"en": "You don't have any classes.",
 			"es": "No tienes ninguna clase.",
-			"ja": null,
-			"pt": null,
+			"ja": "クラスがありません。",
+			"pt": "Você não tem nenhuma aula.",
 			"tr": "Ekli sınıfın yok."
 		},
 		"noClassesFound": {
 			"description": "in class section",
 			"en": "No classes found.",
 			"es": "No se encontraron clases.",
-			"ja": null,
-			"pt": null,
+			"ja": "クラスが見つかりません。",
+			"pt": "Nenhuma aula encontrada.",
 			"tr": "Sınıf bulunamadı."
 		},
 		"numberOfStudents": {
@@ -1657,16 +1657,16 @@ export const languageLibraryDefault = {
 			"description": "under class panel",
 			"en": "add seats",
 			"es": "añadir cupos",
-			"ja": null,
-			"pt": null,
+			"ja": "席を追加",
+			"pt": "adicionar vagas",
 			"tr": "kapasite ekle"
 		},
 		"archiveClasses": {
 			"description": "under class panel",
 			"en": "archive your classes",
 			"es": "archiva tus clases",
-			"ja": null,
-			"pt": null,
+			"ja": "クラスをアーカイブ",
+			"pt": "arquivar suas aulas",
 			"tr": "sınıfları arşivleyin"
 		},
 		"addRemove":{
@@ -1681,16 +1681,16 @@ export const languageLibraryDefault = {
 			"description": "under class panel. This is a link that pops up unique teacher referral code that teacher ",
 			"en": "Refer a Teacher",
 			"es": "Referir a un Profesor",
-			"ja": null,
-			"pt": null,
+			"ja": "教師を紹介",
+			"pt": "Indicar um Professor",
 			"tr": "Öğretmen Davet Et"
 		},
 		"noSketchesFound": {
 			"description": "under class panel",
 			"en": "No sketches found.",
 			"es": "No se encontraron bocetos.",
-			"ja": null,
-			"pt": null,
+			"ja": "スケッチが見つかりません。",
+			"pt": "Nenhum esboço encontrado.",
 			"tr": "Çizim bulunamadı."
 		}
 	},
