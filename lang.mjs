@@ -1130,7 +1130,48 @@ export const languageLibraryDefault = {
 			"ja": "コメントを入力してください",
 			"pt": "O que você acha?",
 			"tr": "Ne düşünüyorsun?"
+		},
+		'recordVideo': {
+			"description": "in sketch screenshot modal",
+			"en": "Record Video",
+			"es": "Grabar Video",
+			"ja": "ビデオを録画",
+			"pt": "Gravar Vídeo",
+			"tr": "Video Kaydet"
+		},
+		'recordVideoDuration': {
+			"description": "in sketch screenshot modal",
+			"en": "Max. {n} seconds",
+			"es": "Máx. {n} segundos",
+			"ja": "最大{n}秒",
+			"pt": "Máx. {n} segundos",
+			"tr": "En fazla {n} saniye"
+		},
+		'takeScreenshot': {
+			"description": "in sketch screenshot modal",
+			"en": "Capture Image",
+			"es": "Capturar Imagen",
+			"ja": "画像をキャプチャ",
+			"pt": "Capturar Imagem",
+			"tr": "Resim Kaydet"
+		},
+		'uploadImage': {
+			"description": "in sketch screenshot modal",
+			"en": "Upload Image",
+			"es": "Subir Imagen",
+			"ja": "画像をアップロード",
+			"pt": "Enviar Imagem",
+			"tr": "Resim Yükle"
+		},
+		'requiresMembership': {
+			"description": "in sketch screenshot modal, follows 'Join Plus+ ...' link",
+			"en": "to record video",
+			"es": "para grabar video",
+			"ja": "ビデオを録画するには",
+			"pt": "para gravar vídeo",
+			"tr": "video kaydetmek için"
 		}
+
 	},
 	"user": {
 		"name": {
