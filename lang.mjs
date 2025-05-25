@@ -947,6 +947,14 @@ export const languageLibraryDefault = {
 			"pt": "Apagar Esboço?",
 			"tr": "Çizimi Sil?"
 		},
+		"deleteSketch_description": {
+			"description": "info > edit panel > delete modal",
+			"en": "All related files will be deleted as well. No undos!",
+			"es": "Todos los archivos también se eliminarán. No hay deshacer!",
+			"ja": "関連するファイルも削除されます。元に戻せません！",
+			"pt": "Todos os arquivos também serão excluídos. Sem desfazer!",
+			"tr": "Tüm ilgili dosyalar da silinecek. Geri dönüş yok!",
+		},
 		"fullscreen": {
 			"description": "under share panel",
 			"en": "Fullscreen",
@@ -1208,11 +1216,11 @@ export const languageLibraryDefault = {
 		},
 		"suspension_warning": {
 			"description": "displayed when user account is suspended",
-			"en": "🏴‍☠️ Your account is suspended per our Community Guidelines but you can still download your sketches. Contact info@openprocessing.org to re-activate.",
-			"es": "🏴‍☠️ Tu cuenta está suspendida según nuestras Reglas de Comunidad, pero aún puedes descargar tus bocetos. Contacta a info@openprocessing.org para reactivarla.",
-			"ja": "🏴‍☠️ コミュニティ ガイドラインに従ってアカウントが停止されていますが、スケッチをダウンロードすることは可能です。再度アクティブ化するには、info@openprocessing.org にお問い合わせください。",
-			"pt": "🏴‍☠️ Sua conta está suspensa de acordo com nossas Diretrizes da Comunidade, mas você ainda pode baixar seus esboços. Entre em contato com info@openprocessing.org para reativá-la.",
-			"tr": "🏴‍☠️ Hesabınız Topluluk Kurallarımız uyarınca askıya alındı ​​ancak hala çizimlerinizi indirebilirsiniz. Yeniden etkinleştirmek için info@openprocessing.org ile iletişime geçin."
+			"en": "🏴‍☠️ Your account is suspended per our Community Guidelines. Contact info@openprocessing.org to re-activate.",
+			"es": "🏴‍☠️ Tu cuenta está suspendida según nuestras Reglas de Comunidad. Contacta a info@openprocessing.org para reactivarla.",
+			"ja": "🏴‍☠️ コミュニティ ガイドラインに従ってアカウントが停止されています。再度アクティブ化するには、info@openprocessing.org にお問い合わせください。",
+			"pt": "🏴‍☠️ Sua conta está suspensa de acordo com nossas Diretrizes da Comunidade. Entre em contato com info@openprocessing.org para reativá-la.",
+			"tr": "🏴‍☠️ Hesabınız Topluluk Kurallarımız uyarınca askıya alındı. Hesabınızı etkinleştirmek için info@openprocessing.org ile iletişime geçin."
 		},
 		"bio": {
 			"description": "Edit Profile label",
