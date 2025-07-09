@@ -1272,11 +1272,19 @@ export const languageLibraryDefault = {
 		},
 		"emailBounced": {
 			"description": "Edit Profile > a warning message displayed if user's email is not accessible or bounced",
-			"en": "We failed to send you an email using this address. Please change it to another address.",
-			"es": "No pudimos enviarte un correo electrónico a esta dirección. Por favor, actualiza tu dirección de correo electrónico.",
-			"ja": "このメールアドレスにメールを送信できませんでした。別のアドレスに変更してください。",
-			"pt": "Não conseguimos enviar um email para este endereço. Por favor, altere para outro endereço.",
+			"en": "We failed to send an email to this address. Please use another email.",
+			"es": "No pudimos enviar un correo electrónico a esta dirección. Por favor, utiliza otro correo electrónico.",
+			"ja": "このアドレスにメールを送信できませんでした。別のメールアドレスを使用してください。",
+			"pt": "Não conseguimos enviar um email para este endereço. Por favor, use outro email.",
 			"tr": "Bu adrese eposta gönderemedik. Lütfen başka bir adres kullanın."
+		},
+		"emailNotVerified": {
+			"description": "Edit Profile > warning message displayed if user's email is not verified",
+			"en": "Please <a href='/user/sendVerifyEmail' target='_blank'>verify your email</a> to enable comments and other activity.",
+			"es": "Por favor <a href='/user/sendVerifyEmail' target='_blank'>verifica tu correo electrónico</a> para habilitar comentarios y otras actividades.",
+			"ja": "コメントやその他のアクティビティを有効にするには、<a href='/user/sendVerifyEmail' target='_blank'>メールアドレスを確認</a>してください。",
+			"pt": "Por favor <a href='/user/sendVerifyEmail' target='_blank'>verifique seu email</a> para ativar comentários e outras atividades.",
+			"tr": "Yorumları ve diğer etkinlikleri etkinleştirmek için lütfen <a href='/user/sendVerifyEmail' target='_blank'>e-postanızı doğrulayın</a>."
 		},
 		"password": {
 			"description": "Edit Profile > label",
