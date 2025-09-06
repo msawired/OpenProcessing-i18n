@@ -419,6 +419,22 @@ export const languageLibraryDefault = {
 			"pt": "Escreva tutoriais passo-a-passo.",
 			"tr": "Adım adım öğretici rehberler yaz."
 		},
+		"singleTutorialCode": {
+			"description": "Code Options > sketch > label",
+			"en": "Single Tutorial Code",
+			"es": "Código único del tutorial",
+			"ja": "単一のチュートリアルコード",
+			"pt": "Código único do tutorial",
+			"tr": "Tek Rehber Kodu"
+		},
+		"singleTutorialCodeDescription": {
+			"description": "Code Options > sketch > label",
+			"en": "All tutorial pages share a single code.",
+			"es": "Todas las páginas del tutorial comparten un único código.",
+			"ja": "すべてのチュートリアルページで同じコードを共有します。",
+			"pt": "Todas as páginas do tutorial compartilham um único código.",
+			"tr": "Tüm rehber sayfaları tek bir kodu paylaşır."
+		},
 		"deletePage_title": {
 			"description": "Title for the dialog when deleting a page from a tutorial",
 			"en": "Delete Page?",
