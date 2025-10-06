@@ -517,19 +517,27 @@ export const languageLibraryDefault = {
 		},
 		"liveCollaborationDescription-shareURL": {
 			"description": "Shows when enabled",
-			"en": "Share the URL with your class to code together.",
-			"es": "Comparte la URL con tu clase para programar juntos.",
-			"ja": "共同作業のためにクラスにURLをシェアしましょう",
-			"pt": "Compartilhe a URL da sua aula com o código junto.",
-			"tr": "Sınıfınla beraber kodlamak için adresi paylaş."
+			"en": "Share the URL with others to code together.",
+			"es": "Comparte la URL con otros para programar juntos.",
+			"ja": "一緒にコーディングするためにURLを共有しましょう。",
+			"pt": "Compartilhe a URL com outras pessoas para programarem juntos.",
+			"tr": "Birlikte kodlamak için URL’yi başkalarıyla paylaşın."
 		},
 		"liveCollaborationDescription-default": {
 			"description": "Shows when it can be enabled",
-			"en": "Invite your class to code together.",
-			"es": "Invita a tu clase a programar juntos.",
-			"ja": "共同作業のためにクラスに招待しましょう",
-			"pt": "Convide sua turma para programar juntos.",
-			"tr": "Beraber kodlamak için sınıfını davet et."
+			"en": "Invite others to code together.",
+			"es": "Invita a otros para programar juntos.",
+			"ja": "一緒にコーディングするために他の人と招待しましょう",
+			"pt": "Convide outras pessoas para programar juntos.",
+			"tr": "Beraber kodlamak için diğerlerini davet et."
+		},
+		"liveCollaborationDescription-nonMember": {
+			"description": "Shows when it can be enabled",
+			"en": "<a href='/membership'>Join Plus+</a> to code together live.",
+			"es": "Únete a <a href='/membership'>Plus+</a> para codificar juntos en vivo.",
+			"ja": "ライブで一緒にコーディングするには <a href='/membership'>Plus+</a> に参加してください。",
+			"pt": "Junte-se ao <a href='/membership'>Plus+</a> para programar ao vivo juntos.",
+			"tr": "Canlı kodlama için <a href='/membership'>Plus+</a>'a katılın."
 		},
 		"showcaseSketch": {
 			"description": "Code Options > sketch",
@@ -674,6 +682,22 @@ export const languageLibraryDefault = {
 			"ja": "p5jsのみ使用できます",
 			"pt": "Desabilitado: Disponível somente nos esboços de p5js",
 			"tr": "Devre dışı: Sadece p5js çizimler için kullanılabilir"
+		},
+		"autocomplete": {
+			"description": "code settings > editor",
+			"en": "Autocomplete",
+			"es": "Autocompletar",
+			"ja": "自動補完",
+			"pt": "Autocompletar",
+			"tr": "Otomatik Tamamlama"
+		},
+		"autocompleteDescription": {
+			"description": "code settings > editor",
+			"en": "Autocomplete suggestions will be displayed as you type.",
+			"es": "Se mostrarán sugerencias de autocompletar mientras escribes",
+			"ja": "入力時に自動補完を表示する",
+			"pt": "Sugestões de autocompletar serão exibidas conforme você digita",
+			"tr": "Kod yazarken otomatik tamamlama önerileri altı çizilir"
 		},
 		"closeBrackets": {
 			"description": "code settings > editor",
@@ -1154,6 +1178,14 @@ export const languageLibraryDefault = {
 			"ja": "コメントを入力してください",
 			"pt": "O que você acha?",
 			"tr": "Ne düşünüyorsun?"
+		},
+		"displayingComments": {
+			"description": "in comments panel, shown when inline comments for a specific code line are displayed",
+			"en": "Comments on line {n}",
+			"es": "Comentarios en la línea {n}",
+			"ja": "行 {n} のコメント",
+			"pt": "Comentários na linha {n}",
+			"tr": "Satır {n} üzerindeki yorumlar"
 		},
 		'recordVideo': {
 			"description": "in sketch screenshot modal",
