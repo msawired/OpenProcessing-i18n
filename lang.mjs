@@ -355,6 +355,14 @@ export const languageLibraryDefault = {
 			"pt": "Esboço",
 			"tr": "Çizim"
 		},
+		"tutorial": {
+			"description": "mobile navigation on tutorials",
+			"en": "Tutorial",
+			"es": "Tutorial",
+			"ja": "チュートリアル",
+			"pt": "Tutorial",
+			"tr": "Eğitsel"
+		},
 		"files": {
 			"description": "Code Options > tab",
 			"en": "Files",
@@ -714,6 +722,22 @@ export const languageLibraryDefault = {
 			"ja": "入力時に自動で括弧を閉じる",
 			"pt": "Fecha automaticamente parênteses conforme você digita",
 			"tr": "Yazarken parantez benzeri karakterleri otomatik kapatır"
+		},
+		"ligatures": {
+			"description": "code settings > editor",
+			"en": "Ligatures",
+			"es": "Ligaduras",
+			"ja": "連接符号",
+			"pt": "Ligaduras",
+			"tr": "Bağlaşık Karakterler"
+		},
+		"ligaturesDescription": {
+			"description": "code settings > editor",
+			"en": "Use <a href='https://github.com/tonsky/FiraCode?tab=readme-ov-file#whats-in-the-box' target='_blank'>ligatures</a> to make your code more readable",
+			"es": "Usa <a href='https://github.com/tonsky/FiraCode?tab=readme-ov-file#whats-in-the-box' target='_blank'>ligaduras</a> para hacer tu código más legible",
+			"ja": "連接符号を使用してコードをより読みやすくする",
+			"pt": "Use <a href='https://github.com/tonsky/FiraCode?tab=readme-ov-file#whats-in-the-box' target='_blank'>ligaduras</a> para tornar seu código mais legível",
+			"tr": "<a href='https://github.com/tonsky/FiraCode?tab=readme-ov-file#whats-in-the-box' target='_blank'>Bağlaşık karakterleri</a> kullanarak kodunuzu daha okunaklı hale getirin"
 		},
 		"shortcuts": {
 			"description": "code settings > editor",
