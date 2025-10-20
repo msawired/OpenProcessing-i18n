@@ -347,6 +347,14 @@ export const languageLibraryDefault = {
 			"pt": "Codificar",
 			"tr": "Programla"
 		},
+		"learn": {
+			"description": "mobile navigation on tutorials",
+			"en": "Learn",
+			"es": "Aprender",
+			"ja": "学ぶ",
+			"pt": "Aprender",
+			"tr": "Öğren"
+		},
 		"sketch": {
 			"description": "Code Options > tab",
 			"en": "Sketch",
@@ -354,14 +362,6 @@ export const languageLibraryDefault = {
 			"ja": "スケッチ",
 			"pt": "Esboço",
 			"tr": "Çizim"
-		},
-		"tutorial": {
-			"description": "mobile navigation on tutorials",
-			"en": "Tutorial",
-			"es": "Tutorial",
-			"ja": "チュートリアル",
-			"pt": "Tutorial",
-			"tr": "Eğitsel"
 		},
 		"files": {
 			"description": "Code Options > tab",
@@ -1250,8 +1250,64 @@ export const languageLibraryDefault = {
 			"ja": "ビデオを録画するには",
 			"pt": "para gravar vídeo",
 			"tr": "video kaydetmek için"
+		},
+		"findReplace_find": {
+			"description": "in search panel; press Cmd+f (Ctrl+f in PC) to open in code editor",
+			"en": "Find",
+			"es": "Buscar",
+			"ja": "検索",
+			"pt": "Pesquisar",
+			"tr": "Bul"
+		},
+		"findReplace_replace": {
+			"en": "Replace",
+			"es": "Reemplazar",
+			"ja": "置換",
+			"pt": "Substituir",
+			"tr": "Değiştir"
+		},
+		"findReplace_nextMatch": {
+			"en": "Next Match",
+			"es": "Siguiente Coincidencia",
+			"ja": "次の一致",
+			"pt": "Próxima correspondência",
+			"tr": "Sonraki"
+		},
+		"findReplace_previousMatch": {
+			"en": "Previous Match",
+			"es": "Coincidencia Anterior",
+			"ja": "前の一致",
+			"pt": "Correspondência anterior",
+			"tr": "Önceki"
+		},
+		"findReplace_replaceAll": {
+			"en": "Replace All",
+			"es": "Reemplazar Todas",
+			"ja": "すべて置換",
+			"pt": "Substituir Tudo",
+			"tr": "Tümünü Değiştir"
+		},
+		"findReplace_matchCase": {
+			"en": "Match Case",
+			"es": "Coincidir Mayúsculas y Minúsculas",
+			"ja": "大文字小文字を区別",
+			"pt": "Coincidir Maiúsculas e Minúsculas",
+			"tr": "Büyük Küçük Harf Eşleştir"
+		},
+		"findReplace_wholeWord": {
+			"en": "Whole Word",
+			"es": "Palabra Entera",
+			"ja": "単語全体",
+			"pt": "Palavra Inteira",
+			"tr": "Tam Kelime"
+		},
+		"findReplace_options": {
+			"en": "Options",
+			"es": "Opciones",
+			"ja": "オプション",
+			"pt": "Opções",
+			"tr": "Seçenekler"
 		}
-
 	},
 	"user": {
 		"name": {
@@ -1326,7 +1382,7 @@ export const languageLibraryDefault = {
 			"pt": "website",
 			"tr": "internet sitesi"
 		},
-		"websiteDescription":{
+		"websiteDescription": {
 			"description": "Displayed if user account is not mature yet",
 			"en": "You can add website after 7 days of signing up",
 			"es": "Puedes añadir un sitio web después de 7 días de inscripción",
@@ -1798,7 +1854,7 @@ export const languageLibraryDefault = {
 			"pt": "arquivar suas aulas",
 			"tr": "sınıfları arşivleyin"
 		},
-		"addRemove":{
+		"addRemove": {
 			"description": "under class panel",
 			"en": "Add/Remove",
 			"es": "Modificar Cupos",
