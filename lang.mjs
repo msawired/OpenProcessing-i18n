@@ -95,6 +95,14 @@ export const languageLibraryDefault = {
 			"pt": "Enviar",
 			"tr": "Kaydet"
 		},
+		"goBack": {
+			"description": "link label for going back (ie. dismissing a modal)",
+			"en": "Go Back",
+			"es": "Volver",
+			"ja": "戻る",
+			"pt": "Voltar",
+			"tr": "Geri"
+		},
 		"signin": {
 			"description": "link label for sign in page",
 			"en": "Sign in",
