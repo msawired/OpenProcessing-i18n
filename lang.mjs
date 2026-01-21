@@ -549,11 +549,11 @@ export const languageLibraryDefault = {
 		},
 		"liveCollaborationDescription-nonMember": {
 			"description": "Shows when it can be enabled",
-			"en": "<a href='/membership'>Join Plus+</a> to code together live.",
-			"es": "Únete a <a href='/membership'>Plus+</a> para codificar juntos en vivo.",
-			"ja": "ライブで一緒にコーディングするには <a href='/membership'>Plus+</a> に参加してください。",
-			"pt": "Junte-se ao <a href='/membership'>Plus+</a> para programar ao vivo juntos.",
-			"tr": "Canlı kodlama için <a href='/membership'>Plus+</a>'a katılın."
+			"en": "<a data-umami-event='plusPromo-liveCollaboration' href='/membership'>Join Plus+</a> to code together live.",
+			"es": "Únete a <a data-umami-event='plusPromo-liveCollaboration' href='/membership'>Plus+</a> para codificar juntos en vivo.",
+			"ja": "ライブで一緒にコーディングするには <a data-umami-event='plusPromo-liveCollaboration' href='/membership'>Plus+</a> に参加してください。",
+			"pt": "Junte-se ao <a data-umami-event='plusPromo-liveCollaboration' href='/membership'>Plus+</a> para programar ao vivo juntos.",
+			"tr": "Canlı kodlama için <a data-umami-event='plusPromo-liveCollaboration' href='/membership'>Plus+</a>'a katılın."
 		},
 		"showcaseSketch": {
 			"description": "Code Options > sketch",
@@ -674,6 +674,22 @@ export const languageLibraryDefault = {
 			"ja": "コード中のエラーやprint()を表示する",
 			"pt": "Será exibido quando houver um erro ou print() no código",
 			"tr": "Bir hata oluştuğunda veya print() kullanıldığında gözükür"
+		},
+		"ruler": {
+			"description": "code settings > editor",
+			"en": "Ruler",
+			"es": "Regla",
+			"ja": "ルーラー",
+			"pt": "Régua",
+			"tr": "Cetvel"
+		},
+		"rulerDescription": {
+			"description": "code settings > editor",
+			"en": "Display a pixel ruler for sketch positioning",
+			"es": "Muestra una regla de píxeles para posicionar el boceto",
+			"ja": "スケッチの配置のためのピクセルルーラーを表示",
+			"pt": "Exibe uma régua de pixels para posicionar o esboço",
+			"tr": "Çizim konumlandırma için piksel cetveli"
 		},
 		"linting": {
 			"description": "code settings > editor",
