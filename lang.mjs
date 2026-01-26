@@ -183,6 +183,14 @@ export const languageLibraryDefault = {
 			"pt": "Copiado!",
 			"tr": "Kopyalandı!"
 		},
+		"settings": {
+			"description": "Used in sketch/user settings labels",
+			"en": "Settings",
+			"es": "Configuración",
+			"ja": "設定",
+			"pt": "Configuração",
+			"tr": "Ayarlar"
+		},
 		'newVersion': {
 			"description": "Shown when a new version of OpenProcessing website is available",
 			"en": "<b>OpenProcessing has a new version 🚀 </b> Please <a href='#' class='red' onclick='location.reload()'>refresh the page</a> to load the updates.",
@@ -642,6 +650,14 @@ export const languageLibraryDefault = {
 			"ja": "デフォルトのレイアウト",
 			"pt": "Este será a visualização padrão para seus esboços",
 			"tr": "Varsayılan şekil bu olacak"
+		},
+		"switchLayout": {
+			"description": "Used in tooltip for switching page layout",
+			"en": "Switch Layout",
+			"es": "Cambiar Diseño",
+			"ja": "レイアウトを切り替える",
+			"pt": "Mudar Layout",
+			"tr": "Sayfa Düzeni"
 		},
 		"darkMode": {
 			"description": "code settings > editor",
