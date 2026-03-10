@@ -1542,6 +1542,38 @@ export const languageLibraryDefault = {
 			"pt": "suporte multi-idiomas",
 			"tr": "dil desteği"
 		},
+		"apiTokens": {
+			"description": "Edit Profile > API token section label",
+			"en": "API TOKENS",
+			"es": "TOKENS DE API",
+			"ja": "APIトークン",
+			"pt": "TOKENS DE API",
+			"tr": "API TOKENLARI"
+		},
+		"apiTokensDescription": {
+			"description": "Edit Profile > API token section description",
+			"en": "Create tokens to access <a href='/api' target='_blank'>OpenProcessing API</a>",
+			"es": "Crea tokens para acceder a la <a href='/api' target='_blank'>API de OpenProcessing</a>",
+			"ja": "<a href='/api' target='_blank'>OpenProcessing API</a> にアクセスするためのトークンを作成します",
+			"pt": "Crie tokens para acessar a <a href='/api' target='_blank'>API do OpenProcessing</a>",
+			"tr": "<a href='/api' target='_blank'>OpenProcessing API</a> erişimi için token oluşturun"
+		},
+		"apiTokensPlusRequired": {
+			"description": "Edit Profile > API token create step copy when user is not Plus member",
+			"en": "With a <a href='/membership'>Plus+ membership</a>, you can set additional permissions below for this token.",
+			"es": "Con una <a href='/membership'>membresía Plus+</a>, puedes configurar permisos adicionales para este token.",
+			"ja": "<a href='/membership'>Plus+ メンバーシップ</a>で、このトークンに追加の権限を設定できます。",
+			"pt": "Com uma <a href='/membership'>assinatura Plus+</a>, você pode definir permissões adicionais para este token.",
+			"tr": "<a href='/membership'>Plus+ üyeliği</a> ile bu token için ek izinler ayarlayabilirsiniz."
+		},
+		"apiTokensCreatePermissionsIntro": {
+			"description": "Edit Profile > API token create step copy when user is Plus member",
+			"en": "You can set additional permissions below for this token:",
+			"es": "Puedes configurar permisos adicionales para este token:",
+			"ja": "このトークンに追加の権限を設定できます：",
+			"pt": "Você pode definir permissões adicionais para este token:",
+			"tr": "Bu token için aşağıdan ek izinler ayarlayabilirsiniz:"
+		},
 		"membership": {
 			"description": "Edit Profile > label",
 			"en": "{membershipType} membership",
