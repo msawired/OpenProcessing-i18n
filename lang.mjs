@@ -1067,6 +1067,14 @@ export const languageLibraryDefault = {
 			"pt": "Tela cheia",
 			"tr": "Tam Ekran"
 		},
+		"exitFullscreen": {
+			"description": "displayed in code tab bar when in fullscreen mode",
+			"en": "Exit Fullscreen",
+			"es": "Salir de Pantalla Completa",
+			"ja": "全画面表示を終了",
+			"pt": "Sair da Tela Cheia",
+			"tr": "Tam Ekranı Kapat"
+		},
 		"share": {
 			"description": "under share panel",
 			"en": "Share",
@@ -1493,6 +1501,86 @@ export const languageLibraryDefault = {
 			"ja": "クリックして変更",
 			"pt": "Clique para Mudar",
 			"tr": "Değiştirmek için tıkla"
+		},
+		"claimUsername": {
+			"description": "Edit Profile > modal title for claiming a username",
+			"en": "Claim Your Username",
+			"es": "Reclama tu nombre de usuario",
+			"ja": "ユーザー名を設定",
+			"pt": "Reivindique seu nome de usuário",
+			"tr": "Kullanıcı adını seç"
+		},
+		"claimYourUsername": {
+			"description": "Edit Profile > link label (mirrors 'Click to Change') to open the username claim modal",
+			"en": "Claim Your Username",
+			"es": "Reclama tu nombre de usuario",
+			"ja": "ユーザー名を設定",
+			"pt": "Reivindique seu nome de usuário",
+			"tr": "Kullanıcı adını seç"
+		},
+		"claimUsernameIntro": {
+			"description": "Claim username modal > intro text",
+			"en": "Choose your username below:",
+			"es": "Elige tu nombre de usuario a continuación:",
+			"ja": "下にユーザー名を選択してください:",
+			"pt": "Escolha seu nome de usuário abaixo:",
+			"tr": "Kullanıcı adını aşağıda seçin:"
+		},
+		"usernameHelp": {
+			"description": "Edit profile > username help text explaining allowed characters",
+			"en": "Only letters, digits, - or _",
+			"es": "Solo letras, dígitos, - o _",
+			"ja": "英数字、- または _",
+			"pt": "Use apenas letras, dígitos, - ou _",
+			"tr": "Sadece harf, rakam, - veya _"
+		},
+		"usernameChangeAvailableOn": {
+			"description": "Edit profile > username help text to show the next date a username change is available",
+			"en": "You can change your username after {date}.",
+			"es": "Puedes cambiar tu nombre de usuario después de {date}.",
+			"ja": "{date} 以降にユーザー名を変更できます。",
+			"pt": "Você pode alterar seu nome de usuário após {date}.",
+			"tr": "Kullanıcı adını {date} tarihinden sonra değiştirebilirsin."
+		},
+		"usernameChangeWithRedirect": {
+			"description": "Edit profile > username description when change is currently available",
+			"en": "You can change it once a year. Old URLs will redirect to the new one.",
+			"es": "Puedes cambiarlo una vez al año. Las URLs antiguas redirigirán a la nueva.",
+			"ja": "ユーザー名は年に1回変更できます。古いURLは新しいURLにリダイレクトされます。",
+			"pt": "Você pode alterar uma vez por ano. URLs antigas irão redirecionar para a nova.",
+			"tr": "Yılda bir kez değiştirebilirsin. Eski URL'ler yeni olana yönlendirilir."
+		},
+		"profileURLPreview": {
+			"description": "Claim username modal > preview label for new profile URL",
+			"en": "Your new profile URL:",
+			"es": "Tu nueva URL de perfil:",
+			"ja": "新しいプロフィールURL:",
+			"pt": "Sua nova URL de perfil:",
+			"tr": "Yeni profil adresin:"
+		},
+		"sketchURLPreview": {
+			"description": "Claim username modal > preview label for new sketch URL",
+			"en": "Your sketch URLs:",
+			"es": "Tus URLs de bocetos:",
+			"ja": "スケッチのURL:",
+			"pt": "Suas URLs de esboços:",
+			"tr": "Çizim adreslerin:"
+		},
+		"claimUsernameWarning": {
+			"description": "Claim username modal > warning about permanence",
+			"en": "<p>Your old profile and sketch URLs will still work and redirect to the new URLs above.</p><p>You can change your username only once a year so choose it wisely 😃</p>",
+			"es": "<p>Tus URLs de perfil y bocetos seguirán funcionando y redirigirán a las nuevas URLs de arriba.</p><p>Solo puedes cambiar tu nombre de usuario una vez al año, así que elígelo sabiamente 😃</p>",
+			"ja": "<p>以前のプロフィールURLとスケッチURLは引き続き動作し、上記の新しいURLにリダイレクトされます。</p><p>ユーザー名は年に1回しか変更できないので慎重に選んでください 😃</p>",
+			"pt": "<p>Suas URLs de perfil e esboços continuarão funcionando e redirecionando para as novas URLs acima.</p><p>Você só pode mudar seu nome de usuário uma vez por ano, então escolha com sabedoria 😃</p>",
+			"tr": "<p>Eski profil ve çizim adreslerin çalışmaya devam edecek ve yukarıdaki yeni adrese yönlendirilecek.</p><p>Kullanıcı adını yılda bir kez değiştirebilirsin, o yüzden dikkatli seç 😃</p>"
+		},
+		"claimUsernameButton": {
+			"description": "Claim username modal > submit button label",
+			"en": "Claim Username",
+			"es": "Reclamar nombre de usuario",
+			"ja": "ユーザー名を設定",
+			"pt": "Reivindicar nome de usuário",
+			"tr": "Kullanıcı Adını Seç"
 		},
 		"backgroundSketch": {
 			"description": "Edit Profile > label",
