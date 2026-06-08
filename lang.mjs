@@ -627,6 +627,14 @@ export const languageLibraryDefault = {
 			"pt": "Salve ou bifurque seu esboço para enviar arquivos.",
 			"tr": "Dosya yüklemek için önce çizimi kaydedin ya da çatallayın."
 		},
+		"uploadQRDescription": {
+			"description": "code settings > files > QR upload box (allows <br/> for line break)",
+			"en": "Scan with Your Phone<br/>to Airdrop a Photo or File",
+			"es": "Escanea con tu teléfono<br/>para enviar una foto o archivo",
+			"ja": "スマホでスキャンして<br/>写真やファイルを送信",
+			"pt": "Escaneie com seu celular<br/>para enviar uma foto ou arquivo",
+			"tr": "Telefonunuzla tarayın<br/>fotoğraf veya dosya gönderin"
+		},
 		"textSize": {
 			"description": "code settings > editor",
 			"en": "Text Size",
