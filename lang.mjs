@@ -629,7 +629,7 @@ export const languageLibraryDefault = {
 		},
 		"uploadQRDescription": {
 			"description": "code settings > files > QR upload box (allows <br/> for line break)",
-			"en": "Scan with Your Phone<br/>to Airdrop a Photo or File",
+			"en": "Scan with Your Phone<br/>to Upload Photos or Files",
 			"es": "Escanea con tu teléfono<br/>para enviar una foto o archivo",
 			"ja": "スマホでスキャンして<br/>写真やファイルを送信",
 			"pt": "Escaneie com seu celular<br/>para enviar uma foto ou arquivo",
@@ -915,12 +915,36 @@ export const languageLibraryDefault = {
 			"pt": "Será listado nos modelos para você e seus alunos",
 			"tr": "Senin ve öğrencilerinin şablon listesine eklenecek"
 		},
+		"createdOn": {
+			"description": "info > edit panel",
+			"en": "Created on",
+			"es": "Creado el",
+			"ja": "作成日",
+			"pt": "Criado em",
+			"tr": "Oluşturulma Tarihi"
+		},
+		"updatedOn": {
+			"description": "info > edit panel",
+			"en": "Updated on",
+			"es": "Actualizado el",
+			"ja": "更新日",
+			"pt": "Atualizado em",
+			"tr": "Güncellenme Tarihi"
+		},
+		"submittedTo": {
+			"description": "info > edit panel",
+			"en": "Submitted To",
+			"es": "Enviado a",
+			"ja": "提出先",
+			"pt": "Enviado para",
+			"tr": "Kürasyon ve Sınıflar"
+		},
 		"whoCanSeeSketch": {
 			"description": "info > edit panel",
-			"en": "Who can see your sketch?",
-			"es": "¿Quién puede ver tu boceto?",
-			"ja": "誰がこのスケッチを見ることができますか？",
-			"pt": "Quem pode ver seu esboço?",
+			"en": "Who can see the sketch?",
+			"es": "¿Quién puede ver el boceto?",
+			"ja": "誰がそのスケッチを見ることができますか？",
+			"pt": "Quem pode ver o esboço?",
 			"tr": "Çizimi kim görebilir?"
 		},
 		"whoCanSeeCode": {
